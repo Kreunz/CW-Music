@@ -1,0 +1,396 @@
+
+# MAIN THEME
+music = {
+	name = "maintheme"
+	file = "hoi4mainthemeallies.ogg"
+	volume = 0.65
+}
+
+#west
+music = {
+	name = "The September - See You in September"
+	file = "generic/west/See You in September.ogg"
+	volume = 0.65
+}
+# General Peace:
+music = {
+	name = "New Order"
+	file = "generic/peace/New Order.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Last of Us"
+	file = "generic/peace/Last of Us.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Elegy"
+	file = "generic/peace/Elegy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Forgotten Memories"
+	file = "generic/peace/Forgotten Memories.ogg"
+	volume = 0.65
+}
+music = {
+	name = "MEO"
+	file = "generic/peace/MEO.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Beacon"
+	file = "generic/peace/beacon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Saved By Choppers"
+	file = "generic/peace/Saved By Choppers.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Float"
+	file = "generic/peace/Float.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ritchie Blackmore -  Weiss Heim"
+	file = "generic/peace/Ritchie Blackmore -  Weiss Heim.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Waveform"
+	file = "generic/peace/Waveform.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Voices Through Lights"
+	file = "generic/peace/Voices Through Lights.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tu Me Manqueras"
+	file = "generic/peace/Tu Me Manqueras.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Broken Flower"
+	file = "generic/peace/Broken Flower.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sacrifice"
+	file = "generic/peace/Sacrifice.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Nicole"
+	file = "generic/peace/Nicole.ogg"
+	volume = 0.65
+}
+music = {
+	name = "After the Storm"
+	file = "generic/peace/After the Storm.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Waveform"
+	file = "generic/peace/Waveform.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Waveform"
+	file = "generic/peace/Waveform.ogg"
+	volume = 0.65
+}
+
+# General war:
+music = {
+	name = "When It All Falls Down"
+	file = "generic/war/Audiomachine - When It All Falls Down.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Suspense"
+	file = "generic/war/Suspense.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Everything Ends Here"
+	file = "generic/war/Everything Ends Here.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Nuclear Bomb"
+	file = "generic/war/East vs West - Defcon 1-Nuclear Bomb.ogg"
+	volume = 0.65
+}
+music = {
+	name = "In The House In A Heartbeat"
+	file = "generic/war/In The House, In A Heartbeat.ogg"
+	volume = 0.65
+}
+
+
+#Asia:
+music = {
+	name = "Orient"
+	file = "generic/peace/asia/Orient.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Water Vapour"
+	file = "generic/peace/asia/Water Vapour.ogg"
+	volume = 0.65
+}
+#USA:
+music = {
+	name = "Vaughn Monroe - Riders In The Sky"
+	file = "countries/USA/Vaughn Monroe - Riders In The Sky.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Star Spangled Banner"
+	file = "countries/USA/Star Spangled Banner.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Johnny Guitar"
+	file = "countries/USA/Johnny Guitar.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ain't I Right"
+	file = "countries/USA/Ain't I Right.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bill Haley & His Comets Rock Around the Clock"
+	file = "countries/USA/Bill Haley & His Comets Rock Around the Clock.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Mamas and Papas - California Dreaming"
+	file = "countries/USA/California Dreamin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Chuck Berry - Johnny B. Goode"
+	file = "countries/USA/Chuck Berry - Johnny B. Goode.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Napalm Sticks to Kids"
+	file = "countries/USA/Napalm Sticks to Kids.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Elvis Presley - Don't be cruel"
+	file = "countries/USA/Don't be cruel-Elvis Presley.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Eve Of Destruction"
+	file = "countries/USA/Eve Of Destruction.ogg"
+	volume = 0.65
+}
+#wgr
+music = {
+	name = "Nena - 99 Luftballons"
+	file = "countries/WGR/Nena - 99 Luftballons.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Es Hängt Ein Pferdehalfter An Der Wand"
+	file = "countries/WGR/Es Hängt Ein Pferdehalfter An Der Wand.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Keine Angst vor grossen Tieren"
+	file = "countries/WGR/Keine Angst vor grossen Tieren.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Deutschlandlied"
+	file = "countries/WGR/Deutschlandlied.ogg"
+	volume = 0.65
+}
+#DDR
+music = {
+	name = "Augen gradeaus"
+	file = "countries/ddr/Augen gradeaus!.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Die Internationale"
+	file = "countries/ddr/Die Internationale.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Wir schützen die Sowjetunion"
+	file = "countries/ddr/Wir schützen die Sowjetunion.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Der kleine Trompeter"
+	file = "countries/ddr/Der kleine Trompeter.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Ernst Busch - Ami go home"
+	file = "countries/ddr/Ernst Busch - Ami go home.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Kundschafterlied"
+	file = "countries/ddr/Kundschafterlied.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Der Dresdener Automobilclub"
+	file = "countries/ddr/Der Dresdener Automobilclub.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Der heimliche Aufmarsch"
+	file = "countries/ddr/Der heimliche Aufmarsch.ogg"
+	volume = 0.75
+}
+music = {
+	name = "Das Banner von Marx und Lenin"
+	file = "countries/ddr/Das Banner von Marx und Lenin.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Monika"
+	file = "countries/ddr/Monika.ogg"
+	volume = 0.75
+}
+
+music = {
+	name = "Aviamarch"
+	file = "countries/ddr/Aviamarch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Oktobersong"
+	file = "countries/ddr/Aviamarch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Oktoberklub - Was wollen wir trinken"
+	file = "countries/ddr/Was wollen wir trinken.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Wir sind Freunde für immer"
+	file = "countries/ddr/Wir sind Freunde fur immer.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Arbeiter von Wien"
+	file = "countries/ddr/Arbeiter von Wien.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Der offene Aufmarsch"
+	file = "countries/ddr/Der offene Aufmarsch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Dippen Marsch"
+	file = "countries/ddr/Dippen Marsch.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Unsere Panzerdivision"
+	file = "countries/ddr/Unsere Panzerdivision.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Auferstanden aus Ruinen"
+	file = "countries/ddr/Auferstanden aus Ruinen.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Vorwärts, Freie Deutsche Jugend"
+	file = "countries/ddr/Vorwarts Freie Deutsche Jugend.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Das Lied vom Vaterland"
+	file = "countries/ddr/Das Lied vom Vaterland.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Kämpfen wie Thälmann"
+	file = "countries/ddr/Kampfen wie Thalmann.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Krupp und Krause"
+	file = "countries/ddr/Krupp und Krause.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Unsere Heimat"
+	file = "countries/ddr/Unsere Heimat.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Katjuscha"
+	file = "countries/ddr/Katjuscha.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Einheitsfrontlied"
+	file = "countries/ddr/Einheitsfrontlied.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Grün ist meine Waffenfarbe"
+	file = "countries/ddr/Grun ist meine Waffenfarbe.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Unterwegs"
+	file = "countries/ddr/Unterwegs.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "City - Am Fenster"
+	file = "countries/ddr/City - Am Fenster.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Guten Abend Carolina -Theo Schumann Combo"
+	file = "countries/ddr/Guten Abend Carolina -Theo Schumann Combo.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Spartakus in Berlin"
+	file = "countries/ddr/Spartakus in Berlin.ogg"
+	volume = 0.65
+}
+

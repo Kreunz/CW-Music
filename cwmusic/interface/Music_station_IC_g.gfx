@@ -1,0 +1,8 @@
+spriteTypes = {
+
+spriteType = {
+		name = "GFX_ic_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//ic_music_album_art.dds"
+	}
+	
+}

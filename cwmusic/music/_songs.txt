@@ -1,0 +1,1603 @@
+
+music_station = "ic_music"
+
+music = {
+	song = "maintheme"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+#West
+music = {
+	song = "The September - See You in September"
+	
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1966.1.1
+				date < 1980.1.1
+				has_government = conservative
+				has_government = Liberal_Conservatism
+				has_government = Christian_Democratic 
+				has_government = socialist
+				has_government = Social_Democratic
+				has_government = Social_Liberalism
+				has_government = democratic
+				has_government = centrist
+				has_government = liberal
+				has_government = conservative
+				has_government = nationalism
+				has_government = neutrality
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1966.1.1
+			}
+			AND = {
+			date > 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = conservative
+				has_government = Liberal_Conservatism
+				has_government = Christian_Democratic 
+				has_government = socialist
+				has_government = Social_Democratic
+				has_government = Social_Liberalism
+				has_government = democratic
+				has_government = centrist
+				has_government = liberal
+				has_government = conservative
+				has_government = nationalism
+				has_government = neutrality
+			}
+			}
+		}
+	}
+}
+}
+#generic
+music = {
+	song = "Last of Us"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}	
+	}	
+}
+music = {
+	song = "Forgotten Memories"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}	
+	}	
+}
+# PEACE SONGS ##################
+music = {
+	song = "New Order"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Elegy"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}	
+}
+
+music = {
+	song = "Beacon"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "MEO"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "Float"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "Saved By Choppers"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "Ritchie Blackmore -  Weiss Heim"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "Waveform"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "Voices Through Lights"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "Tu Me Manqueras"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "Broken Flower"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "Sacrifice"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "Nicole"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "After the Storm"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}
+}
+music = {
+	song = "Waveform"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}
+}
+#ASIA
+music = {
+	song = "Orient"
+	
+		chance = {
+		modifier = {
+			factor = 2
+			capital_scope = { is_on_continent = asia }
+		}		
+		modifier = {
+			factor = 0
+			NOT = {
+				capital_scope = { is_on_continent = asia }
+			}
+		}		
+	}
+}
+
+music = {
+	song = "Water Vapour"
+	
+	chance = {
+		modifier = {
+			factor = 2
+			capital_scope = { is_on_continent = asia }
+		}		
+		modifier = {
+			factor = 0
+			NOT = {
+				capital_scope = { is_on_continent = asia }
+			}
+		}		
+	}	
+}
+
+# WAR SONGS ####################
+
+music = {
+	song = "When It All Falls Down"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = yes
+		}
+		modifier = {
+			factor = 0
+
+			has_war = no
+		}		
+	}
+}
+
+music = {
+	song = "Suspense"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = yes
+		}
+		modifier = {
+			factor = 0
+
+			has_war = no
+		}		
+	}	
+}
+music = {
+	song = "Everything Ends Here"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = yes
+		}
+		modifier = {
+			factor = 0
+
+			has_war = no
+		}		
+	}	
+}
+music = {
+	song = "Nuclear Bomb"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = yes
+		}
+		modifier = {
+			factor = 0
+
+			has_war = no
+		}		
+	}
+}
+music = {
+	song = "In The House In A Heartbeat"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = yes
+		}
+		modifier = {
+			factor = 0
+
+			has_war = no
+		}		
+	}	
+}
+#USA
+music = {
+	song = "Vaughn Monroe - Riders In The Sky"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = USA
+				date > 1949.1.1
+				date < 1960.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1949.1.1
+			}
+			AND = {
+			date > 1960.1.1
+			}
+			AND = {
+            NOT = { tag = USA }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Johnny Guitar"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = USA
+				date > 1954.5.7
+				date < 1965.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1954.5.7
+			}
+			AND = {
+			date > 1965.1.1
+			}
+			AND = {
+            NOT = { tag = USA }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Bill Haley & His Comets Rock Around the Clock"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = USA
+				date > 1954.5.20
+				date < 1965.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1954.5.20
+			}
+			AND = {
+			date > 1965.1.1
+			}
+			AND = {
+            NOT = { tag = USA }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "The Mamas and Papas - California Dreaming"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = USA
+				date > 1966.12.8
+				date < 1980.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1966.12.8
+			}
+			AND = {
+			date > 1980.1.1
+			}
+			AND = {
+            NOT = { tag = USA }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Chuck Berry - Johnny B. Goode"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = USA
+				date > 1958.1.6
+				date < 1970.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1958.1.6
+			}
+			AND = {
+			date > 1970.1.1
+			}
+			AND = {
+            NOT = { tag = USA }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Chuck Berry - Johnny B. Goode"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = USA
+				date > 1958.1.6
+				date < 1970.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1958.1.6
+			}
+			AND = {
+			date > 1970.1.1
+			}
+			AND = {
+            NOT = { tag = USA }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Napalm Sticks to Kids"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = USA
+				date > 1970.1.1
+				date < 1990.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1970.1.6
+			}
+			AND = {
+			date > 1990.1.1
+			}
+			AND = {
+            NOT = { tag = USA }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Elvis Presley - Don't be cruel"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = USA
+				date > 1956.7.2
+				date < 1970.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1956.7.2
+			}
+			AND = {
+			date > 1970.1.1
+			}
+			AND = {
+            NOT = { tag = USA }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Eve Of Destruction"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = USA
+				date > 1965.8.2
+				date < 1980.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1965.8.2
+			}
+			AND = {
+			date > 1980.1.1
+			}
+			AND = {
+            NOT = { tag = USA }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Star Spangled Banner"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "Ain't I Right"
+	
+	chance = {
+		modifier = {
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+#wgr
+music = {
+	song = "Nena - 99 Luftballons"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = WGR
+				date > 1983.1.1
+				date < 2000.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1983.8.2
+			}
+			AND = {
+			date > 2000.1.1
+			}
+			AND = {
+            NOT = { tag = WGR }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Es Hängt Ein Pferdehalfter An Der Wand"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = WGR
+				date > 1952.1.1
+				date < 1965.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1952.8.2
+			}
+			AND = {
+			date > 1965.1.1
+			}
+			AND = {
+            NOT = { tag = WGR }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Keine Angst vor grossen Tieren"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = WGR
+				date > 1949.1.1
+				date < 1960.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1949.8.2
+			}
+			AND = {
+			date > 1960.1.1
+			}
+			AND = {
+            NOT = { tag = WGR }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Deutschlandlied"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			tag = WGR
+			}
+		modifier = {
+            factor = 0
+            NOT = { tag = WGR }
+			}
+		}
+}
+#DDR
+music = {
+	song = "Das Banner von Marx und Lenin"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Die Internationale"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Wir schützen die Sowjetunion"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Der kleine Trompeter"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Ernst Busch - Ami go home"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = DDR
+				date > 1952.1.1
+				date < 1970.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1952.1.1
+			}
+			AND = {
+			date > 1970.1.1
+			}
+			AND = {
+            NOT = { tag = DDR }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Kundschafterlied"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Wir sind Freunde für immer"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Der Dresdener Automobilclub"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = DDR
+				date > 1980.1.1
+				date < 1995.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+			date > 1995.1.1
+			}
+			AND = {
+            NOT = { tag = DDR }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Augen gradeaus"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Der heimliche Aufmarsch"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Monika"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Oktobersong"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Aviamarch"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Oktoberklub - Was wollen wir trinken"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Arbeiter von Wien"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Der offene Aufmarsch"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Dippen Marsch"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Unsere Panzerdivision"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Auferstanden aus Ruinen"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Vorwärts, Freie Deutsche Jugend"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Das Lied vom Vaterland"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Kämpfen wie Thälmann"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Krupp und Krause"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+
+music = {
+	song = "Unsere Heimat"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Katjuscha"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Einheitsfrontlied"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Grün ist meine Waffenfarbe"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Unterwegs"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Spartakus in Berlin"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "City - Am Fenster"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Guten Abend Carolina -Theo Schumann Combo"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = DDR
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = DDR }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
