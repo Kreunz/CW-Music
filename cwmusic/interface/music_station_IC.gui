@@ -11,4 +11,37 @@ guiTypes = {
 			clicksound = decisions_ui_button
 		}
 	}
+	containerWindowType={
+		name = "ddr_music_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_ddr_music_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "usa_music_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_usa_music_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "west_music_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_west_music_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
 }

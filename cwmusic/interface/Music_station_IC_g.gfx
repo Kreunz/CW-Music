@@ -4,5 +4,17 @@ spriteType = {
 		name = "GFX_ic_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//ic_music_album_art.dds"
 	}
+	spriteType = {
+		name = "GFX_ddr_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//ddr_album_art.dds"
+	}
+	spriteType = {
+		name = "GFX_usa_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//usa_album_art.dds"
+	}
+	spriteType = {
+		name = "GFX_west_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//west_album_art.dds"
+	}
 	
 }
