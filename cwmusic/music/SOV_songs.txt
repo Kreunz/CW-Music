@@ -1,3 +1,72 @@
+music_station = "sov_60s_music"
+music = {
+	song = "Zhuravli"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+				has_government = communism
+				date > 1969.1.1
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1969.1.1
+			}
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Chetyrnadtsat' minut do starta"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Slava Vperedsmotryashchemu"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
 music_station = "sov_80s_music"
 music = {
 	song = "Yegor Letov - Moja oborona"
@@ -322,6 +391,30 @@ music = {
 }
 music = {
 	song = "Korobushka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Krasnoznamennyy Turkestanskiy"
 	
 	chance = {
 		modifier = {
