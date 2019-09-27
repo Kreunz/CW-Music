@@ -1,0 +1,21 @@
+music_station = "saf_music"
+music = {
+	song = "Chetyrnadtsat' minut do starta"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}

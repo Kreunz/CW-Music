@@ -68,6 +68,26 @@ music = {
 	}
 }
 music = {
+	song = "Georg Ots - Olgu jääv meile päike"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Nu chto tebe skazat' pro Sakhalin"
 	
 	chance = {
@@ -89,7 +109,55 @@ music = {
 }
 music_station = "sov_70s_music"
 music = {
+	song = "Ya ochen rad, ved ya, nakonets, vozvrashchajus domoy"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+				has_government = communism
+				date > 1976.1.1
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1976.1.1
+			}
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Moy Adres Sovetskiy Soyuz"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Golubye Gitary - Veter Severnyy"
 	
 	chance = {
 		modifier = {
@@ -150,6 +218,26 @@ music = {
 	}
 }
 music = {
+	song = "Karavan"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Armeyskiye Pesni - Privet Malyshka"
 	
 	chance = {
@@ -171,6 +259,26 @@ music = {
 }
 music = {
 	song = "Viktor Tsoi- Kukushka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Viktor Tsoi - Zvezda Po Imeni Solntse"
 	
 	chance = {
 		modifier = {
@@ -252,6 +360,30 @@ music = {
 music_station = "sov_music"
 music = {
 	song = "Anthem of the Soviet Union"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Farewell of Slavianka"
 	
 	chance = {
 		modifier = {
@@ -520,6 +652,54 @@ music = {
 }
 music = {
 	song = "Anthem of the Estonian Soviet Socialist Republic"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Rossiya i Mongoliya"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Internatsionaal"
 	
 	chance = {
 		modifier = {

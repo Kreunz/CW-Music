@@ -1,4 +1,49 @@
-music_station = "west_music"
+music_station = "west_50s_music"
+music = {
+	song = "The Champs - Tequila"
+	
+	
+	chance = {
+		modifier = {
+			factor = 1
+			OR = {
+				has_government = conservative
+				has_government = Liberal_Conservatism
+				has_government = Christian_Democratic 
+				has_government = socialist
+				has_government = Social_Democratic
+				has_government = Social_Liberalism
+				has_government = democratic
+				has_government = centrist
+				has_government = liberal
+				has_government = conservative
+				has_government = nationalism
+				has_government = neutrality
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = {
+			has_government = conservative
+				has_government = Liberal_Conservatism
+				has_government = Christian_Democratic 
+				has_government = socialist
+				has_government = Social_Democratic
+				has_government = Social_Liberalism
+				has_government = democratic
+				has_government = centrist
+				has_government = liberal
+				has_government = conservative
+				has_government = nationalism
+				has_government = neutrality
+			}
+			}
+		}
+	}
+}
+}
 music = {
 	song = "The September - See You in September"
 	
@@ -31,6 +76,54 @@ music = {
 			}
 			AND = {
 			date > 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = conservative
+				has_government = Liberal_Conservatism
+				has_government = Christian_Democratic 
+				has_government = socialist
+				has_government = Social_Democratic
+				has_government = Social_Liberalism
+				has_government = democratic
+				has_government = centrist
+				has_government = liberal
+				has_government = conservative
+				has_government = nationalism
+				has_government = neutrality
+			}
+			}
+		}
+	}
+}
+}
+music = {
+	song = "Tears for Fears - Everybody Wants to Rule the World"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = conservative
+				has_government = Liberal_Conservatism
+				has_government = Christian_Democratic 
+				has_government = socialist
+				has_government = Social_Democratic
+				has_government = Social_Liberalism
+				has_government = democratic
+				has_government = centrist
+				has_government = liberal
+				has_government = conservative
+				has_government = nationalism
+				has_government = neutrality
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
 			}
 			AND = {
             NOT = {

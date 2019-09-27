@@ -143,7 +143,7 @@ containerWindowType = {
 		}
 	}
 	containerWindowType={
-		name = "west_music_stations_entry"
+		name = "west_50s_music_stations_entry"
 		size = { width = 162 height = 130 }
 		
 		checkBoxType = {

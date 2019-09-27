@@ -12,6 +12,16 @@ music = {
 	file = "generic/west/See You in September.ogg"
 	volume = 0.65
 }
+music = {
+	name = "Tears for Fears - Everybody Wants to Rule the World"
+	file = "generic/west/80s/Tears for Fears - Everybody Wants to Rule the World.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Champs - Tequila"
+	file = "generic/west/50s/Tequila - The Champs.ogg"
+	volume = 0.65
+}
 # General Peace:
 music = {
 	name = "New Order"
@@ -155,6 +165,11 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "Farewell of Slavianka"
+	file = "countries/SOV/Farewell of Slavianka.ogg"
+	volume = 0.65
+}
+music = {
 	name = "State Anthem of the Ukrainian Soviet Socialist Republic"
 	file = "countries/SOV/State Anthem of the Ukrainian Soviet Socialist Republic.ogg"
 	volume = 0.65
@@ -214,11 +229,26 @@ music = {
 	file = "countries/SOV/Anthem of the Estonian Soviet Socialist Republic.ogg"
 	volume = 0.65
 }
+music = {
+	name = "Rossiya i Mongoliya"
+	file = "countries/SOV/Rossiya i Mongoliya.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Internatsionaal"
+	file = "countries/SOV/Internatsionaal.ogg"
+	volume = 0.65
+}
 
 #60s_sov
 music = {
 	name = "Chetyrnadtsat' minut do starta"
 	file = "countries/SOV/60s/Chetyrnadtsat' minut do starta.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Georg Ots - Olgu jääv meile päike"
+	file = "countries/SOV/60s/Georg Ots - Olgu jääv meile päike.ogg"
 	volume = 0.65
 }
 music = {
@@ -248,14 +278,29 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "Ya ochen rad, ved ya, nakonets, vozvrashchajus domoy"
+	file = "countries/SOV/70s/Ya ochen rad, ved ya, nakonets, vozvrashchajus domoy.ogg"
+	volume = 0.65
+}
+music = {
 	name = "Eto Govorim My"
 	file = "countries/SOV/70s/Eto govorim my.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Golubye Gitary - Veter Severnyy"
+	file = "countries/SOV/70s/Golubye Gitary - Veter Severnyy.ogg"
 	volume = 0.65
 }
 #80s_sov
 music = {
 	name = "Yegor Letov - Moja oborona"
 	file = "countries/SOV/80s/Yegor Letov - Moja oborona.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Yegor Letov - Moja oborona"
+	file = "countries/SOV/80s/Karavan.ogg"
 	volume = 0.65
 }
 music = {
@@ -276,6 +321,11 @@ music = {
 music = {
 	name = "Kletka"
 	file = "countries/SOV/80s/Kletka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Viktor Tsoi - Zvezda Po Imeni Solntse"
+	file = "countries/SOV/80s/Viktor Tsoi - Zvezda Po Imeni Solntse.ogg"
 	volume = 0.65
 }
 #USA:
@@ -528,4 +578,9 @@ music = {
 	file = "countries/ddr/Spartakus in Berlin.ogg"
 	volume = 0.65
 }
-
+#SAF
+music = {
+	name = "Spartakus in Berlin"
+	file = "countries/SAF/Spartakus in Berlin.ogg"
+	volume = 0.65
+}
