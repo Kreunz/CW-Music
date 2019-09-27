@@ -44,4 +44,26 @@ guiTypes = {
 			clicksound = decisions_ui_button
 		}
 	}
+	containerWindowType={
+		name = "sov_music_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_sov_music_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "sov_80s_music_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_sov_80s_music_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
 }

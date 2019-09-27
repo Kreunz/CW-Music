@@ -143,6 +143,94 @@ music = {
 	file = "generic/peace/asia/Water Vapour.ogg"
 	volume = 0.65
 }
+#SOV:
+music = {
+	name = "Anthem of the Soviet Union"
+	file = "countries/SOV/Anthem of the Soviet Union.ogg"
+	volume = 0.65
+}
+music = {
+	name = "State Anthem of the Ukrainian Soviet Socialist Republic"
+	file = "countries/SOV/State Anthem of the Ukrainian Soviet Socialist Republic.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Shiroka Strana Moya Rodnaya"
+	file = "countries/SOV/Shiroka strana moya rodnaya.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Seeing Off Of Vanya"
+	file = "countries/SOV/The Seeing Off Of Vanya.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Zhuravli"
+	file = "countries/SOV/Zhuravli.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Katyusha"
+	file = "countries/SOV/Katyusha.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Katyusha - Instrumental"
+	file = "countries/SOV/Katyusha insturmental.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Podmoskovnie Vechera"
+	file = "countries/SOV/Moscow Nights.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Internationale"
+	file = "countries/SOV/Internationale.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Korobushka"
+	file = "countries/SOV/Korobushka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Yegor Letov - Moja oborona"
+	file = "countries/SOV/Yegor Letov - Moja oborona.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Yegor Letov - Moja oborona"
+	file = "countries/SOV/Yegor Letov - Moja oborona.ogg"
+	volume = 0.65
+}
+
+#80s_sov
+music = {
+	name = "Yegor Letov - Moja oborona"
+	file = "countries/SOV/80s/Yegor Letov - Moja oborona.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Viktor Tsoi- Kukushka"
+	file = "countries/SOV/80s/Viktor Tsoi- Kukushka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Viktor Tsoi- Kukushka"
+	file = "countries/SOV/80s/Viktor Tsoi- Kukushka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Olga Chipovskaya - Safari"
+	file = "countries/SOV/80s/Olga Chipovskaya - Safari.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kletka"
+	file = "countries/SOV/80s/Kletka.ogg"
+	volume = 0.65
+}
 #USA:
 music = {
 	name = "Vaughn Monroe - Riders In The Sky"
