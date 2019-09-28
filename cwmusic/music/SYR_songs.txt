@@ -1,0 +1,169 @@
+#SYR
+music_station = "syr_music"
+music = {
+	song = "Humat ad-Diyar (Guardians of the Homeland)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SYR
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SYR }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Syria habib-nati (Syria, My Love)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SYR
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SYR }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Hamak Allah ya Assad (God Protect You, Assad)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SYR
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SYR }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Syria lak Alsalam (Syria is Yours)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SYR
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SYR }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Tishreen (October)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SYR
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SYR }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Rayatk Bialeali ya Syria (Your Flags are High, Syria)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SYR
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SYR }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Aghniat ya Hafez al-Assad (Song for Hafez al-Assad)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SYR
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SYR }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Ya Hafez Alehad (Hafez's Covenant)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SYR
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SYR }
+			}
+			}
+		}
+	}
+}
