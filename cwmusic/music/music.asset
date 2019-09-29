@@ -578,6 +578,48 @@ music = {
 	file = "countries/ddr/Spartakus in Berlin.ogg"
 	volume = 0.65
 }
+
+#SYR
+music = {
+	name = "Aghniat ya Hafez al-Assad (Song for Hafez al-Assad)"
+	file = "countries/syr/Aghniat ya Hafez al-Assad (Song for Hafez al-Assad).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hamak Allah ya Assad (God Protect You Assad)"
+	file = "countries/syr/Hamak Allah ya Assad (God Protect You Assad).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Humat ad-Diyar (Guardians of the Homeland)"
+	file = "countries/syr/Humat ad-Diyar (Guardians of the Homeland).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rayatk Bialeali ya Syria (Your Flags are High Syria)"
+	file = "countries/syr/Rayatk Bialeali ya Syria (Your Flags are High Syria).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Syria habib-nati (Syria My Love)"
+	file = "countries/syr/Syria habib-nati (Syria My Love).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Syria lak Alsalam (Syria is Yours)"
+	file = "countries/syr/Syria lak Alsalam (Syria is Yours).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tishreen (October)"
+	file = "countries/syr/Tishreen (October).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ya Hafez Alehad (Hafez's Covenant)"
+	file = "countries/syr/Ya Hafez Alehad (Hafez's Covenant).ogg"
+	volume = 0.65
+}
 #SAF
 music = {
 	name = "Spartakus in Berlin"
