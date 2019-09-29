@@ -33,7 +33,7 @@ spriteType = {
 		texturefile = "gfx//interface//topbar//musicplayer//sov_70s_album_art.dds"
 	}
 	spriteType = {
-		name = "GFX_SYR_music_album_art"
+		name = "GFX_syr_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//syr_album_art.dds"
 	}
 	
