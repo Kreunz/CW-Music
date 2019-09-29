@@ -22,7 +22,7 @@ music = {
 }
 
 music = {
-	song = "Syria habib-nati (Syria, My Love)"
+	song = "Syria habib-nati (Syria My Love)"
 	
 	chance = {
 		modifier = {
@@ -43,7 +43,7 @@ music = {
 }
 
 music = {
-	song = "Hamak Allah ya Assad (God Protect You, Assad)"
+	song = "Hamak Allah ya Assad (God Protect You Assad)"
 	
 	chance = {
 		modifier = {
@@ -106,7 +106,7 @@ music = {
 }
 
 music = {
-	song = "Rayatk Bialeali ya Syria (Your Flags are High, Syria)"
+	song = "Rayatk Bialeali ya Syria (Your Flags are High Syria)"
 	
 	chance = {
 		modifier = {
