@@ -22,7 +22,7 @@ music = {
 }
 
 music = {
-	song = "Syria habib-nati (Syria My Love)"
+	song = "Syria Habib-nati (Syria My Love)"
 	
 	chance = {
 		modifier = {
