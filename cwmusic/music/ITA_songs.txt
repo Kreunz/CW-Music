@@ -1,0 +1,22 @@
+#ITA
+music_station = "ita_music"
+music = {
+	song = "Meraviglioso"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = ITA
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ITA }
+			}
+			}
+		}
+	}
+}

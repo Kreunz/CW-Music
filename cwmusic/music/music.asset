@@ -626,3 +626,9 @@ music = {
 	file = "countries/SAF/Spartakus in Berlin.ogg"
 	volume = 0.65
 }
+#ITA
+music = {
+	name = "Meraviglioso"
+	file = "countries/ITA/Meraviglioso.ogg"
+	volume = 0.65
+}
