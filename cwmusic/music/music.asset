@@ -620,6 +620,22 @@ music = {
 	file = "countries/syr/Ya Hafez Alehad (Hafez's Covenant).ogg"
 	volume = 0.65
 }
+music = {
+	name = "Rahal Albtl (Our Hero is Gone)"
+	file = "countries/syr/Rahal Albtl (Our Hero is Gone).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ya Hafez al-Assad (O Hafez al-Assad)"
+	file = "countries/syr/Ya Hafez al-Assad (O Hafez al-Assad).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sabah Alkhyr Ya Wtnaan (Good Morning Our Country)"
+	file = "countries/syr/Sabah Alkhyr Ya Wtnaan (Good Morning Our Country).ogg"
+	volume = 0.65
+}
+
 #SAF
 music = {
 	name = "Spartakus in Berlin"
