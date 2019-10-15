@@ -40,4 +40,8 @@ spriteType = {
 		name = "GFX_ita_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//ita_album_art.dds"
 	}
+	spriteType = {
+		name = "GFX_bul_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//ita_album_art.dds"
+	}
 }

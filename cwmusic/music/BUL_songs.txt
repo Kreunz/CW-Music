@@ -1,0 +1,233 @@
+#BULG(E)ARIA
+music_station = "bul_music"
+music = {
+	song = "The Internationale in Bulgarian"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = BUL
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = BUL }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Septembrians"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = BUL
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = BUL }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Bulgarian National Anthem"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = BUL
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = BUL }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Song of Gavril Genov"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = BUL
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = BUL }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "March of the BPA"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = BUL
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = BUL }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Our Militia"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = BUL
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = BUL }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "The Bulgarian Rock"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = BUL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = BUL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Vesela Brigadirska"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = BUL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = BUL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Sreshtni me"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = BUL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = BUL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Song for Yuri Gagarin"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = BUL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = BUL }
+			}
+			}
+		}
+	}
+}
