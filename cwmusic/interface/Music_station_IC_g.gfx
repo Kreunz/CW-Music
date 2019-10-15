@@ -13,6 +13,14 @@ spriteType = {
 		texturefile = "gfx//interface//topbar//musicplayer//usa_album_art.dds"
 	}
 	spriteType = {
+		name = "GFX_jap_showa_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//jap_showa_album_art.dds"
+	}
+	spriteType = {
+		name = "GFX_jap_heisei_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//jap_heisei_album_art.dds"
+	}
+	spriteType = {
 		name = "GFX_west_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//west_album_art.dds"
 	}
@@ -31,6 +39,10 @@ spriteType = {
 	spriteType = {
 		name = "GFX_sov_70s_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//sov_70s_album_art.dds"
+	}
+	spriteType = {
+		name = "GFX_srp_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//srp_album_art.dds"
 	}
 	spriteType = {
 		name = "GFX_syr_music_album_art"

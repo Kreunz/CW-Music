@@ -1,0 +1,190 @@
+#SRP
+music_station = "srp_music"
+#KEBAB REMOVERS
+music = {
+	song = "Al Kapone"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SER
+				tag = SRP
+				}
+		modifier = {
+            factor = 0
+
+            NOT = { tag = SER
+            		tag = SRP }
+        }
+	}
+}
+music = {
+	song = "Bog je Srbjin"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SER
+				tag = SRP
+				}
+		modifier = {
+            factor = 0
+
+            NOT = { tag = SER
+            		tag = SRP }
+        }
+	}
+}
+music = {
+	song = "Crni Bombarder"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SER
+				tag = SRP
+				}
+		modifier = {
+            factor = 0
+
+            NOT = { tag = SER
+            		tag = SRP }
+        }
+	}
+}
+music = {
+	song = "Hej Hej Kikore"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SER
+				tag = SRP
+				}
+		modifier = {
+            factor = 0
+
+            NOT = { tag = SER
+            		tag = SRP }
+        }
+	}
+}
+music = {
+	song = "Oj Alija Aljo"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SER
+				tag = SRP
+				}
+		modifier = {
+            factor = 0
+
+            NOT = { tag = SER
+            		tag = SRP }
+        }
+	}
+}
+music = {
+	song = "Republika Srpska"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SER
+				tag = SRP
+				}
+		modifier = {
+            factor = 0
+
+            NOT = { tag = SER
+            		tag = SRP }
+        }
+	}
+}
+music = {
+	song = "Jadna Bosno suverena"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SER
+				tag = SRP
+				}
+		modifier = {
+            factor = 0
+
+            NOT = { tag = SER
+            		tag = SRP }
+        }
+	}
+}
+music = {
+	song = "Novak will return!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SER
+				tag = SRP
+				}
+		modifier = {
+            factor = 0
+
+            NOT = { tag = SER
+            		tag = SRP }
+        }
+	}
+}
+music = {
+	song = "Above city Brčko"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SER
+				tag = SRP
+				}
+		modifier = {
+            factor = 0
+
+            NOT = { tag = SER
+            		tag = SRP }
+        }
+	}
+}
+music = {
+	song = "We Serbs are Supermen!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SER
+				tag = SRP
+				}
+		modifier = {
+            factor = 0
+
+            NOT = { tag = SER
+            		tag = SRP }
+        }
+	}
+}
+music = {
+	song = "Serbian Falcons!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SER
+				tag = SRP
+				}
+		modifier = {
+            factor = 0
+
+            NOT = { tag = SER
+            		tag = SRP }
+        }
+	}
+}

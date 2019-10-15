@@ -579,6 +579,63 @@ music = {
 	volume = 0.65
 }
 
+#SRP
+music = {
+	name = "Serbian Falcons!"
+	file = "countries/srp/Serbian Falcons!.ogg"
+	volume = 0.65
+}
+music = {
+	name = "We Serbs are Supermen!"
+	file = "countries/srp/We Serbs are Supermen!.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Above city Brčko"
+	file = "countries/srp/Above city Brcko.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Novak will return!"
+	file = "countries/srp/Novak will return!.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jadna Bosno suverena"
+	file = "countries/srp/Miro Semberac - Jadna Bosno suverena.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Al Kapone"
+	file = "countries/srp/Al Kapone.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Crni Bombarder"
+	file = "countries/srp/Crni Bombarder.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bog je Srbjin"
+	file = "countries/srp/Bog je Srbjin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hej Hej Kikore"
+	file = "countries/srp/Hej Hej Kikore.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Oj Alija Aljo"
+	file = "countries/srp/Oj Alija Aljo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Republika Srpska"
+	file = "countries/srp/Republika Srpska.ogg"
+	volume = 0.65
+}
+
 #SYR
 music = {
 	name = "Aghniat ya Hafez al-Assad (Song for Hafez al-Assad)"
