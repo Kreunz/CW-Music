@@ -1,0 +1,137 @@
+music_station = "hun_music"
+music = {
+	song = "Gyöngyhajú lány"
+	
+	chance = {
+		modifier = {
+			factor = 2
+				AND = {
+				tag = HUN
+				date > 1969.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = HUN }
+			}
+			AND = {
+			date < 1969.1.1
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Omega - Perlen im haar"
+	
+	chance = {
+		modifier = {
+			factor = 2
+				OR = {
+				tag = DDR
+				tag = WGR
+				}
+				date > 1969.1.1
+			}
+		modifier = {
+            factor = 0
+			OR = {
+            NOT = { tag = WGR }
+            NOT = { tag = DDR }
+			}
+			AND = {
+			date < 1969.1.1
+			}
+			}
+		}
+}
+music = {
+	song = "Neoton Familia - Santa Maria"
+	
+	chance = {
+		modifier = {
+			factor = 2
+				AND = {
+				tag = HUN
+				date > 1977.1.1
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = HUN }
+			}
+			AND = {
+			date < 1977.1.1
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Bunkócska"
+	
+	chance = {
+		modifier = {
+			factor = 2
+				AND = {
+				tag = HUN
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = HUN }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Internacionálé"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = HUN
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = HUN }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "The Girl With The Pearls Hair"
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				date > 1969.1.1
+				 NOT = { tag = HUN }
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1969.1.1
+			}
+			}
+		}
+	}
+}
