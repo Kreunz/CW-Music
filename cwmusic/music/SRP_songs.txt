@@ -188,3 +188,54 @@ music = {
         }
 	}
 }
+music = {
+	song = "Tito Our Comrade, We Swear to You"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SER
+				tag = SRP
+				}
+		modifier = {
+            factor = 0
+
+            NOT = { tag = SER
+            		tag = SRP }
+        }
+	}
+}
+music = {
+	song = "Kiss Me in the Rain"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SER
+				tag = SRP
+				}
+		modifier = {
+            factor = 0
+
+            NOT = { tag = SER
+            		tag = SRP }
+        }
+	}
+}
+music = {
+	song = "I Love You"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SER
+				tag = SRP
+				}
+		modifier = {
+            factor = 0
+
+            NOT = { tag = SER
+            		tag = SRP }
+        }
+	}
+}
