@@ -704,4 +704,137 @@ music = {
 	name = "Meraviglioso"
 	file = "countries/ITA/Meraviglioso.ogg"
 	volume = 0.65
-}
+	}
+#BUL
+music = {
+	name = "The Internationale in Bulgarian"
+	file = "countries/bul/The Internationale in Bulgarian.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Bulgarian Anthem (Communist)"
+	file = "countries/bul/Bulgarian Anthem (Communist).ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Georgi Minchev - The Bulgarian Rock"
+	file = "countries/bul/Georgi Minchev - The Bulgarian Rock.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "March of the BPA"
+	file = "countries/bul/March of the BPA.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Our Militia"
+	file = "countries/bul/Our Militia.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Song for Yuri Gagarin"
+	file = "countries/bul/Song for Yuri Gagarin.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Song of Gavril Genov"
+	file = "countries/bul/Song of Gavril Genov.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Sreshtni me"
+	file = "countries/bul/Sreshtni me.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Vesela Brigadirska"
+	file = "countries/bul/Vesela Brigadirska.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Friendly song today!"
+	file = "countries/bul/Friendly song today!.ogg"
+	volume = 0.65
+	}
+#PRC
+music = {
+	name = "The People of Yanbian Love Chairman Mao (Tibetan Version)"
+	file = "countries/prc/The People of Yanbian Love Chairman Mao (Tibetan Version).ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Red Sun in the Sky"
+	file = "countries/prc/Red Sun in the Sky.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "I Love Beijing Tiananmen"
+	file = "countries/prc/I Love Beijing Tiananmen.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Internationale  Chinese"
+	file = "countries/prc/Internationale  Chinese.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Learn From Lei Feng's Good Example"
+	file = "countries/prc/Learn From Lei Feng's Good Example.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "March of the Volunteers"
+	file = "countries/prc/March of the Volunteers.ogg"
+	volume = 0.65
+	}	
+music = {
+	name = "No Communist Party No New China"
+	file = "countries/prc/Red Sun in the Sky.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Smuglyanka Chinese"
+	file = "countries/prc/Smuglyanka Chinese.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Socialism is Good"
+	file = "countries/prc/Socialism is Good.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "The People of Yanbian Love Chairman Mao"
+	file = "countries/prc/The People of Yanbian Love Chairman Mao.ogg"
+	volume = 0.65
+	}
+#HUN
+music = {
+	name = "Bunkócska"
+	file = "countries/hun/Bunkocska.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Gyöngyhajú lány"
+	file = "countries/hun/Gyongyhaju lany.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Internacionálé"
+	file = "countries/hun/Internacionale.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Neoton Familia - Santa Maria"
+	file = "countries/hun/Neoton Familia - Santa Maria.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Omega - Perlen im haar"
+	file = "countries/hun/Omega Perlen im haar.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "The Girl With The Pearls Hair"
+	file = "countries/hun/The Girl With The Pearls Hair.ogg"
+	volume = 0.65
+	}

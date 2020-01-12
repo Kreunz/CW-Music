@@ -1,13 +1,13 @@
-#BULG(E)ARIA
-music_station = "bul_music"
+#PRC
+music_station = "prc_music"
 music = {
-	song = "The Internationale in Bulgarian"
+	song = "The People of Yanbian Love Chairman Mao (Tibetan Version)"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = BUL
+				tag = PRC
 					has_government = communism
 				}
 				}
@@ -15,10 +15,10 @@ music = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = BUL }
+            NOT = { tag = PRC }
 			}
 			AND = {
-			NOT = { has_government = communism }
+			NOT = { has_government = maoism }
 			}
 			}
 		}
@@ -26,13 +26,13 @@ music = {
 }
 
 music = {
-	song = "Septembrians"
+	song = "Red Sun in the Sky"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = BUL
+				tag = PRC
 					has_government = communism
 				}
 				}
@@ -40,10 +40,10 @@ music = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = BUL }
+            NOT = { tag = PRC }
 			}
 			AND = {
-			NOT = { has_government = communism }
+			NOT = { has_government = maoism }
 			}
 			}
 		}
@@ -51,13 +51,13 @@ music = {
 }
 
 music = {
-	song = "Bulgarian Anthem (Communist)"
+	song = "I Love Beijing Tiananmen"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = BUL
+				tag = PRC
 					has_government = communism
 				}
 				}
@@ -65,10 +65,10 @@ music = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = BUL }
+            NOT = { tag = PRC }
 			}
 			AND = {
-			NOT = { has_government = communism }
+			NOT = { has_government = maoism }
 			}
 			}
 		}
@@ -76,13 +76,13 @@ music = {
 }
 
 music = {
-	song = "Song of Gavril Genov"
+	song = "Internationale  Chinese"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = BUL
+				tag = PRC
 					has_government = communism
 				}
 				}
@@ -90,10 +90,10 @@ music = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = BUL }
+            NOT = { tag = PRC }
 			}
 			AND = {
-			NOT = { has_government = communism }
+			NOT = { has_government = maoism }
 			}
 			}
 		}
@@ -101,13 +101,13 @@ music = {
 }
 
 music = {
-	song = "March of the BPA"
+	song = "Learn From Lei Feng's Good Example"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = BUL
+				tag = PRC
 					has_government = communism
 				}
 				}
@@ -115,23 +115,24 @@ music = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = BUL }
+            NOT = { tag = PRC }
 			}
 			AND = {
-			NOT = { has_government = communism }
+			NOT = { has_government = maoism }
 			}
 			}
 		}
 	}
 }
+
 music = {
-	song = "Our Militia"
+	song = "March of the Volunteers"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = BUL
+				tag = PRC
 					has_government = communism
 				}
 				}
@@ -139,51 +140,10 @@ music = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = BUL }
+            NOT = { tag = PRC }
 			}
 			AND = {
-			NOT = { has_government = communism }
-			}
-			}
-		}
-	}
-}
-#music = {
-#	song = "The Bulgarian Rock"
-	
-#	chance = {
-#		modifier = {
-#			factor = 1
-#				AND = {
-#				tag = BUL
-#				}
-#				}
-#		modifier = {
-#           factor = 0
-#			OR = {
-#			AND = {
-#            NOT = { tag = BUL }
-#			}
-#			}
-#		}
-#	}
-#}
-
-music = {
-	song = "Vesela Brigadirska"
-	
-	chance = {
-		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
+			NOT = { has_government = maoism }
 			}
 			}
 		}
@@ -191,55 +151,13 @@ music = {
 }
 
 music = {
-	song = "Sreshtni me"
+	song = "No Communist Party No New China"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = BUL
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			}
-		}
-	}
-}
-
-music = {
-	song = "Song for Yuri Gagarin"
-	
-	chance = {
-		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			}
-		}
-	}
-}
-
-music = {
-	song = "Song of Gavril Genov"
-	
-	chance = {
-		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
+				tag = PRC
 					has_government = communism
 				}
 				}
@@ -247,31 +165,10 @@ music = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = BUL }
+            NOT = { tag = PRC }
 			}
 			AND = {
-			NOT = { has_government = communism }
-			}
-			}
-		}	
-	}
-}
-
-music = {
-	song = "Georgi Minchev - The Bulgarian Rock"
-	
-	chance = {
-		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
+			NOT = { has_government = maoism }
 			}
 			}
 		}
@@ -279,20 +176,74 @@ music = {
 }
 
 music = {
-	song = "Friendly Song Today!"
+	song = "Smuglyanka Chinese"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = BUL
+				tag = PRC
+					has_government = communism
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = BUL }
+            NOT = { tag = PRC }
+			}
+			AND = {
+			NOT = { has_government = maoism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Socialism is Good"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = PRC
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PRC }
+			}
+			AND = {
+			NOT = { has_government = maoism }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "The People of Yanbian Love Chairman Mao"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = PRC
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PRC }
+			}
+			AND = {
+			NOT = { has_government = maoism }
 			}
 			}
 		}
