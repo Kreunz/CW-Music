@@ -843,3 +843,65 @@ music = {
 	file = "countries/hun/The Girl With The Pearls Hair.ogg"
 	volume = 0.65
 	}
+#YUG
+music = {
+	name = "Bijelo Dugme - Jugoslavijo"
+	file = "countries/yug/Bijelo Dugme - Jugoslavijo.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Hej Sloveni"
+	file = "countries/yug/Hej Sloveni.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Internacionala"
+	file = "countries/yug/Internacionala.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Nasa Jugoslavija"
+	file = "countries/yug/Nasa Jugoslavija.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Neki To Vole Vruce - Teska vremena"
+	file = "countries/yug/Neki To Vole Vruce - Teska vremena.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Pesma Milicionara"
+	file = "countries/yug/Pesma Milicionara.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Pionirska Pjesma"
+	file = "countries/yug/Pionirska Pjesma.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Pjesma Nove Mladosti"
+	file = "countries/yug/Pjesma Nove Mladosti.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Republiko Slavo Nasa"
+	file = "countries/yug/Republiko Slavo Nasa.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Steg Partije"
+	file = "countries/yug/Steg Partije.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Uz Marsala Tita"
+	file = "countries/yug/Uz Marsala Tita.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Yugoslav Armed Forces Medley"
+	file = "countries/yug/Yugoslav Armed Forces Medley.ogg"
+	volume = 0.65
+	}
+	

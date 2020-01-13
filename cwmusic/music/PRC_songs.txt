@@ -208,7 +208,7 @@ music = {
 			factor = 1
 				AND = {
 				tag = PRC
-					has_government = communism
+					has_government = maoism
 				}
 				}
 		modifier = {

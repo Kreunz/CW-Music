@@ -1,0 +1,252 @@
+music_station = "yug_music"
+music = {
+	song = "Bijelo Dugme - Jugoslavijo"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YUG
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = YUG }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Yugoslav Armed Forces Medley"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YUG
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = YUG }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Uz Marsala Tita"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YUG
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = YUG }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Republiko Slavo Nasa"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YUG
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = YUG }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Pjesma Nove Mladosti"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YUG
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = YUG }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Pionirska Pjesma"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YUG
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = YUG }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Pesma Milicionara"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YUG
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = YUG }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Neki To Vole Vruce - Teska vremena"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YUG
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = YUG }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Nasa Jugoslavija"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YUG
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = YUG }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Internacionala"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YUG
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = YUG }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Hej Sloveni"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YUG
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = YUG }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Steg Partije"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YUG
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = YUG }
+			}
+			}
+		}
+	}
+}
