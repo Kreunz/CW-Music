@@ -294,6 +294,11 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "Karavan"
+	file = "countries/SOV/80s/Karavan.ogg"
+	volume = 0.65
+}
+music = {
 	name = "Armeyskiye Pesni - Privet Malyshka"
 	file = "countries/SOV/80s/Privet Malyshka.ogg"
 	volume = 0.65
