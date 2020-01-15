@@ -1,0 +1,231 @@
+music_station = "kpa_music"
+music = {
+	song = "No Motherland Without You"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KPA
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = KPA }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Dont Ask My Name"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KPA
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = KPA }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Without a Break"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KPA
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = KPA }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "The Soldiers Answered"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KPA
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = KPA }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "One Against a Hundred"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KPA
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = KPA }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "March of Songun Victory"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KPA
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = KPA }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Leader just give us your Order!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KPA
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = KPA }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Korea Does What It is Determined to Do!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KPA
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = KPA }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Jugeumeul Mije-Chimnyakjadeurege"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KPA
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = KPA }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "DPRK Song - Defend the Headquarters of Revolution"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KPA
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = KPA }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Aegukka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KPA
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = KPA }
+			}
+			}
+		}
+	}
+}

@@ -909,4 +909,205 @@ music = {
 	file = "countries/yug/Yugoslav Armed Forces Medley.ogg"
 	volume = 0.65
 	}
-	
+#KPA
+music = {
+	name = "No Motherland Without You"
+	file = "countries/kpa/No Motherland Without You.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Without a Break"
+	file = "countries/kpa/Without a break.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "The Soldiers Answered"
+	file = "countries/kpa/The soldiers answered.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "One Against a Hundred"
+	file = "countries/kpa/One against a hundred.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "March of Songun Victory"
+	file = "countries/kpa/March of Songun Victory.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Leader just give us your Order!"
+	file = "countries/kpa/Leader just give us your Order!.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Korea Does What It is Determined to Do!"
+	file = "countries/kpa/Korea does what it is Determined to Do!.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Jugeumeul Mije-Chimnyakjadeurege"
+	file = "countries/kpa/Jugeumeul Mije-Chimnyakjadeurege.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "DPRK Song - Defend the Headquarters of Revolution"
+	file = "countries/kpa/DPRK Song - Defend the Headquarters of Revolution.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Dont Ask My Name"
+	file = "countries/kpa/Dont Ask My Name.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "A Country Denied"
+	file = "countries/kpa/A Country Denied.ogg"
+	volume = 0.65
+	}
+#RHO
+music = {
+	name = "A Country Denied"
+	file = "countries/rho/A Country Denied.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Angels On My Wingtips"
+	file = "countries/rho/Angels On My wingtips.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Ballad of the Green Berets"
+	file = "countries/rho/Ballad of the Green Berets.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Flesh and Bone Solider"
+	file = "countries/rho/Flesh and Bone Solider.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "George"
+	file = "countries/rho/George.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "God's Country"
+	file = "countries/rho/Gods Country.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Goodbye Britannia"
+	file = "countries/rho/Goodbye Britania.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Great White Tribe"
+	file = "countries/rho/great white tribe.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Green Leader"
+	file = "countries/rho/GREEN LEADER.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Hate Us and See If We Mind"
+	file = "countries/rho/Hate Us and See If We Mind.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "I Left My Heart In Rhodesia"
+	file = "countries/rho/I Left My Heart In Rhodesia.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "In a Wilderness of Spite"
+	file = "countries/rho/In a Wilderness of Spite.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "It's a Long Way to Mukumbura"
+	file = "countries/rho/It's a Long Way to Mukumbura.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "John Edmond - Daisy"
+	file = "countries/rho/John Edmond - Daisy.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "One Fire"
+	file = "countries/rho/One Fire.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Rhodesia Regiment"
+	file = "countries/rho/Rhodesia Regiment.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Rhodesia well ever cherish thee"
+	file = "countries/rho/Rhodesia well ever cherish thee.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Rhodesia"
+	file = "countries/rho/Rhodesia.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Rhodesians Never Die"
+	file = "countries/rho/Rhodesians Never Die.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Rhodies Everywhere"
+	file = "countries/rho/Rhodies Everywhere.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Rise O Voices of Rhodesia"
+	file = "countries/rho/Rise O Voices of Rhodesia.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Snakes and Sniper"
+	file = "countries/rho/Snakes and sniper.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "The Last word in Rhodesian"
+	file = "countries/rho/The Last word in Rhodesian.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "The Msasas are turning"
+	file = "countries/rho/The Msasas are turning.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "The River Eternal"
+	file = "countries/rho/The River Eternal.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "The W.O.S Gone All Disco"
+	file = "countries/rho/The W.O.s Gone All Disco.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "We Rhodesians Drove Them All"
+	file = "countries/rho/We Rhodesians Drove Them All.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "What a Time it Was Rhodesia"
+	file = "countries/rho/What a Time it Was Rhodesia.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Whewe Song"
+	file = "countries/rho/Whewe Song.ogg"
+	volume = 0.65
+	}	

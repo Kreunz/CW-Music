@@ -68,4 +68,12 @@ spriteType = {
 		name = "GFX_yug_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//yug_album_art.dds"
 	}
+	spriteType = {
+		name = "GFX_kpa_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//kpa_album_art.dds"
+	}
+	spriteType = {
+		name = "GFX_rho_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//rho_album_art.dds"
+	}
 }

@@ -1,0 +1,586 @@
+music_station = "rho_music"
+music = {
+	song = "A Country Denied"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Angels On My Wingtips"
+	
+chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Flesh and Bone Solider"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "George"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "God's Country"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Goodbye Britannia"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Great White Tribe"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Green Leader"
+	
+chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Hate Us and See If We Mind"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "I Left My Heart In Rhodesia"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "In a Wilderness of Spite"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "It's a Long Way to Mukumbura"
+	
+chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "John Edmond - Daisy"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "One Fire"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Rhodesia Regiment"
+	
+chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Rhodesia well ever cherish thee"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Rhodesia"
+	
+chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Rhodesians Never Die"
+	
+chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Rhodies Everywhere"
+	
+chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Rise O Voices of Rhodesia"
+	
+chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "The Last word in Rhodesian"
+	
+chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Snakes and Sniper"
+	
+chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "The Msasas are turning"
+	
+chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "The River Eternal"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "The W.O.S Gone All Disco"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "What a Time it Was Rhodesia"
+	
+	
+chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "We Rhodesians Drove Them All"
+	
+chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Whewe Song"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = RHO
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = RHO }
+			}
+			}
+		}
+	}
+}
