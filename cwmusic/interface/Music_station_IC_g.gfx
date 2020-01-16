@@ -76,4 +76,8 @@ spriteType = {
 		name = "GFX_rho_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//rho_album_art.dds"
 	}
+	spriteType = {
+		name = "GFX_pol_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//pol_album_art.dds"
+	}
 }

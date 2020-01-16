@@ -1111,3 +1111,105 @@ music = {
 	file = "countries/rho/Whewe Song.ogg"
 	volume = 0.65
 	}	
+#POL
+music = {
+	name = "Czerwone"
+	file = "countries/pol/Czerwone.ogg"
+	volume = 0.65
+	}	
+music = {
+	name = "Deszcze Niespokojne"
+	file = "countries/pol/Deszcze niespokojne.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Dnia One-Go Wrzesnia"
+	file = "countries/pol/Dnia one-go Wrzesnia.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Do Partii"
+	file = "countries/pol/Do Partii.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Gdy Narod Do Boju"
+	file = "countries/pol/Gdy narod do boju.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "HALINA FRACKOWIAK -Papierowy Ksiezyc"
+	file = "countries/pol/HALINA FRACKOWIAK -Papierowy ksiezyc.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Kryzysowa Narzeczona"
+	file = "countries/pol/Lady Pank - Kryzysowa Narzeczona.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Marsz Gwardii Ludowej"
+	file = "countries/pol/Marsz Gwardii Ludowej.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Marsz Pierwszego Korpusu"
+	file = "countries/pol/Marsz Pierwszego Korpusu.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Mazurek Dabrowskiego"
+	file = "countries/pol/Mazurek Dabrowskiego.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Miedzynarodowka"
+	file = "countries/pol/Miedzynarodowka.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Mazowsze - Ukochany Kraj"
+	file = "countries/pol/Mazowsze - Ukochany kraj.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Na Barykady"
+	file = "countries/pol/Na barykady.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Pochod Przyjazni"
+	file = "countries/pol/Pochod Przyjazni.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Przybyli Ulani Pod Okienko"
+	file = "countries/pol/Przybyli ulani pod okienko.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Rota Przepiekna Piesn Patriotyczna"
+	file = "countries/pol/Rota przepiekna piesn patriotyczna.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Warszawianka"
+	file = "countries/pol/Warszawianka.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Warszawski Dzien"
+	file = "countries/pol/Warszawski dzien.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Zbudujemy Nowa Polske"
+	file = "countries/pol/Zbudujemy Nowa Polske.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Czerwona Holota"
+	file = "countries/pol/Czerwona Holota.ogg"
+	volume = 0.65
+	}
+	

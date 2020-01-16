@@ -1,0 +1,420 @@
+music_station = "pol_music"
+music = {
+	song = "Czerwone"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Deszcze Niespokojne"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Dnia One-Go Wrzesnia"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Do Partii"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Gdy Narod Do Boju"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "HALINA FRACKOWIAK -Papierowy Ksiezyc"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Kryzysowa Narzeczona"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Marsz Gwardii Ludowej"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Marsz Pierwszego Korpusu"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Mazurek Dabrowskiego"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Miedzynarodowka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Mazowsze - Ukochany Kraj"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Na Barykady"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Pochod Przyjazni"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Przybyli Ulani Pod Okienko"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Rota Przepiekna Piesn Patriotyczna"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Warszawianka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Warszawski Dzien"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Zbudujemy Nowa Polske"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Czerwona Holota"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
