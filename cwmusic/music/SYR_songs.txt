@@ -190,27 +190,6 @@ music = {
 }
 
 music = {
-	song = " Ya Hafez al-Assad (O Hafez al-Assad)"
-	
-	chance = {
-		modifier = {
-			factor = 1
-				AND = {
-				tag = SYR
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = SYR }
-			}
-			}
-		}
-	}
-}
-
-music = {
 	song = "Sabah Alkhyr Ya Wtnaan (Good Morning Our Country)"
 	
 	chance = {
