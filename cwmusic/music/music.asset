@@ -693,8 +693,8 @@ music = {
 	volume = 0.65
 }
 music = {
-	name = "Ya Hafez al-Assad (O Hafez al-Assad)"
-	file = "countries/syr/Ya Hafez al-Assad (O Hafez al-Assad).ogg"
+	name = "Nahn Alnasur (We are the Eagles)"
+	file = "countries/syr/Nahn Alnasur (We are the Eagles).ogg"
 	volume = 0.65
 }
 music = {

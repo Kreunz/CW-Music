@@ -190,6 +190,27 @@ music = {
 }
 
 music = {
+	song = "Nahn Alnasur (We are the Eagles)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SYR
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SYR }
+			}
+			}
+		}
+	}
+}
+
+music = {
 	song = "Sabah Alkhyr Ya Wtnaan (Good Morning Our Country)"
 	
 	chance = {
