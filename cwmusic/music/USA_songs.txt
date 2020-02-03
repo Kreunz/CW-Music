@@ -169,34 +169,6 @@ music = {
 	}
 }
 music = {
-	song = "Napalm Sticks to Kids"
-	
-	chance = {
-		modifier = {
-			factor = 1
-			AND = {
-				tag = USA
-				date > 1970.1.1
-				date < 1990.1.1
-				}
-			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1970.1.6
-			}
-			AND = {
-			date > 1990.1.1
-			}
-			AND = {
-            NOT = { tag = USA }
-			}
-			}
-		}
-	}
-}
-music = {
 	song = "Elvis Presley - Don't be cruel"
 	
 	chance = {

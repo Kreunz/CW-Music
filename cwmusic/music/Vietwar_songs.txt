@@ -1,0 +1,61 @@
+#USA
+music_station = "vietwar"
+music = {
+	song = "Rolling Stones - Paint It Black"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+
+music = {
+	song = "Billy Joel - Goodnight Saigon"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+
+music = {
+	song = "Covered Wagon Musicians - Napalm Sticks to Kids"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+
+music = {
+	song = "CCR - Fortunate Son"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+
+music = {
+	song = "Beach Party Vietnam"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+
+music = {
+	song = "California Dreamin"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}

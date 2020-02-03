@@ -256,16 +256,6 @@ music = {
 	file = "countries/SOV/60s/Nu chto tebe skazat' pro Sakhalin.ogg"
 	volume = 0.65
 }
-music = {
-	name = "Korobushka"
-	file = "countries/SOV/60s/Korobushka.ogg"
-	volume = 0.65
-}
-music = {
-	name = "Korobushka"
-	file = "countries/SOV/60s/Korobushka.ogg"
-	volume = 0.65
-}
 #70s_sov
 music = {
 	name = "Moy Adres Sovetskiy Soyuz"
@@ -321,6 +311,37 @@ music = {
 music = {
 	name = "Viktor Tsoi - Zvezda Po Imeni Solntse"
 	file = "countries/SOV/80s/Viktor Tsoi - Zvezda Po Imeni Solntse.ogg"
+	volume = 0.65
+}
+#Vietnam War
+music = {
+	name = "Rolling Stones - Paint It Black"
+	file = "countries/USA/vietnam/Paint It Black.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Billy Joel - Goodnight Saigon"
+	file = "countries/USA/vietnam/Goodnight Saigon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Covered Wagon Musicians - Napalm Sticks to Kids"
+	file = "countries/USA/vietnam/Covered Wagon Musicians - Napalm Sticks to Kids.ogg"
+	volume = 0.65
+}
+music = {
+	name = "CCR - Fortunate Son"
+	file = "countries/USA/vietnam/Fortunate Son.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Beach Party Vietnam"
+	file = "countries/USA/vietnam/Beach Party Vietnam.ogg"
+	volume = 0.65
+}
+music = {
+	name = "California Dreamin"
+	file = "countries/USA/vietnam/California Dreamin.ogg"
 	volume = 0.65
 }
 #USA:
@@ -958,11 +979,6 @@ music = {
 music = {
 	name = "Dont Ask My Name"
 	file = "countries/kpa/Dont Ask My Name.ogg"
-	volume = 0.65
-	}
-music = {
-	name = "A Country Denied"
-	file = "countries/kpa/A Country Denied.ogg"
 	volume = 0.65
 	}
 #RHO
