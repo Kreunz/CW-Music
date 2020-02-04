@@ -59,3 +59,42 @@ music = {
 			}
 	}
 }
+
+music = {
+	song = "The Black Angels - The First Vietnamese War"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+
+music = {
+	song = "The Dead Kennedys - Holiday in Cambodia"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+
+music = {
+	song = "The Animals - We've Gotta Get Out Of This Place"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Buffalo Springfield - For What It's Worth"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}

@@ -341,7 +341,27 @@ music = {
 }
 music = {
 	name = "California Dreamin"
-	file = "countries/USA/vietnam/California Dreamin.ogg"
+	file = "countries/USA/vietnam/california_dreamin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Black Angels - The First Vietnamese War"
+	file = "countries/USA/vietnam/The Black Angels - The First Vietnamese War.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Dead Kennedys - Holiday in Cambodia"
+	file = "countries/USA/vietnam/The Dead Kennedys - Holiday in Cambodia.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Animals - We've Gotta Get Out Of This Place"
+	file = "countries/USA/vietnam/The Animals - We've Gotta Get Out Of This Place.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Buffalo Springfield - For What It's Worth"
+	file = "countries/USA/vietnam/For whats it worth.ogg"
 	volume = 0.65
 }
 #USA:
