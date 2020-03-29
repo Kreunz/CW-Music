@@ -1,6 +1,5 @@
-#SPR
+#SPR FRANCO ERA
 music_station = "spr_franco_music"
-#FRANCO ERA
 music = {
 	song = "Marcha Real (The Royal March, Franco-era)"
 	

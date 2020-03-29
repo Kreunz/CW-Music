@@ -85,7 +85,7 @@ spriteType = {
 		texturefile = "gfx//interface//topbar//musicplayer//pol_album_art.dds"
 	}
 	spriteType = {
-		name = "GFX_spr_album_franco_art"
+		name = "GFX_spr_music_album_franco_art"
 		texturefile = "gfx//interface//topbar//musicplayer//spr_album_franco_art.dds"
 	}
 }
