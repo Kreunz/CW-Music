@@ -759,6 +759,51 @@ music = {
 	file = "countries/syr/Sabah Alkhyr Ya Wtnaan (Good Morning Our Country).ogg"
 	volume = 0.65
 }
+music = {
+	name = "Al-Nasr al-Arabiyu (The Arabian Eagle)"
+	file = "countries/syr/Al-Nasr al-Arabiyu (The Arabian Eagle).ogg"
+	volume = 0.65
+}	
+music = {
+	name = "Al-Watan al-Arabiyya (Glory to You, Arab World)"
+	file = "countries/syr/Al-Watan al-Arabiyya (Glory to You, Arab World).ogg"
+	volume = 0.65
+}
+music = {
+	name = "As-Salam al-Malaki (The Royal Salute)"
+	file = "countries/syr/As-Salam al-Malaki (The Royal Salute).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Fida'i (The Fedayeen)"
+	file = "countries/syr/Fida'i (The Fedayeen).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mawtini (My Homeland)"
+	file = "countries/syr/Mawtini (My Homeland).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mawtini (My Homeland, Iraqi Republic)"
+	file = "countries/syr/Mawtini (My Homeland, Iraqi Republic).ogg"
+	volume = 0.65
+}
+music = {
+	name = "National Anthem of Lebanon"
+	file = "countries/syr/National anthem of Lebanon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Royal Anthem of Jordan"
+	file = "countries/syr/Royal Anthem of Jordan.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Anthem of the Arab Socialist Ba'ath Party"
+	file = "countries/syr/Baath Anthem.ogg"
+	volume = 0.65
+}
 
 #SAF
 music = {
@@ -1264,4 +1309,50 @@ music = {
 	file = "countries/pol/Czerwona Holota.ogg"
 	volume = 0.65
 	}
-	
+
+#SPR	
+music = {
+	name = "Marcha Real (The Royal March, Franco-era)"
+	file = "countries/SPR/Marcha Real (The Royal March, Franco-era).ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Cara al Sol (Facing the Sun)"
+	file = "countries/SPR/Cara al Sol (Facing the Sun).ogg"
+	volume = 0.65
+	}
+music = {
+	name = "La Cancion del Legionario (The Song of the Legionnaires)"
+	file = "countries/SPR/La Cancion del Legionario (The Song of the Legionnaires).ogg"
+	volume = 0.65
+	}
+music = {
+	name = "El Novio de la Muerte (The Boyfriend of Lady Death)"
+	file = "countries/SPR/El Novio de la Muerte (The Boyfriend of Lady Death).ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Se Franco Vogliamo Seguire (If We Follow Franco)"
+	file = "countries/SPR/Se Franco Vogliamo Seguire (If We Follow Franco).ogg"
+	volume = 0.65
+	}
+music = {
+	name = "El Generalísimo (The Generalissimo)"
+	file = "countries/SPR/El Generalísimo (The Generalissimo).ogg"
+	volume = 0.65
+	}
+music = {
+	name = "La, La, La"
+	file = "countries/SPR/La, La, La.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Vivo Cantando (I Live Singing)"
+	file = "countries/SPR/Vivo Cantando (I Live Singing).ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Eres Tu (It's You)"
+	file = "countries/SPR/Eres Tu (It's You).ogg"
+	volume = 0.65
+	}

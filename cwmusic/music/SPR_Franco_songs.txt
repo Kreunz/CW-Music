@@ -1,0 +1,164 @@
+#SPR
+music_station = "spr_music_franco"
+#FRANCO ERA
+music = {
+	song = "Marcha Real (The Royal March, Franco-era)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SPR
+			}
+		modifier = {
+            factor = 0
+
+            NOT = {
+        	    tag = SPR
+			}
+        }
+	}
+}
+
+music = {
+	song = "Cara al Sol (Facing the Sun)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SPR
+			}
+		modifier = {
+            factor = 0
+
+            NOT = {
+        	    tag = SPR
+			}
+        }
+	}
+}
+
+music = {
+	song = "La Cancion del Legionario (The Song of the Legionnaires)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SPR
+			}
+		modifier = {
+            factor = 0
+
+            NOT = {
+        	    tag = SPR
+			}
+        }
+	}
+}
+
+music = {
+	song = "El Novio de la Muerte (The Boyfriend of Lady Death)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SPR
+			}
+		modifier = {
+            factor = 0
+
+            NOT = {
+        	    tag = SPR
+			}
+        }
+	}
+}
+
+music = {
+	song = "Se Franco Vogliamo Seguire (If We Follow Franco)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SPR
+			}
+		modifier = {
+            factor = 0
+
+            NOT = {
+        	    tag = SPR
+			}
+        }
+	}
+}
+
+music = {
+	song = "El Generalísimo (The Generalissimo)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SPR
+			}
+		modifier = {
+            factor = 0
+
+            NOT = {
+        	    tag = SPR
+			}
+        }
+	}
+}
+
+music = {
+	song = "La, La, La"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SPR
+			}
+		modifier = {
+            factor = 0
+
+            NOT = {
+        	    tag = SPR
+			}
+        }
+	}
+}
+
+music = {
+	song = "Vivo Cantando (I Live Singing)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SPR
+			}
+		modifier = {
+            factor = 0
+
+            NOT = {
+        	    tag = SPR
+			}
+        }
+	}
+}
+
+music = {
+	song = "Eres Tu (It's You)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SPR
+			}
+		modifier = {
+            factor = 0
+
+            NOT = {
+        	    tag = SPR
+			}
+        }
+	}
+}

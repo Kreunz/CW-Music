@@ -69,15 +69,31 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-				AND = {
+			AND = {
 				tag = SYR
-				}
-				}
+				has_government = nationalism
+			}
+		}
+		modifier = {
+			factor = 1
+			AND = {
+				tag = LEB
+				has_government = nationalism
+			}
+		}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
             NOT = { tag = SYR }
+			}
+			}
+		}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = LEB }
 			}
 			}
 		}
@@ -225,6 +241,693 @@ music = {
 			OR = {
 			AND = {
             NOT = { tag = SYR }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Al-Nasr al-Arabiyu (The Arabian Eagle)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = IRQ
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = IRQ }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Al-Watan al-Arabiyya (Glory to You, Arab World)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SYR
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = IRQ
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = LBA
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = EGY
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = LEB
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JOR
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = PAL
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SAU
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KUW
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = QAT
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = BAH
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = UAE
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YEM
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = TUN
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = ALG
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = MOR
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = MAU
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SYR }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = IRQ }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = LEB }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = JOR }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = PAL }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = SAU }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = KUW }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = QAT }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = BAH }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = UAE }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = YEM }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = TUN }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = ALG }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = MOR }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = MAU }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "As-Salam al-Malaki (The Royal Salute)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = IRQ
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = IRQ }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Fida'i (The Fedayeen)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = PAL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PAL }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Mawtini (My Homeland)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SYR
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = IRQ
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = LBA
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = EGY
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = LEB
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JOR
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = PAL
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SAU
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KUW
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = QAT
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = BAH
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = UAE
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YEM
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = TUN
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = ALG
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = MOR
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = MAU
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SYR }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = IRQ }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = LEB }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = JOR }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = PAL }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = SAU }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = KUW }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = QAT }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = BAH }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = UAE }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = YEM }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = TUN }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = ALG }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = MOR }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = MAU }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Mawtini (My Homeland, Iraqi Republic)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = IRQ
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = IRQ }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "National Anthem of Lebanon"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = LEB
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = LEB }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Royal Anthem of Jordan"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JOR
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JOR }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Anthem of the Arab Socialist Ba'ath Party"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SYR
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = IRQ
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = LBA
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = EGY
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = LEB
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JOR
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = PAL
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SAU
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KUW
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = QAT
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = BAH
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = UAE
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YEM
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = TUN
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = ALG
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = MOR
+				}
+			}
+		modifier = {
+			factor = 1
+				AND = {
+				tag = MAU
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SYR }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = IRQ }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = LEB }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = JOR }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = PAL }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = SAU }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = KUW }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = QAT }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = BAH }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = UAE }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = YEM }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = TUN }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = ALG }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = MOR }
+			}
+			}
+			OR = {
+			AND = {
+            NOT = { tag = MAU }
 			}
 			}
 		}

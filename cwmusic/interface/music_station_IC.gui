@@ -165,13 +165,13 @@ containerWindowType = {
 		}
 	}
 	containerWindowType={
-		name = "jap_heisei_music_stations_entry"
+		name = "spr_franco_music_stations_entry"
 		size = { width = 162 height = 130 }
 		
 		checkBoxType = {
 			name = "select_station_button"
 			position = { x = 0 y = 0 }
-			quadTextureSprite = "GFX_jap_heisei_music_album_art"
+			quadTextureSprite = "GFX_spr_album_franco_art"
 			clicksound = decisions_ui_button
 		}
 	}
