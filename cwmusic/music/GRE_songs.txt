@@ -1,0 +1,21 @@
+music_station = "gre_music"
+music = {
+	song = "Come back"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = GRE
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = GRE }
+			}
+			}
+		}
+	}
+}

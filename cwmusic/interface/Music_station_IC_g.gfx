@@ -13,6 +13,10 @@ spriteType = {
 		texturefile = "gfx//interface//topbar//musicplayer//usa_album_art.dds"
 	}
 	spriteType = {
+		name = "GFX_gre_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//gre_album_art.dds"
+	}
+	spriteType = {
 		name = "GFX_vietwar_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//usa_album_art.dds"
 	}

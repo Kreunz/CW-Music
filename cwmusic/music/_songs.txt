@@ -146,6 +146,18 @@ music = {
 }
 }
 
+music_station = "west_70s_music"
+
+music = {
+	song = "Pink Floyd - Wish You Were Here"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+
 music_station = "ic_music"
 
 music = {
@@ -435,6 +447,22 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "Field Of Poppies"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = no
+		}
+		modifier = {
+			factor = 0
+
+			has_war = yes
+		}		
+	}
+}
 #ASIA
 music = {
 	song = "Orient"
@@ -474,6 +502,23 @@ music = {
 
 music = {
 	song = "When It All Falls Down"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = yes
+		}
+		modifier = {
+			factor = 0
+
+			has_war = no
+		}		
+	}
+}
+
+music = {
+	song = "Winner None"
 	
 	chance = {
 		modifier = {

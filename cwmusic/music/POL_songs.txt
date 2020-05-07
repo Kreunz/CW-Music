@@ -21,6 +21,27 @@ music = {
 }
 
 music = {
+	song = "Oka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = POL
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = POL }
+			}
+			}
+		}
+	}
+}
+
+music = {
 	song = "Deszcze Niespokojne"
 	
 	chance = {
@@ -294,48 +315,6 @@ music = {
 }
 
 music = {
-	song = "Przybyli Ulani Pod Okienko"
-	
-	chance = {
-		modifier = {
-			factor = 1
-				AND = {
-				tag = POL
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = POL }
-			}
-			}
-		}
-	}
-}
-
-music = {
-	song = "Rota Przepiekna Piesn Patriotyczna"
-	
-	chance = {
-		modifier = {
-			factor = 1
-				AND = {
-				tag = POL
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = POL }
-			}
-			}
-		}
-	}
-}
-
-music = {
 	song = "Warszawianka"
 	
 	chance = {
@@ -379,27 +358,6 @@ music = {
 
 music = {
 	song = "Zbudujemy Nowa Polske"
-	
-	chance = {
-		modifier = {
-			factor = 1
-				AND = {
-				tag = POL
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = POL }
-			}
-			}
-		}
-	}
-}
-
-music = {
-	song = "Czerwona Holota"
 	
 	chance = {
 		modifier = {

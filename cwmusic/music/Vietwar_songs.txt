@@ -29,6 +29,45 @@ music = {
 			}
 	}
 }
+music = {
+	song = "Zombies - Time Of The Season"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+
+music = {
+	song = "Bob Dylan - The Times They Are A-Changin"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+
+music = {
+	song = "Jefferson Airplane - Somebody to love"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+
+music = {
+	song = "The Jimi Hendrix Experience - All Along The Watchtower"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
 
 music = {
 	song = "CCR - Fortunate Son"

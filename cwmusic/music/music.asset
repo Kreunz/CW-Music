@@ -6,6 +6,13 @@ music = {
 	volume = 0.65
 }
 
+#greece
+music = {
+	name = "Come back"
+	file = "countries/GRE/Come back.ogg"
+	volume = 0.65
+}
+
 #west
 music = {
 	name = "The September - See You in September"
@@ -113,6 +120,11 @@ music = {
 	file = "generic/peace/FOB Menu.ogg"
 	volume = 0.70
 }
+music = {
+	name = "Field Of Poppies"
+	file = "generic/peace/Field Of Poppies.ogg"
+	volume = 0.65
+}
 
 # General war:
 music = {
@@ -140,7 +152,11 @@ music = {
 	file = "generic/war/In The House, In A Heartbeat.ogg"
 	volume = 0.65
 }
-
+music = {
+	name = "Winner None"
+	file = "generic/war/Winner None.ogg"
+	volume = 0.65
+}
 
 #Asia:
 music = {
@@ -160,6 +176,16 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "Anthem of the Byelorussian Soviet Socialist Republic"
+	file = "countries/SOV/Anthem of the Byelorussian Soviet Socialist Republic.ogg"
+	volume = 0.65
+}
+music = {
+	name = "National Anthem of The Karelo-Finnish SSR"
+	file = "countries/SOV/National Anthem of The Karelo-Finnish SSR.ogg"
+	volume = 0.55
+}
+music = {
 	name = "Farewell of Slavianka"
 	file = "countries/SOV/Farewell of Slavianka.ogg"
 	volume = 0.65
@@ -172,6 +198,11 @@ music = {
 music = {
 	name = "Shiroka Strana Moya Rodnaya"
 	file = "countries/SOV/Shiroka strana moya rodnaya.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ekipazh - Odna Semya"
+	file = "countries/SOV/Ekipazh - Odna Semya.ogg"
 	volume = 0.65
 }
 music = {
@@ -320,6 +351,26 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "Zombies - Time Of The Season"
+	file = "countries/USA/vietnam/Zombies - Time Of The Season.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bob Dylan - The Times They Are A-Changin"
+	file = "countries/USA/vietnam/Bob Dylan - The Times They Are A-Changin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jefferson Airplane - Somebody to love"
+	file = "countries/USA/vietnam/somebody to love-jefferson airplane.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Jimi Hendrix Experience - All Along The Watchtower"
+	file = "countries/USA/vietnam/The Jimi Hendrix Experience - All Along The Watchtower.ogg"
+	volume = 0.65
+}
+music = {
 	name = "Billy Joel - Goodnight Saigon"
 	file = "countries/USA/vietnam/Goodnight Saigon.ogg"
 	volume = 0.65
@@ -398,11 +449,6 @@ music = {
 music = {
 	name = "Chuck Berry - Johnny B. Goode"
 	file = "countries/USA/Chuck Berry - Johnny B. Goode.ogg"
-	volume = 0.65
-}
-music = {
-	name = "Napalm Sticks to Kids"
-	file = "countries/USA/Napalm Sticks to Kids.ogg"
 	volume = 0.65
 }
 music = {
@@ -824,6 +870,16 @@ music = {
 	volume = 0.65
 	}
 music = {
+	name = "Septemvriitzi"
+	file = "countries/bul/Septemvriitzi.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pasha Hristova-Edna Bulgarska Roza"
+	file = "countries/bul/Pasha Hristova-Edna Bulgarska Roza.ogg"
+	volume = 0.65
+}
+music = {
 	name = "Bulgarian Anthem (Communist)"
 	file = "countries/bul/Bulgarian Anthem (Communist).ogg"
 	volume = 0.65
@@ -1213,7 +1269,12 @@ music = {
 	name = "Czerwone"
 	file = "countries/pol/Czerwone.ogg"
 	volume = 0.65
-	}	
+	}
+music = {
+	name = "Oka"
+	file = "countries/pol/Oka.ogg"
+	volume = 0.65
+}
 music = {
 	name = "Deszcze Niespokojne"
 	file = "countries/pol/Deszcze niespokojne.ogg"
@@ -1280,16 +1341,6 @@ music = {
 	volume = 0.65
 	}
 music = {
-	name = "Przybyli Ulani Pod Okienko"
-	file = "countries/pol/Przybyli ulani pod okienko.ogg"
-	volume = 0.65
-	}
-music = {
-	name = "Rota Przepiekna Piesn Patriotyczna"
-	file = "countries/pol/Rota przepiekna piesn patriotyczna.ogg"
-	volume = 0.65
-	}
-music = {
 	name = "Warszawianka"
 	file = "countries/pol/Warszawianka.ogg"
 	volume = 0.65
@@ -1302,11 +1353,6 @@ music = {
 music = {
 	name = "Zbudujemy Nowa Polske"
 	file = "countries/pol/Zbudujemy Nowa Polske.ogg"
-	volume = 0.65
-	}
-music = {
-	name = "Czerwona Holota"
-	file = "countries/pol/Czerwona Holota.ogg"
 	volume = 0.65
 	}
 

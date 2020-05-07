@@ -383,7 +383,79 @@ music = {
 	}
 }
 music = {
+	song = "Anthem of the Byelorussian Soviet Socialist Republic"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "National Anthem of The Karelo-Finnish SSR"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Farewell of Slavianka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Ekipazh - Odna Semya"
 	
 	chance = {
 		modifier = {
