@@ -29,6 +29,118 @@ music = {
 	}
 }
 music = {
+	song = "Franklin Lymon - Why do fools fall in love"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = USA
+				date > 1949.1.1
+				date < 1960.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1949.1.1
+			}
+			AND = {
+			date > 1960.1.1
+			}
+			AND = {
+            NOT = { tag = USA }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Roy Hamilton - You can have her"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = USA
+				date > 1949.1.1
+				date < 1960.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1949.1.1
+			}
+			AND = {
+			date > 1960.1.1
+			}
+			AND = {
+            NOT = { tag = USA }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Jan Dean - The Universal Coward"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = USA
+				date > 1949.1.1
+				date < 1960.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1949.1.1
+			}
+			AND = {
+			date > 1960.1.1
+			}
+			AND = {
+            NOT = { tag = USA }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Prescott Reed - Russia Russia (Lay That Missile Down)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = USA
+				date > 1949.1.1
+				date < 1960.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1949.1.1
+			}
+			AND = {
+			date > 1960.1.1
+			}
+			AND = {
+            NOT = { tag = USA }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Johnny Guitar"
 	
 	chance = {

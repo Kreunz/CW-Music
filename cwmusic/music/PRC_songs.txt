@@ -5,47 +5,78 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-				AND = {
-				tag = PRC
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = PRC }
-			}
-			AND = {
-			NOT = { has_government = maoism }
-			}
-			}
+		factor = 1
 		}
 	}
 }
-
+music = {
+	song = "Workers, Peasants and Soldiers Unite"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}music = {
+	song = "The Revolutionaries Are Always Young"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Three Rules and Eight Notices For Attention"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "As the War Approaches"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "March of the People's Liberation Army!"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Ode to the Motherland!"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Katyusha - Chinese version"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
 music = {
 	song = "Red Sun in the Sky"
 	
 	chance = {
 		modifier = {
-			factor = 1
-				AND = {
-				tag = PRC
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = PRC }
-			}
-			AND = {
-			NOT = { has_government = maoism }
-			}
-			}
+		factor = 1
 		}
 	}
 }
@@ -55,22 +86,7 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-				AND = {
-				tag = PRC
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = PRC }
-			}
-			AND = {
-			NOT = { has_government = maoism }
-			}
-			}
+		factor = 1
 		}
 	}
 }
@@ -80,22 +96,7 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-				AND = {
-				tag = PRC
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = PRC }
-			}
-			AND = {
-			NOT = { has_government = maoism }
-			}
-			}
+		factor = 1
 		}
 	}
 }
@@ -103,24 +104,9 @@ music = {
 music = {
 	song = "Learn From Lei Feng's Good Example"
 	
-	chance = {
+chance = {
 		modifier = {
-			factor = 1
-				AND = {
-				tag = PRC
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = PRC }
-			}
-			AND = {
-			NOT = { has_government = maoism }
-			}
-			}
+		factor = 1
 		}
 	}
 }
@@ -130,22 +116,7 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-				AND = {
-				tag = PRC
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = PRC }
-			}
-			AND = {
-			NOT = { has_government = maoism }
-			}
-			}
+		factor = 1
 		}
 	}
 }
@@ -155,22 +126,7 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-				AND = {
-				tag = PRC
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = PRC }
-			}
-			AND = {
-			NOT = { has_government = maoism }
-			}
-			}
+		factor = 1
 		}
 	}
 }
@@ -180,22 +136,7 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-				AND = {
-				tag = PRC
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = PRC }
-			}
-			AND = {
-			NOT = { has_government = maoism }
-			}
-			}
+		factor = 1
 		}
 	}
 }
@@ -205,22 +146,7 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-				AND = {
-				tag = PRC
-					has_government = maoism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = PRC }
-			}
-			AND = {
-			NOT = { has_government = maoism }
-			}
-			}
+		factor = 1
 		}
 	}
 }
@@ -230,22 +156,7 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-				AND = {
-				tag = PRC
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = PRC }
-			}
-			AND = {
-			NOT = { has_government = maoism }
-			}
-			}
+		factor = 1
 		}
 	}
 }

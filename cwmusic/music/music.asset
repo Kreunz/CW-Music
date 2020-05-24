@@ -125,11 +125,75 @@ music = {
 	file = "generic/peace/Field Of Poppies.ogg"
 	volume = 0.65
 }
-
+music = {
+	name = "Brian Tyler - Im Sorry"
+	file = "generic/peace/Brian Tyler - Im Sorry.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Connection"
+	file = "generic/peace/Connection.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dawn of a New Time"
+	file = "generic/peace/Dawn of a New Time.ogg"
+	volume = 0.65
+}
+music = {
+	name = "WiC - Looking for Survivors"
+	file = "generic/peace/WiC - Looking for Survivors.ogg"
+	volume = 0.65
+}
+music = {
+	name = "WiC - Trimethoxyphenethylamine"
+	file = "generic/peace/WiC - Trimethoxyphenethylamine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "WiC - Nicole"
+	file = "generic/peace/WiC - Nicole.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Flight Of The Pigeon"
+	file = "generic/peace/The Flight Of The Pigeon.ogg"
+	volume = 0.65
+}
+music = {
+	name = "East vs West - Delightful Poetry"
+	file = "generic/peace/East vs West - Delightful Poetry.ogg"
+	volume = 0.65
+}
+music = {
+	name = "East vs West - Water Vapour"
+	file = "generic/peace/East vs West - Water Vapour.ogg"
+	volume = 0.65
+}
+music = {
+	name = "East vs West - Responsibilities"
+	file = "generic/peace/East vs West - Responsibilities.ogg"
+	volume = 0.65
+}
+music = {
+	name = "East vs West - Voices Through Lights"
+	file = "generic/peace/East vs West - Voices Through Lights.ogg"
+	volume = 0.65
+}
 # General war:
 music = {
 	name = "When It All Falls Down"
 	file = "generic/war/Audiomachine - When It All Falls Down.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Halo"
+	file = "generic/war/Halo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Don't forget"
+	file = "generic/war/Don't forget.ogg"
 	volume = 0.65
 }
 music = {
@@ -415,10 +479,35 @@ music = {
 	file = "countries/USA/vietnam/For whats it worth.ogg"
 	volume = 0.65
 }
+music = {
+	name = "Phil Ochs - Draft Dodger Rag"
+	file = "countries/USA/vietnam/Phil Ochs Draft Dodger Rag.ogg"
+	volume = 0.65
+}
 #USA:
 music = {
 	name = "Vaughn Monroe - Riders In The Sky"
 	file = "countries/USA/Vaughn Monroe - Riders In The Sky.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Franklin Lymon - Why do fools fall in love"
+	file = "countries/USA/Franklin Lymon - Why do fools fall in love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Roy Hamilton - You can have her"
+	file = "countries/USA/Roy Hamilton - You can have her.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jan Dean - The Universal Coward"
+	file = "countries/USA/Jan Dean - The Universal Coward.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Prescott Reed - Russia Russia (Lay That Missile Down)"
+	file = "countries/USA/Prescott Reed - Russia Russia (Lay That Missile Down).ogg"
 	volume = 0.65
 }
 music = {
@@ -929,7 +1018,42 @@ music = {
 	name = "The People of Yanbian Love Chairman Mao (Tibetan Version)"
 	file = "countries/prc/The People of Yanbian Love Chairman Mao (Tibetan Version).ogg"
 	volume = 0.65
-	}
+}
+music = {
+	name = "The Revolutionaries Are Always Young"
+	file = "countries/prc/The Revolutionaries Are Always Young.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Three Rules and Eight Notices For Attention"
+	file = "countries/prc/Three Rules and Eight Notices For Attention.ogg"
+	volume = 0.65
+}
+music = {
+	name = "As the War Approaches"
+	file = "countries/prc/As the War Approaches.ogg"
+	volume = 0.65
+}
+music = {
+	name = "March of the People's Liberation Army!"
+	file = "countries/prc/March of the People's Liberation Army!.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ode to the Motherland!"
+	file = "countries/prc/Ode to the Motherland!.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Katyusha - Chinese version"
+	file = "countries/prc/Katyusha - Chinese version.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Workers, Peasants and Soldiers Unite"
+	file = "countries/prc/Workers, Peasants and Soldiers Unite.ogg"
+	volume = 0.65
+}
 music = {
 	name = "Red Sun in the Sky"
 	file = "countries/prc/Red Sun in the Sky.ogg"

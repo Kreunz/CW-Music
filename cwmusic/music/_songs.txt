@@ -293,14 +293,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-
-			has_war = no
-		}
-		modifier = {
-			factor = 0
-
-			has_war = yes
-		}		
+		}	
 	}
 }
 music = {
@@ -309,14 +302,79 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-
-			has_war = no
-		}
+		}	
+	}
+}
+music = {
+	song = "WiC - Trimethoxyphenethylamine"
+	
+	chance = {
 		modifier = {
-			factor = 0
-
-			has_war = yes
-		}		
+			factor = 1
+		}	
+	}
+}
+music = {
+	song = "WiC - Nicole"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}	
+	}
+}
+music = {
+	song = "WiC - Nicole"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}	
+	}
+}
+music = {
+	song = "The Flight Of The Pigeon"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}	
+	}
+}
+music = {
+	song = "East vs West - Delightful Poetry"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}	
+	}
+}
+music = {
+	song = "East vs West - Responsibilities"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}	
+	}
+}
+music = {
+	song = "East vs West - Voices Through Lights"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}	
+	}
+}
+music = {
+	song = "East vs West - Water Vapour"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}	
 	}
 }
 music = {
@@ -325,14 +383,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-
-			has_war = no
-		}
-		modifier = {
-			factor = 0
-
-			has_war = yes
-		}		
+		}	
 	}
 }
 music = {
@@ -341,14 +392,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-
-			has_war = no
-		}
-		modifier = {
-			factor = 0
-
-			has_war = yes
-		}		
+		}	
 	}
 }
 music = {
@@ -357,14 +401,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-
-			has_war = no
-		}
-		modifier = {
-			factor = 0
-
-			has_war = yes
-		}		
+		}	
 	}
 }
 music = {
@@ -373,14 +410,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-
-			has_war = no
-		}
-		modifier = {
-			factor = 0
-
-			has_war = yes
-		}		
+		}	
 	}
 }
 music = {
@@ -389,14 +419,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-
-			has_war = no
-		}
-		modifier = {
-			factor = 0
-
-			has_war = yes
-		}		
+		}	
 	}
 }
 music = {
@@ -405,14 +428,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-
-			has_war = no
-		}
-		modifier = {
-			factor = 0
-
-			has_war = yes
-		}		
+		}	
 	}
 }
 music = {
@@ -421,14 +437,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-
-			has_war = no
-		}
-		modifier = {
-			factor = 0
-
-			has_war = yes
-		}		
+		}	
 	}
 }
 music = {
@@ -437,14 +446,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-
-			has_war = no
-		}
-		modifier = {
-			factor = 0
-
-			has_war = yes
-		}		
+		}	
 	}
 }
 music = {
@@ -453,14 +455,43 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-
-			has_war = no
-		}
+		}	
+	}
+}
+music = {
+	song = "Brian Tyler - Im Sorry"
+	
+	chance = {
 		modifier = {
-			factor = 0
-
-			has_war = yes
-		}		
+			factor = 1
+		}	
+	}
+}
+music = {
+	song = "Connection"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}	
+	}
+}
+music = {
+	song = "Dawn of a New Time"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}	
+	}
+}
+music = {
+	song = "WiC - Looking for Survivors"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}	
 	}
 }
 #ASIA
@@ -516,7 +547,38 @@ music = {
 		}		
 	}
 }
+music = {
+	song = "Halo"
+	
+	chance = {
+		modifier = {
+			factor = 1
 
+			has_war = yes
+		}
+		modifier = {
+			factor = 0
+
+			has_war = no
+		}		
+	}
+}
+music = {
+	song = "Don't forget"
+	
+	chance = {
+		modifier = {
+			factor = 1
+
+			has_war = yes
+		}
+		modifier = {
+			factor = 0
+
+			has_war = no
+		}		
+	}
+}
 music = {
 	song = "Winner None"
 	
