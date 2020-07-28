@@ -1,0 +1,119 @@
+#USA
+music_station = "cze_music"
+music = {
+	song = "Internacioala"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "Kupredu leva zpatky ni krok"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Pochod Leninske vyzvy"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Rudy prapor"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Kamaradi"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Rozkvetly den (Bez chleba nejde jist)"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Zemedelska"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Pochod rudych sportovcu"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Flamengo - Vim, ze placem to skonci"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Petr Spaleny - Kopec"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "To je strana"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Vezeaska"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Pisen prace"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}

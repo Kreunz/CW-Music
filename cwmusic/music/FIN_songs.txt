@@ -1,0 +1,91 @@
+#PRC
+music_station = "fin_music"
+music = {
+	song = "Olavi Virta - Hopeinen Kuu"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Georg Ots - Moskovan valot"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}music = {
+	song = "Hector - Lumi teki enkelin eteiseen"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Eppu Normaali - Suomi ilmiö"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Eppu Normaali - Vuonna '85"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Katri Helena - Minne Tuuli Kuljettaa"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Kari Tapio - Olen Suomalainen"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Täällä Pohjantähden alla"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Lippulaulu"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Maamme"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}

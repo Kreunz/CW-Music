@@ -49,12 +49,24 @@ spriteType = {
 		texturefile = "gfx//interface//topbar//musicplayer//pdg_album_art.dds"
 	}
 	spriteType = {
+		name = "GFX_cze_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//cze_album_art.dds"
+	}
+	spriteType = {
+		name = "GFX_wgr_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//wgr_album_art.dds"
+	}
+	spriteType = {
 		name = "GFX_irq_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//irq_album_art.dds"
 	}
 	spriteType = {
 		name = "GFX_uar_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//uar_album_art.dds"
+	}
+	spriteType = {
+		name = "GFX_west_80s_music_album_art"
+		texturefile = "gfx//interface//topbar//musicplayer//west_80s_album_art.dds"
 	}
 	spriteType = {
 		name = "GFX_sov_80s_music_album_art"

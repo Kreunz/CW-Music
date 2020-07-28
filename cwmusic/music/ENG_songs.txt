@@ -1,0 +1,74 @@
+#USA
+music_station = "eng_music"
+music = {
+	song = "God Save the Queen"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "Donovan - Universal Soldier"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Black Sabbath - War Pigs"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Midge Ure - The Man Who Sold The World"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Peter Sarstedt - Where Do You Go To My Lovely"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "The War Drags On"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "The Kinks - A Well Respected Man"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "The Beatles - All You Need Is Love"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
