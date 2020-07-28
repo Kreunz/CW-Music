@@ -213,6 +213,15 @@ music = {
 	}
 }
 music = {
+	song = "Martha Reeves and The Vandellas - Nowhere to Run"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
 	song = "The Dead Kennedys - Holiday in Cambodia"
 	
 	chance = {

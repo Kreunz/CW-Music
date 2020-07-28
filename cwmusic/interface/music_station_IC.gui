@@ -397,7 +397,39 @@ containerWindowType = {
 			clicksound = decisions_ui_button
 		}
 	}
-	
+	containerWindowType={
+		name = "west_80s_music_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_west_80s_music_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "cze_music_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_cze_music_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "wgr_music_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_wgr_music_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
 	containerWindowType={
 		name = "fin_music_stations_entry"
 		size = { width = 162 height = 130 }

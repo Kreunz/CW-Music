@@ -74,7 +74,72 @@ music = {
 	file = "countries/irq/Maeda Nazhat - Ya sharaf al aummati.ogg"
 	volume = 0.65
 }
-
+#Czechochencyaslovakia
+music = {
+	name = "Internacioala"
+	file = "countries/cze/Internacioala.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kupredu leva zpatky ni krok"
+	file = "countries/cze/Kupredu leva zpatky ni krok.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pochod Leninske vyzvy"
+	file = "countries/cze/Hordes.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rudy prapor"
+	file = "countries/cze/Rudy prapor.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kamaradi"
+	file = "countries/cze/Kamaradi.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rozkvetly den (Bez chleba nejde jist)"
+	file = "countries/cze/Rozkvetly den (Bez chleba nejde jist).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Zemedelska"
+	file = "countries/cze/Zemedelska.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pochod rudych sportovcu"
+	file = "countries/cze/Pochod rudych sportovcu.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Flamengo - Vim, ze placem to skonci"
+	file = "countries/cze/Flamengo - Vim, ze placem to skonci.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Petr Spaleny - Kopec"
+	file = "countries/cze/Petr Spaleny - Kopec.ogg"
+	volume = 0.65
+}
+music = {
+	name = "To je strana"
+	file = "countries/cze/To je strana.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Vezeaska"
+	file = "countries/cze/Vezeaska.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pisen prace"
+	file = "countries/cze/Pisen prace.ogg"
+	volume = 0.65
+}
 #Commie greece
 music = {
 	name = "Hymn to EAM"
@@ -159,8 +224,78 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "GFR - Some Kind Of Wonderful"
+	file = "generic/west/70s/GFR - Some Kind Of Wonderful.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Toto - Hold the Line"
+	file = "generic/west/70s/Hold the Line.ogg"
+	volume = 0.65
+}
+music = {
 	name = "Tears for Fears - Everybody Wants to Rule the World"
 	file = "generic/west/80s/Tears for Fears - Everybody Wants to Rule the World.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cutting Crew - [I Just] Died In Your Arms"
+	file = "generic/west/80s/[I Just] Died In Your Arms.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Alphaville - Forever Young"
+	file = "generic/west/80s/Forever Young.ogg"
+	volume = 0.65
+}
+music = {
+	name = "2 Minutes to Midnight"
+	file = "generic/west/80s/2 Minutes to Midnight.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rick Astley - Never Gonna Give You Up"
+	file = "generic/west/80s/Rick Astley - Never Gonna Give You Up.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bryan Adams - Summer Of ’69"
+	file = "generic/west/80s/Bryan Adams - Summer Of ’69.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Check it in, check it out"
+	file = "generic/west/80s/Check it in, check it out.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Iron Maiden - When The Wild Wind Blows"
+	file = "generic/west/80s/Iron Maiden - When The Wild Wind Blows.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Scorpions - Wind Of Change"
+	file = "generic/west/80s/Scorpions - Wind Of Change.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pink Floyd - Two Suns In The Sunset"
+	file = "generic/west/80s/Two Suns In The Sunset.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bon Jovi - Livin' On A Prayer"
+	file = "generic/west/80s/Bon Jovi - Livin' On A Prayer.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Europe - The Final Countdown"
+	file = "generic/west/80s/The Final Countdown.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Journey - Separate Ways (Worlds Apart)"
+	file = "generic/west/80s/Separate Ways (Worlds Apart).ogg"
 	volume = 0.65
 }
 music = {
@@ -512,6 +647,11 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "Chizh- Phantom"
+	file = "countries/SOV/70s/Chizh- Phantom.ogg"
+	volume = 0.65
+}
+music = {
 	name = "Ya ochen rad, ved ya, nakonets, vozvrashchajus domoy"
 	file = "countries/SOV/70s/Ya ochen rad, ved ya, nakonets, vozvrashchajus domoy.ogg"
 	volume = 0.65
@@ -530,6 +670,16 @@ music = {
 music = {
 	name = "Yegor Letov - Moja oborona"
 	file = "countries/SOV/80s/Yegor Letov - Moja oborona.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Olga Zarubina - Zemlyanika"
+	file = "countries/SOV/80s/Olga Zarubina - Zemlyanika.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Chernikovskaya Hata - Belaya noch"
+	file = "countries/SOV/80s/Chernikovskaya Hata - Belaya noch.ogg"
 	volume = 0.65
 }
 music = {
@@ -586,6 +736,11 @@ music = {
 music = {
 	name = "Rolling Stones - Paint It Black"
 	file = "countries/USA/vietnam/Paint It Black.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Martha Reeves and The Vandellas - Nowhere to Run"
+	file = "countries/USA/vietnam/Nowhere to Run.ogg"
 	volume = 0.65
 }
 music = {
@@ -1381,6 +1536,11 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "The Beatles - All You Need Is Love"
+	file = "countries/eng/The Beatles - All You Need Is Love.ogg"
+	volume = 0.65
+}
+music = {
 	name = "The Kinks - A Well Respected Man"
 	file = "countries/eng/A Well Respected Man.ogg"
 	volume = 0.65
@@ -1408,11 +1568,6 @@ music = {
 music = {
 	name = "The War Drags On"
 	file = "countries/eng/The War Drags On.ogg"
-	volume = 0.65
-}
-music = {
-	name = "Georg Ots - Moskovan valot"
-	file = "countries/eng/Georg Ots - Moskovan valot.ogg"
 	volume = 0.65
 }
 #Finland

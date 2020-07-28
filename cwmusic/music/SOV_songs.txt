@@ -177,6 +177,26 @@ music = {
 	}
 }
 music = {
+	song = "Chizh- Phantom"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Golubye Gitary - Veter Severnyy"
 	
 	chance = {
@@ -219,6 +239,46 @@ music = {
 music_station = "sov_80s_music"
 music = {
 	song = "Yegor Letov - Moja oborona"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Olga Zarubina - Zemlyanika"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Chernikovskaya Hata - Belaya noch"
 	
 	chance = {
 		modifier = {
