@@ -361,5 +361,63 @@ containerWindowType = {
 			quadTextureSprite = "GFX_pol_album_art"
 			clicksound = decisions_ui_button
 		}
-	}	
+	}
+	
+	containerWindowType={
+		name = "pdg_music_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_pdg_music_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	
+	containerWindowType={
+		name = "irq_music_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_irq_music_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "uar_music_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_uar_music_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	
+	containerWindowType={
+		name = "fin_music_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_fin_music_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "west_70s_music_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_west_70s_music_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
 }

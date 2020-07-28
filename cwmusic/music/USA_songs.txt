@@ -113,6 +113,30 @@ music = {
 	}
 }
 music = {
+	song = "Johnny Mandel - Suicide Is Painless"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = USA
+				date > 1949.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1949.1.1
+			}
+			AND = {
+            NOT = { tag = USA }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Prescott Reed - Russia Russia (Lay That Missile Down)"
 	
 	chance = {
@@ -328,6 +352,30 @@ music = {
 			}
 			AND = {
 			date > 1980.1.1
+			}
+			AND = {
+            NOT = { tag = USA }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Ted Nugent - Stranglehold"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = USA
+				date > 1975.1.1
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1975.1.1
 			}
 			AND = {
             NOT = { tag = USA }

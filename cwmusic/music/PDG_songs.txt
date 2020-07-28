@@ -1,19 +1,59 @@
-music_station = "kpa_music"
+music_station = "pdg_music"
 music = {
-	song = "No Motherland Without You"
+	song = "Hymn to EAM"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = KPA
+				tag = PDG
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = KPA }
+            NOT = { tag = PDG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "O Ymnos tou DSE"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = PDG
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PDG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Aris's small village"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = PDG
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PDG }
 			}
 			}
 		}
@@ -21,230 +61,180 @@ music = {
 }
 
 music = {
-	song = "Millions of Miles Following the Leader, Following the Party"
+	song = "Black Crows"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = KPA
+				tag = PDG
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = KPA }
+            NOT = { tag = PDG }
 			}
 			}
 		}
 	}
 }
-
 music = {
-	song = "Dont Ask My Name"
+	song = "Children Stand Up"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = KPA
+				tag = PDG
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = KPA }
+            NOT = { tag = PDG }
 			}
 			}
 		}
 	}
 }
-
 music = {
-	song = "Without a Break"
+	song = "From planes and ravines"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = KPA
+				tag = PDG
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = KPA }
+            NOT = { tag = PDG }
 			}
 			}
 		}
 	}
 }
-
 music = {
-	song = "The Soldiers Answered"
+	song = "Greece we are your Children"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = KPA
+				tag = PDG
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = KPA }
+            NOT = { tag = PDG }
 			}
 			}
 		}
 	}
 }
-
 music = {
-	song = "One Against a Hundred"
+	song = "Heroes"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = KPA
+				tag = PDG
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = KPA }
+            NOT = { tag = PDG }
 			}
 			}
 		}
 	}
 }
-
 music = {
-	song = "March of Songun Victory"
+	song = "You fell victims"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = KPA
+				tag = PDG
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = KPA }
+            NOT = { tag = PDG }
 			}
 			}
 		}
 	}
 }
-
 music = {
-	song = "Leader just give us your Order!"
+	song = "The International (Greek)"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = KPA
+				tag = PDG
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = KPA }
+            NOT = { tag = PDG }
 			}
 			}
 		}
 	}
 }
-
 music = {
-	song = "Korea Does What It is Determined to Do!"
+	song = "We are not rags"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = KPA
+				tag = PDG
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = KPA }
+            NOT = { tag = PDG }
 			}
 			}
 		}
 	}
 }
-
 music = {
-	song = "Jugeumeul Mije-Chimnyakjadeurege"
+	song = "Mpelogianis is still alive"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = KPA
+				tag = PDG
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = KPA }
-			}
-			}
-		}
-	}
-}
-
-music = {
-	song = "DPRK Song - Defend the Headquarters of Revolution"
-	
-	chance = {
-		modifier = {
-			factor = 1
-				AND = {
-				tag = KPA
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = KPA }
-			}
-			}
-		}
-	}
-}
-
-music = {
-	song = "Aegukka"
-	
-	chance = {
-		modifier = {
-			factor = 1
-				AND = {
-				tag = KPA
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = KPA }
+            NOT = { tag = PDG }
 			}
 			}
 		}

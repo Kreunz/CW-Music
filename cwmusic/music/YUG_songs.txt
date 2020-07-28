@@ -19,6 +19,26 @@ music = {
 		}
 	}
 }
+music = {
+	song = "Kompartijo, Mirisavo Cvece"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = YUG
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = YUG }
+			}
+			}
+		}
+	}
+}
 
 music = {
 	song = "Yugoslav Armed Forces Medley"

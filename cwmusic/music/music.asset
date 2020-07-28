@@ -12,6 +12,130 @@ music = {
 	file = "countries/GRE/Come back.ogg"
 	volume = 0.65
 }
+#UAR/egypt
+music = {
+	name = "Al-Watan Al-Arabi (The Arab Nation)"
+	file = "countries/uar/Al-Watan Al-Arabi (The Arab Nation).ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Internationale (Arab)"
+	file = "countries/uar/The Internationale.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Great Homeland"
+	file = "countries/uar/The Great Homeland.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Walla Zaman Ya Selahy"
+	file = "countries/uar/Walla Zaman Ya Selahy.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Every Arab brother is my brother"
+	file = "countries/uar/Every Arab brother is my brother.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Keep the Weapon Awake"
+	file = "countries/uar/Keep the Weapon Awake.ogg"
+	volume = 0.65
+}
+music = {
+	name = "I swear by it's name and soil"
+	file = "countries/uar/I swear by it's name and soil.ogg"
+	volume = 0.65
+}
+music = {
+	name = "March Nasser"
+	file = "countries/uar/March Nasser.ogg"
+	volume = 0.65
+}
+music = {
+	name = "With Hugs"
+	file = "countries/uar/With Hugs.ogg"
+	volume = 0.65
+}
+#Iraq
+music = {
+	name = "Morning Hordes"
+	file = "countries/irq/Morning Hordes.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Welcome warrior of destiny"
+	file = "countries/irq/Welcome warrior of destiny.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Maeda Nazhat - Ya sharaf al aummati"
+	file = "countries/irq/Maeda Nazhat - Ya sharaf al aummati.ogg"
+	volume = 0.65
+}
+
+#Commie greece
+music = {
+	name = "Hymn to EAM"
+	file = "countries/pdg/Hymn to EAM.ogg"
+	volume = 0.65
+}
+music = {
+	name = "O Ymnos tou DSE"
+	file = "countries/pdg/O Ymnos tou DSE.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Aris's small village"
+	file = "countries/pdg/Aris's small village.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Black Crows"
+	file = "countries/pdg/Black Crows.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Children Stand Up"
+	file = "countries/pdg/Children Stand Up.ogg"
+	volume = 0.65
+}
+music = {
+	name = "From planes and ravines"
+	file = "countries/pdg/From planes and ravines.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Greece we are your Children"
+	file = "countries/pdg/Greece we are your Children.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Heroes"
+	file = "countries/pdg/Heroes.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mpelogianis is still alive"
+	file = "countries/pdg/Mpelogianis is still alive.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The International (Greek)"
+	file = "countries/pdg/The International (Greek).ogg"
+	volume = 0.65
+}
+music = {
+	name = "We are not rags"
+	file = "countries/pdg/We are not rags.ogg"
+	volume = 0.65
+}
+music = {
+	name = "You fell victims"
+	file = "countries/pdg/You fell victims.ogg"
+	volume = 0.65
+}
 
 #west
 music = {
@@ -20,13 +144,33 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "Pink Floyd - Wish You Were Here"
+	file = "generic/west/70s/Pink Floyd - Wish You Were Here.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jethro Tull - The Poet and the Painter"
+	file = "generic/west/70s/The Poet and the Painter.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pink Floyd - Echoes"
+	file = "generic/west/70s/Pink Floyd - Echoes.ogg"
+	volume = 0.65
+}
+music = {
 	name = "Tears for Fears - Everybody Wants to Rule the World"
 	file = "generic/west/80s/Tears for Fears - Everybody Wants to Rule the World.ogg"
 	volume = 0.65
 }
 music = {
-	name = "The Champs - Tequila"
-	file = "generic/west/50s/Tequila - The Champs.ogg"
+	name = "Tears for Fears - Everybody Wants to Rule the World"
+	file = "generic/west/80s/Tears for Fears - Everybody Wants to Rule the World.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Billy Joel - We Didn't Start the Fire"
+	file = "generic/west/80s/Billy Joel - We Didn't Start the Fire.ogg"
 	volume = 0.65
 }
 # General Peace:
@@ -38,6 +182,11 @@ music = {
 music = {
 	name = "Last of Us"
 	file = "generic/peace/Last of Us.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Vichnaya Pamyat"
+	file = "generic/peace/Vichnaya Pamyat.ogg"
 	volume = 0.65
 }
 music = {
@@ -337,6 +486,11 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "Luchshiy gorod Zemli"
+	file = "countries/SOV/60s/Luchshiy gorod Zemli.ogg"
+	volume = 0.65
+}
+music = {
 	name = "Georg Ots - Olgu jääv meile päike"
 	file = "countries/SOV/60s/Georg Ots - Olgu jääv meile päike.ogg"
 	volume = 0.65
@@ -379,6 +533,26 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "Yegor Letov - Gosudarstvo"
+	file = "countries/SOV/80s/Yegor Letov - Gosudarstvo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tonis Magi - Olimpic Games '80"
+	file = "countries/SOV/80s/Tonis Magi - Olimpic Games '80.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kino - Gruppa Krovi"
+	file = "countries/SOV/80s/Gruppa Krovi.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pyl Glotayu"
+	file = "countries/SOV/80s/Pyl Glotayu.ogg"
+	volume = 0.65
+}
+music = {
 	name = "Karavan"
 	file = "countries/SOV/80s/Karavan.ogg"
 	volume = 0.65
@@ -412,6 +586,56 @@ music = {
 music = {
 	name = "Rolling Stones - Paint It Black"
 	file = "countries/USA/vietnam/Paint It Black.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Box Tops - The Letter"
+	file = "countries/USA/vietnam/The Box Tops - The Letter.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bobby Fuller Four - I fought the law"
+	file = "countries/USA/vietnam/I Fought the law.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Deep Purple - Hush"
+	file = "countries/USA/vietnam/Deep Purple - Hush.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Operation Wandering Soul (Ghost Tape Number 10)"
+	file = "countries/USA/vietnam/Operation Wandering Soul (Ghost Tape Number 10).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Edwin Starr - War"
+	file = "countries/USA/vietnam/Edwin Starr - War.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Trashman - Surfin Bird"
+	file = "countries/USA/vietnam/The Trashman - Surfin Bird.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The doors - Break On Through ( To The Other Side )"
+	file = "countries/USA/vietnam/The doors - Break On Through ( To The Other Side ).ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Beatles - Yellow Submarine"
+	file = "countries/USA/vietnam/The Beatles - Yellow Submarine.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cream - White Room"
+	file = "countries/USA/vietnam/Cream - White Room.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Creedence Clearwater Revival - Run Through The Jungle"
+	file = "countries/USA/vietnam/Creedence Clearwater Revival Run Through The Jungle.ogg"
 	volume = 0.65
 }
 music = {
@@ -488,6 +712,16 @@ music = {
 music = {
 	name = "Vaughn Monroe - Riders In The Sky"
 	file = "countries/USA/Vaughn Monroe - Riders In The Sky.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ted Nugent - Stranglehold"
+	file = "countries/USA/Ted Nugent - Stranglehold.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Johnny Mandel - Suicide Is Painless"
+	file = "countries/USA/Johnny Mandel - Suicide Is Painless.ogg"
 	volume = 0.65
 }
 music = {
@@ -648,7 +882,7 @@ music = {
 
 music = {
 	name = "Oktobersong"
-	file = "countries/ddr/Aviamarch.ogg"
+	file = "countries/ddr/Oktobersong.ogg"
 	volume = 0.65
 }
 
@@ -957,14 +1191,19 @@ music = {
 	name = "The Internationale in Bulgarian"
 	file = "countries/bul/The Internationale in Bulgarian.ogg"
 	volume = 0.65
-	}
+}
+music = {
+	name = "Komunisti, komsomoltsi, pioneri!"
+	file = "countries/bul/Komunisti, komsomoltsi, pioneri!.ogg"
+	volume = 0.65
+}
 music = {
 	name = "Septemvriitzi"
 	file = "countries/bul/Septemvriitzi.ogg"
 	volume = 0.65
 }
 music = {
-	name = "Pasha Hristova-Edna Bulgarska Roza"
+	name = "Pasha Hristova - Edna Bulgarska Roza"
 	file = "countries/bul/Pasha Hristova-Edna Bulgarska Roza.ogg"
 	volume = 0.65
 }
@@ -1017,6 +1256,11 @@ music = {
 music = {
 	name = "The People of Yanbian Love Chairman Mao (Tibetan Version)"
 	file = "countries/prc/The People of Yanbian Love Chairman Mao (Tibetan Version).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Long live the People"
+	file = "countries/prc/Long live the People.ogg"
 	volume = 0.65
 }
 music = {
@@ -1130,15 +1374,117 @@ music = {
 	file = "countries/hun/The Girl With The Pearls Hair.ogg"
 	volume = 0.65
 	}
+#England
+music = {
+	name = "Black Sabbath - War Pigs"
+	file = "countries/eng/Black Sabbath - War Pigs.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Kinks - A Well Respected Man"
+	file = "countries/eng/A Well Respected Man.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Donovan - Universal Soldier"
+	file = "countries/eng/Donovan - Universal Soldier.ogg"
+	volume = 0.65
+}
+music = {
+	name = "God Save the Queen"
+	file = "countries/eng/God Save the Queen.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Midge Ure - The Man Who Sold The World"
+	file = "countries/eng/Midge Ure - The Man Who Sold The World.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Peter Sarstedt - Where Do You Go To My Lovely"
+	file = "countries/eng/Peter Sarstedt - Where Do You Go To My Lovely.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The War Drags On"
+	file = "countries/eng/The War Drags On.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Georg Ots - Moskovan valot"
+	file = "countries/eng/Georg Ots - Moskovan valot.ogg"
+	volume = 0.65
+}
+#Finland
+music = {
+	name = "Georg Ots - Moskovan valot"
+	file = "countries/fin/Georg Ots - Moskovan valot.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Olavi Virta - Hopeinen Kuu"
+	file = "countries/fin/Olavi Virta - Hopeinen Kuu.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hector - Lumi teki enkelin eteiseen"
+	file = "countries/fin/Hector - Lumi teki enkelin eteiseen.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Eppu Normaali - Suomi ilmiö"
+	file = "countries/fin/Eppu Normaali - Suomi ilmiö.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Eppu Normaali - Vuonna '85"
+	file = "countries/fin/Eppu Normaali - Vuonna '85.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Katri Helena - Minne Tuuli Kuljettaa"
+	file = "countries/fin/Katri Helena - Minne Tuuli Kuljettaa.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kari Tapio - Olen Suomalainen"
+	file = "countries/fin/Kari Tapio - Olen Suomalainen.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Täällä Pohjantähden alla"
+	file = "countries/fin/Täällä Pohjantähden alla.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Lippulaulu"
+	file = "countries/fin/Lippulaulu.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Maamme"
+	file = "countries/fin/Maamme.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Eppu Normaali - Suomi ilmiö"
+	file = "countries/fin/Eppu Normaali - Suomi ilmiö.ogg"
+	volume = 0.65
+}
 #YUG
 music = {
 	name = "Bijelo Dugme - Jugoslavijo"
 	file = "countries/yug/Bijelo Dugme - Jugoslavijo.ogg"
 	volume = 0.65
-	}
+}
 music = {
-	name = "Hej Sloveni"
-	file = "countries/yug/Hej Sloveni.ogg"
+	name = "Bijelo Dugme - Jugoslavijo"
+	file = "countries/yug/Bijelo Dugme - Jugoslavijo.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kompartijo, Mirisavo Cvece"
+	file = "countries/yug/Kompartijo, mirisavo cveće.ogg"
 	volume = 0.65
 	}
 music = {
@@ -1196,7 +1542,12 @@ music = {
 	name = "No Motherland Without You"
 	file = "countries/kpa/No Motherland Without You.ogg"
 	volume = 0.65
-	}
+}
+music = {
+	name = "Millions of Miles Following the Leader, Following the Party"
+	file = "countries/kpa/Millions of Miles Following the Leader, Following the Party.ogg"
+	volume = 0.65
+}
 music = {
 	name = "Without a Break"
 	file = "countries/kpa/Without a break.ogg"

@@ -63,6 +63,15 @@ music = {
 	}
 }
 music = {
+	song = "Long live the People"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
 	song = "Katyusha - Chinese version"
 	
 	chance = {

@@ -50,6 +50,26 @@ music = {
 }
 
 music = {
+	song = "Creedence Clearwater Revival - Run Through The Jungle"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+
+music = {
+	song = "Cream - White Room"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+
+music = {
 	song = "Bob Dylan - The Times They Are A-Changin"
 	
 	chance = {
@@ -118,7 +138,80 @@ music = {
 			}
 	}
 }
+music = {
+	song = "The doors - Break On Through ( To The Other Side )"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
 
+music = {
+	song = "The Beatles - Yellow Submarine"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+
+music = {
+	song = "The Box Tops - The Letter"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Bobby Fuller Four - I fought the law"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Deep Purple - Hush"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Operation Wandering Soul (Ghost Tape Number 10)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Edwin Starr - War"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "The Trashman - Surfin Bird"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
 music = {
 	song = "The Dead Kennedys - Holiday in Cambodia"
 	

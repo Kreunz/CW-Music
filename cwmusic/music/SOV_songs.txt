@@ -48,6 +48,26 @@ music = {
 	}
 }
 music = {
+	song = "Luchshiy gorod Zemli"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Slava Vperedsmotryashchemu"
 	
 	chance = {
@@ -177,7 +197,7 @@ music = {
 	}
 }
 music = {
-	song = "Eto govorim my"
+	song = "Eto Govorim My"
 	
 	chance = {
 		modifier = {
@@ -219,6 +239,86 @@ music = {
 }
 music = {
 	song = "Karavan"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Tonis Magi - Olimpic Games '80"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Yegor Letov - Gosudarstvo"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Kino - Gruppa Krovi"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Pyl Glotayu"
 	
 	chance = {
 		modifier = {

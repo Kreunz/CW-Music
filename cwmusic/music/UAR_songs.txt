@@ -1,0 +1,217 @@
+music_station = "uar_music"
+music = {
+	song = "Walla Zaman Ya Selahy"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = EGY
+					NOT = { has_government = monarchism }
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = EGY }
+			}
+			AND = {
+			has_government = monarchism
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "The Great Homeland"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = EGY
+					NOT = { has_government = monarchism }
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = EGY }
+			}
+			AND = {
+			has_government = monarchism
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Al-Watan Al-Arabi (The Arab Nation)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = EGY
+					NOT = { has_government = monarchism }
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = EGY }
+			}
+			AND = {
+			has_government = monarchism
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Every Arab brother is my brother"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = EGY
+					NOT = { has_government = monarchism }
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = EGY }
+			}
+			AND = {
+			has_government = monarchism
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Keep the Weapon Awake"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = EGY
+					NOT = { has_government = monarchism }
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = EGY }
+			}
+			AND = {
+			has_government = monarchism
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "I swear by it's name and soil"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = EGY
+					NOT = { has_government = monarchism }
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = EGY }
+			}
+			AND = {
+			has_government = monarchism
+			}
+			}
+		}
+	}
+
+music = {
+	song = "March Nasser"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = EGY
+					NOT = { has_government = monarchism }
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = EGY }
+			}
+			AND = {
+			has_government = monarchism
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "With Hugs"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = EGY
+					NOT = { has_government = monarchism }
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = EGY }
+			}
+			AND = {
+			has_government = monarchism
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "The Internationale (Arab)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = EGY
+					NOT = { has_government = monarchism }
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = EGY }
+			}
+			AND = {
+			has_government = monarchism
+			}
+			}
+		}
+	}
+}

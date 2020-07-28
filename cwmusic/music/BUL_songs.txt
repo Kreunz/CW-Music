@@ -24,6 +24,31 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "Komunisti, komsomoltsi, pioneri!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = BUL
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = BUL }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
 music = {
 	song = "Septemvriitzi"
 	
@@ -75,7 +100,7 @@ music = {
 }
 
 music = {
-	song = "Septembrians"
+	song = "Septemvriitzi"
 	
 	chance = {
 		modifier = {
@@ -328,7 +353,7 @@ music = {
 }
 
 music = {
-	song = "Friendly Song Today!"
+	song = "Friendly song today!"
 	
 	chance = {
 		modifier = {

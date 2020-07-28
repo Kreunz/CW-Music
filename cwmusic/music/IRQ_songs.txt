@@ -1,0 +1,61 @@
+music_station = "irq_music"
+music = {
+	song = "Morning Hordes"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = IRQ
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = IRQ }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Welcome warrior of destiny"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = IRQ
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = IRQ }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Maeda Nazhat - Ya sharaf al aummati"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = IRQ
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = IRQ }
+			}
+			}
+		}
+	}
+}
