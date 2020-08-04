@@ -1691,7 +1691,12 @@ music = {
 	name = "Yugoslav Armed Forces Medley"
 	file = "countries/yug/Yugoslav Armed Forces Medley.ogg"
 	volume = 0.65
-	}
+}
+music = {
+	name = "Hej Sloveni"
+	file = "countries/yug/Hej Sloveni.ogg"
+	volume = 0.65
+}
 #KPA
 music = {
 	name = "No Motherland Without You"
