@@ -48,6 +48,26 @@ music = {
 	}
 }
 music = {
+	song = "Raketi vsegda na postu"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Luchshiy gorod Zemli"
 	
 	chance = {

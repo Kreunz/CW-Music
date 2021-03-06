@@ -7,6 +7,7 @@ spriteType = {
 	spriteType = {
 		name = "GFX_ddr_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//ddr_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_usa_music_album_art"
@@ -51,6 +52,7 @@ spriteType = {
 	spriteType = {
 		name = "GFX_cze_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//cze_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_wgr_music_album_art"

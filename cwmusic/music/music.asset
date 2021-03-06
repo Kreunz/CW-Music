@@ -87,7 +87,7 @@ music = {
 }
 music = {
 	name = "Pochod Leninske vyzvy"
-	file = "countries/cze/Hordes.ogg"
+	file = "countries/cze/Pochod Leninske vyzvy.ogg"
 	volume = 0.65
 }
 music = {
@@ -299,11 +299,6 @@ music = {
 	volume = 0.65
 }
 music = {
-	name = "Tears for Fears - Everybody Wants to Rule the World"
-	file = "generic/west/80s/Tears for Fears - Everybody Wants to Rule the World.ogg"
-	volume = 0.65
-}
-music = {
 	name = "Billy Joel - We Didn't Start the Fire"
 	file = "generic/west/80s/Billy Joel - We Didn't Start the Fire.ogg"
 	volume = 0.65
@@ -392,11 +387,6 @@ music = {
 music = {
 	name = "After the Storm"
 	file = "generic/peace/After the Storm.ogg"
-	volume = 0.65
-}
-music = {
-	name = "Waveform"
-	file = "generic/peace/Waveform.ogg"
 	volume = 0.65
 }
 music = {
@@ -521,6 +511,11 @@ music = {
 music = {
 	name = "Anthem of the Soviet Union"
 	file = "countries/SOV/Anthem of the Soviet Union.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Raketi vsegda na postu"
+	file = "countries/SOV/Raketi vsegda na postu.ogg"
 	volume = 0.65
 }
 music = {
@@ -939,10 +934,15 @@ music = {
 	file = "countries/USA/Eve Of Destruction.ogg"
 	volume = 0.65
 }
+music = {
+	name = "Surfin' U.S.A."
+	file = "countries/USA/Surfin' U.S.A..ogg"
+	volume = 0.65
+}
 #JAP
 music = {
 	name = "Godzilla - Main Theme (1954)"
-	file = "countries/JAP/Godzilla (1954).ogg"
+	file = "countries/JAP/Godzilla - Main Theme (1954).ogg"
 	volume = 0.65
 }
 music = {
@@ -974,6 +974,11 @@ music = {
 music = {
 	name = "Deutschlandlied"
 	file = "countries/WGR/Deutschlandlied.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Vera Palm - Weil mein Daddy dich gut leiden kann"
+	file = "countries/WGR/Vera Palm - Weil mein Daddy dich gut leiden kann.ogg"
 	volume = 0.65
 }
 #DDR
@@ -1414,6 +1419,11 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "Sailing the Seas Depends on the Helmsman"
+	file = "countries/prc/Sailing the Seas Depends on the Helmsman.ogg"
+	volume = 0.65
+}
+music = {
 	name = "Long live the People"
 	file = "countries/prc/Long live the People.ogg"
 	volume = 0.65
@@ -1621,17 +1631,7 @@ music = {
 	file = "countries/fin/Maamme.ogg"
 	volume = 0.65
 }
-music = {
-	name = "Eppu Normaali - Suomi ilmiö"
-	file = "countries/fin/Eppu Normaali - Suomi ilmiö.ogg"
-	volume = 0.65
-}
 #YUG
-music = {
-	name = "Bijelo Dugme - Jugoslavijo"
-	file = "countries/yug/Bijelo Dugme - Jugoslavijo.ogg"
-	volume = 0.65
-}
 music = {
 	name = "Bijelo Dugme - Jugoslavijo"
 	file = "countries/yug/Bijelo Dugme - Jugoslavijo.ogg"
@@ -1701,6 +1701,11 @@ music = {
 music = {
 	name = "No Motherland Without You"
 	file = "countries/kpa/No Motherland Without You.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Aegukka"
+	file = "countries/kpa/Aegukka.ogg"
 	volume = 0.65
 }
 music = {

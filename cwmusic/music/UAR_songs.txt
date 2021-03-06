@@ -142,6 +142,7 @@ music = {
 			}
 		}
 	}
+}
 
 music = {
 	song = "March Nasser"

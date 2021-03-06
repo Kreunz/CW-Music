@@ -17,7 +17,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -36,7 +36,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}
@@ -64,7 +64,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -89,7 +89,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}
@@ -167,7 +167,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -189,7 +189,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}
@@ -215,7 +215,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -237,7 +237,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}
@@ -263,7 +263,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -285,7 +285,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}
@@ -311,7 +311,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -333,7 +333,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}
@@ -359,7 +359,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -381,7 +381,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}
@@ -407,7 +407,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -429,7 +429,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}
@@ -455,7 +455,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -477,7 +477,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}
@@ -503,7 +503,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -525,7 +525,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}
@@ -551,7 +551,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -573,7 +573,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}
@@ -599,7 +599,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -621,7 +621,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}
@@ -647,7 +647,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -669,7 +669,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}
@@ -695,7 +695,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -717,7 +717,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}
@@ -743,7 +743,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -765,7 +765,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}
@@ -792,7 +792,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 				}
 			}
@@ -814,7 +814,7 @@ music = {
 				has_government = centrist
 				has_government = liberal
 				has_government = conservative
-				has_government = nationalism
+				has_government = nationalist
 				has_government = neutrality
 			}
 			}

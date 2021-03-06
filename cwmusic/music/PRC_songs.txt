@@ -17,7 +17,17 @@ music = {
 		factor = 1
 		}
 	}
-}music = {
+}
+music = {
+	song = "Sailing the Seas Depends on the Helmsman"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
 	song = "The Revolutionaries Are Always Young"
 	
 	chance = {

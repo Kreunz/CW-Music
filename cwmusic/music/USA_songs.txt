@@ -416,3 +416,19 @@ music = {
 		}
 	}
 }
+music = {
+	song = "Surfin' U.S.A."
+	
+	chance = {
+		modifier = {
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}

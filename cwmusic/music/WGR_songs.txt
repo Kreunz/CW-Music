@@ -98,3 +98,17 @@ music = {
 			}
 		}
 }
+music = {
+	song = "Vera Palm - Weil mein Daddy dich gut leiden kann"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			tag = WGR
+			}
+		modifier = {
+            factor = 0
+            NOT = { tag = WGR }
+			}
+		}
+}

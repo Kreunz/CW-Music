@@ -71,14 +71,14 @@ music = {
 			factor = 1
 			AND = {
 				tag = SYR
-				has_government = nationalism
+				has_government = nationalist
 			}
 		}
 		modifier = {
 			factor = 1
 			AND = {
 				tag = LEB
-				has_government = nationalism
+				has_government = nationalist
 			}
 		}
 		modifier = {
