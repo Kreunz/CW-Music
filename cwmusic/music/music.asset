@@ -1335,11 +1335,7 @@ music = {
 }
 
 #SAF
-music = {
-	name = "Spartakus in Berlin"
-	file = "countries/SAF/Spartakus in Berlin.ogg"
-	volume = 0.65
-}
+
 #ITA
 music = {
 	name = "Meraviglioso"
@@ -1353,7 +1349,7 @@ music = {
 	volume = 0.65
 }
 music = {
-	name = "Komunisti, komsomoltsi, pioneri!"
+	name = "Komunisti, Komsomoltsi, Pioneri!"
 	file = "countries/bul/Komunisti, komsomoltsi, pioneri!.ogg"
 	volume = 0.65
 }
@@ -1388,7 +1384,7 @@ music = {
 	volume = 0.65
 	}
 music = {
-	name = "Song for Yuri Gagarin"
+	name = "Pesen za Yuri Gagarin"
 	file = "countries/bul/Song for Yuri Gagarin.ogg"
 	volume = 0.65
 	}
@@ -1411,7 +1407,17 @@ music = {
 	name = "Friendly song today!"
 	file = "countries/bul/Friendly song today!.ogg"
 	volume = 0.65
-	}
+}
+music = {
+	name = "Pesen za Kosmonavtite"
+	file = "countries/bul/Pesen za kosmonavtite.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Cherveno Zname"
+	file = "countries/bul/Cherveno Zname.ogg"
+	volume = 0.65
+}
 #PRC
 music = {
 	name = "The People of Yanbian Love Chairman Mao (Tibetan Version)"

@@ -4,48 +4,26 @@ music = {
 	song = "The Internationale in Bulgarian"
 	
 	chance = {
+		factor = 1
+
 		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
+			factor = 1.5
+
+			original_tag = BUL
 		}
 	}
 }
 
 music = {
-	song = "Komunisti, komsomoltsi, pioneri!"
+	song = "Komunisti, Komsomoltsi, Pioneri!"
 	
 	chance = {
+		factor = 1
+
 		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
+			factor = 1.5
+
+			original_tag = BUL
 		}
 	}
 }
@@ -53,23 +31,12 @@ music = {
 	song = "Septemvriitzi"
 	
 	chance = {
+		factor = 1
+
 		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
+			factor = 1.5
+
+			original_tag = BUL
 		}
 	}
 }
@@ -78,48 +45,26 @@ music = {
 	song = "Pasha Hristova - Edna Bulgarska Roza"
 	
 	chance = {
+		factor = 1
+
 		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
+			factor = 1.5
+
+			original_tag = BUL
 		}
 	}
 }
 
 music = {
-	song = "Septemvriitzi"
+	song = "Cherveno Zname"
 	
 	chance = {
+		factor = 1
+
 		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
+			factor = 1.5
+
+			original_tag = BUL
 		}
 	}
 }
@@ -128,23 +73,12 @@ music = {
 	song = "Bulgarian Anthem (Communist)"
 	
 	chance = {
+		factor = 1
+
 		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
+			factor = 1.5
+
+			original_tag = BUL
 		}
 	}
 }
@@ -153,23 +87,12 @@ music = {
 	song = "Song of Gavril Genov"
 	
 	chance = {
+		factor = 1
+
 		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
+			factor = 1.5
+
+			original_tag = BUL
 		}
 	}
 }
@@ -178,23 +101,12 @@ music = {
 	song = "March of the BPA"
 	
 	chance = {
+		factor = 1
+
 		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
+			factor = 1.5
+
+			original_tag = BUL
 		}
 	}
 }
@@ -202,64 +114,26 @@ music = {
 	song = "Our Militia"
 	
 	chance = {
+		factor = 1
+
 		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
+			factor = 1.5
+
+			original_tag = BUL
 		}
 	}
 }
-#music = {
-#	song = "The Bulgarian Rock"
-	
-#	chance = {
-#		modifier = {
-#			factor = 1
-#				AND = {
-#				tag = BUL
-#				}
-#				}
-#		modifier = {
-#           factor = 0
-#			OR = {
-#			AND = {
-#            NOT = { tag = BUL }
-#			}
-#			}
-#		}
-#	}
-#}
 
 music = {
 	song = "Vesela Brigadirska"
 	
 	chance = {
+		factor = 1
+
 		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			}
+			factor = 1.5
+
+			original_tag = BUL
 		}
 	}
 }
@@ -268,40 +142,26 @@ music = {
 	song = "Sreshtni me"
 	
 	chance = {
+		factor = 1
+
 		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			}
+			factor = 1.5
+
+			original_tag = BUL
 		}
 	}
 }
 
 music = {
-	song = "Song for Yuri Gagarin"
+	song = "Pesen za Yuri Gagarin"
 	
 	chance = {
+		factor = 1
+
 		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			}
+			factor = 1.5
+
+			original_tag = BUL
 		}
 	}
 }
@@ -310,24 +170,13 @@ music = {
 	song = "Song of Gavril Genov"
 	
 	chance = {
+		factor = 1
+
 		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
-		}	
+			factor = 1.5
+
+			original_tag = BUL
+		}
 	}
 }
 
@@ -335,40 +184,52 @@ music = {
 	song = "Georgi Minchev - The Bulgarian Rock"
 	
 	chance = {
+		factor = 1
+
 		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			}
+			factor = 1.5
+
+			original_tag = BUL
 		}
 	}
 }
 
 music = {
-	song = "Friendly song today!"
+	song = "Pesen na Truda"
 	
 	chance = {
+		factor = 1
+
 		modifier = {
-			factor = 1
-				AND = {
-				tag = BUL
-				}
-				}
+			factor = 1.5
+
+			original_tag = BUL
+		}
+	}
+}
+music = {
+	song = "Pesen za Kosmonavtite"
+	
+	chance = {
+		factor = 1
+
 		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = BUL }
-			}
-			}
+			factor = 1.5
+
+			original_tag = BUL
+		}
+	}
+}
+music = {
+	song = "Bez Pesen Ne Mozhe Voinika"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 1.5
+
+			original_tag = BUL
 		}
 	}
 }
