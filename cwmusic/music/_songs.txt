@@ -98,56 +98,6 @@ music = {
 }
 }
 
-music_station = "west_70s_music"
-
-music = {
-	song = "Pink Floyd - Wish You Were Here"
-	
-	chance = {
-		modifier = {
-			factor = 1
-			}
-	}
-}
-
-music = {
-	song = "Pink Floyd - Echoes"
-	
-	chance = {
-		modifier = {
-			factor = 1
-			}
-	}
-}
-
-music = {
-	song = "Jethro Tull - The Poet and the Painter"
-	
-	chance = {
-		modifier = {
-			factor = 1
-			}
-	}
-}
-music = {
-	song = "GFR - Some Kind Of Wonderful"
-	
-	chance = {
-		modifier = {
-			factor = 1
-			}
-	}
-}
-music = {
-	song = "Toto - Hold the Line"
-	
-	chance = {
-		modifier = {
-			factor = 1
-			}
-	}
-}
-
 music_station = "west_80s_music"
 music = {
 	song = "Tears for Fears - Everybody Wants to Rule the World"

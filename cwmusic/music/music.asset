@@ -209,31 +209,6 @@ music = {
 	volume = 0.65
 }
 music = {
-	name = "Pink Floyd - Wish You Were Here"
-	file = "generic/west/70s/Pink Floyd - Wish You Were Here.ogg"
-	volume = 0.65
-}
-music = {
-	name = "Jethro Tull - The Poet and the Painter"
-	file = "generic/west/70s/The Poet and the Painter.ogg"
-	volume = 0.65
-}
-music = {
-	name = "Pink Floyd - Echoes"
-	file = "generic/west/70s/Pink Floyd - Echoes.ogg"
-	volume = 0.65
-}
-music = {
-	name = "GFR - Some Kind Of Wonderful"
-	file = "generic/west/70s/GFR - Some Kind Of Wonderful.ogg"
-	volume = 0.65
-}
-music = {
-	name = "Toto - Hold the Line"
-	file = "generic/west/70s/Hold the Line.ogg"
-	volume = 0.65
-}
-music = {
 	name = "Tears for Fears - Everybody Wants to Rule the World"
 	file = "generic/west/80s/Tears for Fears - Everybody Wants to Rule the World.ogg"
 	volume = 0.65
@@ -858,6 +833,31 @@ music = {
 	file = "countries/USA/vietnam/Phil Ochs Draft Dodger Rag.ogg"
 	volume = 0.65
 }
+music = {
+	name = "Steppenwolf - Magic Carpet Ride"
+	file = "countries/USA/vietnam/Magic Carpet Ride.ogg"
+	volume = 0.65
+}
+music = {
+	name = "CCR - Bad Moon Rising"
+	file = "countries/USA/vietnam/Bad Moon Rising.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pink Floyd - Wish You Were Here"
+	file = "countries/USA/vietnam/Pink Floyd - Wish You Were Here.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jethro Tull - The Poet and the Painter"
+	file = "countries/USA/vietnam/The Poet and the Painter.ogg"
+	volume = 0.65
+}
+music = {
+	name = "GFR - Some Kind Of Wonderful"
+	file = "countries/USA/vietnam/GFR - Some Kind Of Wonderful.ogg"
+	volume = 0.65
+}
 #USA:
 music = {
 	name = "Vaughn Monroe - Riders In The Sky"
@@ -875,11 +875,6 @@ music = {
 	volume = 0.65
 }
 music = {
-	name = "Franklin Lymon - Why do fools fall in love"
-	file = "countries/USA/Franklin Lymon - Why do fools fall in love.ogg"
-	volume = 0.65
-}
-music = {
 	name = "Roy Hamilton - You can have her"
 	file = "countries/USA/Roy Hamilton - You can have her.ogg"
 	volume = 0.65
@@ -890,53 +885,59 @@ music = {
 	volume = 0.65
 }
 music = {
-	name = "Prescott Reed - Russia Russia (Lay That Missile Down)"
-	file = "countries/USA/Prescott Reed - Russia Russia (Lay That Missile Down).ogg"
-	volume = 0.65
-}
-music = {
 	name = "Star Spangled Banner"
 	file = "countries/USA/Star Spangled Banner.ogg"
 	volume = 0.65
 }
 music = {
-	name = "Johnny Guitar"
-	file = "countries/USA/Johnny Guitar.ogg"
-	volume = 0.65
-}
-music = {
-	name = "Ain't I Right"
-	file = "countries/USA/Ain't I Right.ogg"
-	volume = 0.65
-}
-music = {
-	name = "Bill Haley & His Comets Rock Around the Clock"
-	file = "countries/USA/Bill Haley & His Comets Rock Around the Clock.ogg"
-	volume = 0.65
-}
-music = {
-	name = "The Mamas and Papas - California Dreaming"
-	file = "countries/USA/California Dreamin.ogg"
-	volume = 0.65
-}
-music = {
-	name = "Chuck Berry - Johnny B. Goode"
-	file = "countries/USA/Chuck Berry - Johnny B. Goode.ogg"
-	volume = 0.65
-}
-music = {
-	name = "Elvis Presley - Don't be cruel"
-	file = "countries/USA/Don't be cruel-Elvis Presley.ogg"
-	volume = 0.65
-}
-music = {
 	name = "Eve Of Destruction"
-	file = "countries/USA/Eve Of Destruction.ogg"
+	file = "countries/USA/vietnam/Eve Of Destruction.ogg"
 	volume = 0.65
 }
 music = {
 	name = "Surfin' U.S.A."
-	file = "countries/USA/Surfin' U.S.A..ogg"
+	file = "countries/USA/vietnam/Surfin' U.S.A..ogg"
+	volume = 0.65
+}
+#50s usa
+music = {
+	name = "Johnny Guitar"
+	file = "countries/USA/50s/Johnny Guitar.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ain't I Right"
+	file = "countries/USA/50s/Ain't I Right.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bill Haley & His Comets Rock Around the Clock"
+	file = "countries/USA/50s/Bill Haley & His Comets Rock Around the Clock.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Chuck Berry - Johnny B. Goode"
+	file = "countries/USA/50s/Chuck Berry - Johnny B. Goode.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Elvis Presley - Don't be cruel"
+	file = "countries/USA/50s/Don't be cruel-Elvis Presley.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Prescott Reed - Russia Russia (Lay That Missile Down)"
+	file = "countries/USA/50s/Prescott Reed - Russia Russia (Lay That Missile Down).ogg"
+	volume = 0.65
+}
+music = {
+	name = "Franklin Lymon - Why do fools fall in love"
+	file = "countries/USA/50s/Franklin Lymon - Why do fools fall in love.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Four Lads - Moments To Remember"
+	file = "countries/USA/50s/Moments To Remember.ogg"
 	volume = 0.65
 }
 #JAP
@@ -1159,6 +1160,12 @@ music = {
 	file = "countries/ddr/Spartakus in Berlin.ogg"
 	volume = 0.65
 }
+music = {
+	name = "IFA Wartburg - Freie Deutsche Jugend"
+	file = "countries/ddr/IFA Wartburg - Freie Deutsche Jugend.ogg"
+	volume = 0.65
+}
+
 
 #SRP
 music = {
@@ -1404,7 +1411,7 @@ music = {
 	volume = 0.65
 	}
 music = {
-	name = "Friendly song today!"
+	name = "Pesen na Truda"
 	file = "countries/bul/Friendly song today!.ogg"
 	volume = 0.65
 }
@@ -1416,6 +1423,26 @@ music = {
 music = {
 	name = "Cherveno Zname"
 	file = "countries/bul/Cherveno Zname.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bez Pesen Ne Mozhe Voinika"
+	file = "countries/bul/Bez Pesen Ne Mozhe Voinika.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Boytsy na Trudovyy Narod"
+	file = "countries/bul/Boytsy na Trudovyy Narod.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rodyna"
+	file = "countries/bul/Rodyna.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pobeden Marsh"
+	file = "countries/bul/Pobeden Marsh.ogg"
 	volume = 0.65
 }
 #PRC
@@ -1547,18 +1574,13 @@ music = {
 	}
 #England
 music = {
-	name = "Black Sabbath - War Pigs"
-	file = "countries/eng/Black Sabbath - War Pigs.ogg"
-	volume = 0.65
-}
-music = {
 	name = "The Beatles - All You Need Is Love"
-	file = "countries/eng/The Beatles - All You Need Is Love.ogg"
+	file = "countries/USA/vietnam/The Beatles - All You Need Is Love.ogg"
 	volume = 0.65
 }
 music = {
 	name = "The Kinks - A Well Respected Man"
-	file = "countries/eng/A Well Respected Man.ogg"
+	file = "countries/USA/vietnam/A Well Respected Man.ogg"
 	volume = 0.65
 }
 music = {
@@ -1572,18 +1594,13 @@ music = {
 	volume = 0.65
 }
 music = {
-	name = "Midge Ure - The Man Who Sold The World"
-	file = "countries/eng/Midge Ure - The Man Who Sold The World.ogg"
-	volume = 0.65
-}
-music = {
 	name = "Peter Sarstedt - Where Do You Go To My Lovely"
 	file = "countries/eng/Peter Sarstedt - Where Do You Go To My Lovely.ogg"
 	volume = 0.65
 }
 music = {
 	name = "The War Drags On"
-	file = "countries/eng/The War Drags On.ogg"
+	file = "countries/USA/vietnam/The War Drags On.ogg"
 	volume = 0.65
 }
 #Finland

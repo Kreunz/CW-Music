@@ -773,3 +773,16 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "IFA Wartburg - Freie Deutsche Jugend"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 1.5
+			original_tag = DDR
+		}
+	}
+}

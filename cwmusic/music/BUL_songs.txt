@@ -233,3 +233,42 @@ music = {
 		}
 	}
 }
+music = {
+	song = "Boytsy na Trudovyy Narod"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 1.5
+
+			original_tag = BUL
+		}
+	}
+}
+music = {
+	song = "Rodyna"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 1.5
+
+			original_tag = BUL
+		}
+	}
+}
+music = {
+	song = "Pobeden Marsh"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 1.5
+
+			original_tag = BUL
+		}
+	}
+}

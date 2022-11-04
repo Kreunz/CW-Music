@@ -1,8 +1,9 @@
 spriteTypes = {
 
-spriteType = {
+    spriteType = {
 		name = "GFX_ic_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//ic_music_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_ddr_music_album_art"
@@ -12,42 +13,52 @@ spriteType = {
 	spriteType = {
 		name = "GFX_usa_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//usa_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_gre_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//gre_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_vietwar_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//usa_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_jap_showa_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//jap_showa_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_jap_heisei_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//jap_heisei_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_west_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//west_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_sov_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//sov_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_fin_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//fin_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_west_70s_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//west_70s_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_pdg_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//pdg_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_cze_music_album_art"
@@ -57,73 +68,101 @@ spriteType = {
 	spriteType = {
 		name = "GFX_wgr_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//wgr_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_irq_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//irq_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_uar_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//uar_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_west_80s_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//west_80s_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_sov_80s_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//sov_80s_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_sov_60s_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//sov_60s_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_sov_70s_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//sov_70s_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_srp_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//srp_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_syr_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//syr_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_ita_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//ita_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_bul_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//bul_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_prc_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//prc_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_hun_music_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//hun_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_yug_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//yug_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_kpa_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//kpa_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_rho_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//rho_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_pol_album_art"
 		texturefile = "gfx//interface//topbar//musicplayer//pol_album_art.dds"
+		noOfFrames = 2
 	}
 	spriteType = {
 		name = "GFX_spr_music_album_franco_art"
 		texturefile = "gfx//interface//topbar//musicplayer//spr_album_franco_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_vietwar_music_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/vietwar_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_usa_50s_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/usa_50s_album_art.dds"
+		noOfFrames = 2
 	}
 }

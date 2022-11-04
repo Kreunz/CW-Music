@@ -249,3 +249,76 @@ music = {
 			}
 	}
 }
+music = {
+	song = "Steppenwolf - Magic Carpet Ride"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "CCR - Bad Moon Rising"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Pink Floyd - Wish You Were Here"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+
+music = {
+	song = "Jethro Tull - The Poet and the Painter"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "GFR - Some Kind Of Wonderful"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "The War Drags On"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "The Kinks - A Well Respected Man"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "The Beatles - All You Need Is Love"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}

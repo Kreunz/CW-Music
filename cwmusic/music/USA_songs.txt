@@ -1,30 +1,11 @@
 #USA
-music_station = "usa_music"
+music_station = "usa_50s"
 music = {
 	song = "Vaughn Monroe - Riders In The Sky"
 	
 	chance = {
 		modifier = {
 			factor = 1
-			AND = {
-				tag = USA
-				date > 1949.1.1
-				date < 1960.1.1
-				}
-			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1949.1.1
-			}
-			AND = {
-			date > 1960.1.1
-			}
-			AND = {
-            NOT = { tag = USA }
-			}
-			}
 		}
 	}
 }
@@ -34,25 +15,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-			AND = {
-				tag = USA
-				date > 1949.1.1
-				date < 1960.1.1
-				}
-			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1949.1.1
-			}
-			AND = {
-			date > 1960.1.1
-			}
-			AND = {
-            NOT = { tag = USA }
-			}
-			}
 		}
 	}
 }
@@ -62,105 +24,16 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-			AND = {
-				tag = USA
-				date > 1949.1.1
-				date < 1960.1.1
-				}
-			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1949.1.1
-			}
-			AND = {
-			date > 1960.1.1
-			}
-			AND = {
-            NOT = { tag = USA }
-			}
-			}
 		}
 	}
 }
-music = {
-	song = "Jan Dean - The Universal Coward"
-	
-	chance = {
-		modifier = {
-			factor = 1
-			AND = {
-				tag = USA
-				date > 1949.1.1
-				date < 1960.1.1
-				}
-			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1949.1.1
-			}
-			AND = {
-			date > 1960.1.1
-			}
-			AND = {
-            NOT = { tag = USA }
-			}
-			}
-		}
-	}
-}
-music = {
-	song = "Johnny Mandel - Suicide Is Painless"
-	
-	chance = {
-		modifier = {
-			factor = 1
-			AND = {
-				tag = USA
-				date > 1949.1.1
-				}
-			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1949.1.1
-			}
-			AND = {
-            NOT = { tag = USA }
-			}
-			}
-		}
-	}
-}
+
 music = {
 	song = "Prescott Reed - Russia Russia (Lay That Missile Down)"
 	
 	chance = {
 		modifier = {
 			factor = 1
-			AND = {
-				tag = USA
-				date > 1949.1.1
-				date < 1960.1.1
-				}
-			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1949.1.1
-			}
-			AND = {
-			date > 1960.1.1
-			}
-			AND = {
-            NOT = { tag = USA }
-			}
-			}
 		}
 	}
 }
@@ -170,25 +43,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-			AND = {
-				tag = USA
-				date > 1954.5.7
-				date < 1965.1.1
-				}
-			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1954.5.7
-			}
-			AND = {
-			date > 1965.1.1
-			}
-			AND = {
-            NOT = { tag = USA }
-			}
-			}
 		}
 	}
 }
@@ -198,53 +52,6 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-			AND = {
-				tag = USA
-				date > 1954.5.20
-				date < 1965.1.1
-				}
-			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1954.5.20
-			}
-			AND = {
-			date > 1965.1.1
-			}
-			AND = {
-            NOT = { tag = USA }
-			}
-			}
-		}
-	}
-}
-music = {
-	song = "The Mamas and Papas - California Dreaming"
-	
-	chance = {
-		modifier = {
-			factor = 1
-			AND = {
-				tag = USA
-				date > 1966.12.8
-				date < 1980.1.1
-				}
-			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1966.12.8
-			}
-			AND = {
-			date > 1980.1.1
-			}
-			AND = {
-            NOT = { tag = USA }
-			}
-			}
 		}
 	}
 }
@@ -254,53 +61,15 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-			AND = {
-				tag = USA
-				date > 1958.1.6
-				date < 1970.1.1
-				}
-			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1958.1.6
-			}
-			AND = {
-			date > 1970.1.1
-			}
-			AND = {
-            NOT = { tag = USA }
-			}
-			}
 		}
 	}
 }
 music = {
-	song = "Chuck Berry - Johnny B. Goode"
+	song = "The Four Lads - Moments To Remember"
 	
 	chance = {
 		modifier = {
 			factor = 1
-			AND = {
-				tag = USA
-				date > 1958.1.6
-				date < 1970.1.1
-				}
-			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1958.1.6
-			}
-			AND = {
-			date > 1970.1.1
-			}
-			AND = {
-            NOT = { tag = USA }
-			}
-			}
 		}
 	}
 }
@@ -309,57 +78,27 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			AND = {
-				tag = USA
-				date > 1956.7.2
-				date < 1970.1.1
-				}
-			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1956.7.2
-			}
-			AND = {
-			date > 1970.1.1
-			}
-			AND = {
-            NOT = { tag = USA }
-			}
-			}
+		factor = 1
 		}
 	}
 }
 music = {
-	song = "Eve Of Destruction"
+	song = "Ain't I Right"
 	
 	chance = {
 		modifier = {
-			factor = 1
-			AND = {
-				tag = USA
-				date > 1965.8.2
-				date < 1980.1.1
-				}
-			}
+		factor = 1
+			tag = USA
+		}
 		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1965.8.2
-			}
-			AND = {
-			date > 1980.1.1
-			}
-			AND = {
-            NOT = { tag = USA }
-			}
-			}
+		factor = 0
+		NOT = {
+			tag = USA
+		}
 		}
 	}
 }
+music_station = "usa_music"
 music = {
 	song = "Ted Nugent - Stranglehold"
 	
@@ -390,38 +129,6 @@ music = {
 	chance = {
 		modifier = {
 		factor = 2
-			tag = USA
-		}
-		modifier = {
-		factor = 0
-		NOT = {
-			tag = USA
-		}
-		}
-	}
-}
-music = {
-	song = "Ain't I Right"
-	
-	chance = {
-		modifier = {
-		factor = 1
-			tag = USA
-		}
-		modifier = {
-		factor = 0
-		NOT = {
-			tag = USA
-		}
-		}
-	}
-}
-music = {
-	song = "Surfin' U.S.A."
-	
-	chance = {
-		modifier = {
-		factor = 1
 			tag = USA
 		}
 		modifier = {

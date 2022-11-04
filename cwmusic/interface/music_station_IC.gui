@@ -150,7 +150,7 @@ guiTypes = {
 		checkBoxType = {
 			name = "select_station_button"
 			position = { x = 0 y = 0 }
-			quadTextureSprite = "GFX_usa_music_album_art"
+			quadTextureSprite = "GFX_vietwar_music_album_art"
 			clicksound = decisions_ui_button
 		}
 	}
@@ -454,13 +454,13 @@ guiTypes = {
 		}
 	}
 	containerWindowType={
-		name = "saf_music_stations_entry"
+		name = "usa_50s_music_stations_entry"
 		size = { width = 162 height = 130 }
 		
 		checkBoxType = {
 			name = "select_station_button"
 			position = { x = 0 y = 0 }
-			quadTextureSprite = "GFX_fin_music_album_art"
+			quadTextureSprite = "GFX_usa_50s_album_art"
 			clicksound = decisions_ui_button
 		}
 	}
