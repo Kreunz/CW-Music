@@ -1,0 +1,23 @@
+#CHI
+music_station = "chi_music"
+music = {
+	song = "say gez"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+
