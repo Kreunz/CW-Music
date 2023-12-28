@@ -250,3 +250,43 @@ music = {
 		}
 	}
 }
+music = {
+	song = "Look at Us!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KPA
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = KPA }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Internationale - North Korean Version"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KPA
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = KPA }
+			}
+			}
+		}
+	}
+}

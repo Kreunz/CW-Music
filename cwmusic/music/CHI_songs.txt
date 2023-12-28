@@ -1,7 +1,7 @@
 #CHI
 music_station = "chi_music"
 music = {
-	song = "say gez"
+	song = "Soul of Whampoa"
 	
 	chance = {
 		modifier = {

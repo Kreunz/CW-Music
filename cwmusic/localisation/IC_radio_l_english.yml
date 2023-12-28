@@ -1,5 +1,6 @@
 ﻿l_english:
  ic_music_TITLE:0 "Curtain Radio"
+ chi_music_TITLE:0 "Broadcasting Corporation of China"
  ddr_music_TITLE:0 "Berliner Rundfunk"
  usa_music_TITLE:0 "Radio USA"
  jap_showa_music_TITLE:0 "NHK (Showa)"
@@ -11,7 +12,7 @@
  srp_music_TITLE:0 "Srpska Radio Televizija"
  syr_music_TITLE:0 "Sawt al-Arab"
  wgr_music_TITLE:0 "Deutsche Welle"
- ita_music_TITLE:0 "Radio RAI"
+ ita_music_TITLE:0 "Broadcasting Corporation of China"
  bul_music_TITLE:0 "Radio Sofia"
  hun_music_TITLE:0 "Radio Budapest"
  west_50s_music_TITLE:0 "West 50s Music"
@@ -32,4 +33,3 @@
  west_80s_music_TITLE:0 "Radio Synth"
  cze_music_TITLE:0 "Ceskoslovenský Rozhlas"
  usa_50s_TITLE:0 "Radio Oldies 1950s"
- chi_music_TITLE:0 "Broadcasting Corporation of China"

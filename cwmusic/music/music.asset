@@ -2065,3 +2065,268 @@ music = {
 	file = "countries/SPR/Eres Tu (It's You).ogg"
 	volume = 0.65
 	}
+music = {
+	name = "Warera - Anthem of Liberal Democratic Party of Japan"
+	file = "countries/JAP/Warera - Anthem of Liberal Democratic Party of Japan.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Look at Us!"
+	file = "countries/kpa/Look at Us!.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Internationale - North Korean Version"
+	file = "countries/kpa/Internationale - North Korean Version.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Marcha de Oriamendi"
+	file = "countries/SPR/Marcha de Oriamendi.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Tómala sí un día, Tómala sí un dos"
+	file = "countries/SPR/Tómala sí un día, Tómala sí un dos.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "4 AM - Taeko Ohnuki"
+	file = "countries/JAP/4 AM - Taeko Ohnuki.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "A lot of Medicine - Taeko Onuki"
+	file = "countries/JAP/A lot of Medicine - Taeko Onuki.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "At the Hop - Masaaki Hirao"
+	file = "countries/JAP/At the Hop - Masaaki Hirao.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Bay City - Junko Yagami"
+	file = "countries/JAP/Bay City - Junko Yagami.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Cutie Pie - Yuya Uchida"
+	file = "countries/JAP/Cutie Pie - Yuya Uchida.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Dress Down - Kaoru Akimoto"
+	file = "countries/JAP/Dress Down - Kaoru Akimoto.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Fantasy - Meiko Nakahara"
+	file = "countries/JAP/Fantasy - Meiko Nakahara.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Fly by day - Toshiki Kadomatsu"
+	file = "countries/JAP/Fly by day - Toshiki Kadomatsu.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Glass no Sogen - Kikuchi Momoko"
+	file = "countries/JAP/Glass no Sogen - Kikuchi Momoko.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "I Love You So - Junko Ohashi"
+	file = "countries/JAP/I Love You So - Junko Ohashi.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "I'm In Love - Tomoko Aran"
+	file = "countries/JAP/I'm In Love - Tomoko Aran.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Just a Joke - Yurie Kokubu"
+	file = "countries/JAP/Just a Joke - Yurie Kokubu.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Kimi Ga Yo - Japan National Anthem"
+	file = "countries/JAP/Kimi Ga Yo - Japan National Anthem.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Louisiana Mama - Mieko Hirota"
+	file = "countries/JAP/Louisiana Mama - Mieko Hirota.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Machi No Dorufin - Kingo Hamada"
+	file = "countries/JAP/Machi No Dorufin - Kingo Hamada.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "My Life - Noriko Miyamoto"
+	file = "countries/JAP/My Life - Noriko Miyamoto.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Mystical Composer - Kikuchi Momoko"
+	file = "countries/JAP/Mystical Composer - Kikuchi Momoko.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Office Lady - Toshiki Kadomatsu"
+	file = "countries/JAP/Office Lady - Toshiki Kadomatsu.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Refrain - Yurie Kokubu"
+	file = "countries/JAP/Refrain - Yurie Kokubu.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Shyness Boy - Anri"
+	file = "countries/JAP/Shyness Boy - Anri.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Tasogare - Mai Yamane"
+	file = "countries/JAP/Tasogare - Mai Yamane.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Twistin' The Twist - Hirota Mieko"
+	file = "countries/JAP/Twistin' The Twist - Hirota Mieko.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Watashi No Baby - Hirota Mieko"
+	file = "countries/JAP/Watashi No Baby - Hirota Mieko.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Windy Summer - Anri"
+	file = "countries/JAP/Windy Summer - Anri.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Soul of Whampoa"
+	file = "countries/CHI/Soul of Whampoa.ogg"
+	volume = 0.70
+	}
+music = {
+	name = "Tobe! Gundam"
+	file = "countries/JAP/Tobe! Gundam.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Devilman Opening"
+	file = "countries/JAP/Devilman Opening.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Ambitions to the Sky"
+	file = "countries/ITA/Ambitions to the Sky.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Anpei Reminiscence - Sho Hushishi"
+	file = "countries/ITA/Anpei Reminiscence - Sho Hushishi.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Anthem of the Republic of China Army"
+	file = "countries/ITA/Anthem of the Republic of China Army.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Guoguang March"
+	file = "countries/ITA/Guoguang March.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Heroic Warriors"
+	file = "countries/ITA/Heroic Warriors.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Indomitable Spirit"
+	file = "countries/ITA/Indomitable Spirit.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Lonely Love Flower - Ji Luxia"
+	file = "countries/ITA/Lonely Love Flower - Ji Luxia.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Love at Guanziling - Wu Jinhuai"
+	file = "countries/ITA/Love at Guanziling - Wu Jinhuai.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Mama! Please Take Care of Yourself - Wen Hsia"
+	file = "countries/ITA/Mama! Please Take Care of Yourself - Wen Hsia.ogg"
+	volume = 0.50
+	}
+music = {
+	name = "March of Double Ten Victory"
+	file = "countries/ITA/March of Double Ten Victory.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "March of the ROC Tank troops"
+	file = "countries/ITA/March of the ROC Tank troops.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Marine Corps Song"
+	file = "countries/ITA/Marine Corps Song.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "National Flag Anthem of the Republic of China"
+	file = "countries/ITA/National Flag Anthem of the Republic of China.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Night Raid"
+	file = "countries/ITA/Night Raid.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Ode to the Leader"
+	file = "countries/ITA/Ode to the Leader.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Presidential March"
+	file = "countries/ITA/Presidential March.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Reclaim The Mainland"
+	file = "countries/ITA/Reclaim The Mainland.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "To Battle"
+	file = "countries/ITA/To Battle.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Victory Song"
+	file = "countries/ITA/Victory Song.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Warship March"
+	file = "countries/ITA/Warship March.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "When will we look back - Teresa Teng"
+	file = "countries/ITA/When will we look back - Teresa Teng.ogg"
+	volume = 0.65
+	}

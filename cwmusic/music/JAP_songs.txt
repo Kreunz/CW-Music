@@ -60,3 +60,545 @@ music = {
 		}
 	}
 }
+
+music = {
+	song = "Warera - Anthem of Liberal Democratic Party of Japan"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "4 AM - Taeko Ohnuki"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "A lot of Medicine - Taeko Onuki"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "At the Hop - Masaaki Hirao"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Bay City - Junko Yagami"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Cutie Pie - Yuya Uchida"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Dress Down - Kaoru Akimoto"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Fantasy - Meiko Nakahara"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Fly by day - Toshiki Kadomatsu"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Glass no Sogen - Kikuchi Momoko"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "I Love You So - Junko Ohashi"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "I'm In Love - Tomoko Aran"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Just a Joke - Yurie Kokubu"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Kimi Ga Yo - Japan National Anthem"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Louisiana Mama - Mieko Hirota"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Machi No Dorufin - Kingo Hamada"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "My Life - Noriko Miyamoto"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Mystical Composer - Kikuchi Momoko"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Office Lady - Toshiki Kadomatsu"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Refrain - Yurie Kokubu"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Shyness Boy - Anri"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Tasogare - Mai Yamane"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Twistin' The Twist - Hirota Mieko"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Watashi No Baby - Hirota Mieko"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Windy Summer - Anri"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Devilman Opening"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Tobe! Gundam"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}

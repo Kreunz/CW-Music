@@ -161,3 +161,37 @@ music = {
         }
 	}
 }
+music = {
+	song = "Tómala sí un día, Tómala sí un dos"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SPR
+			}
+		modifier = {
+            factor = 0
+
+            NOT = {
+        	    tag = SPR
+			}
+        }
+	}
+}
+music = {
+	song = "Marcha de Oriamendi"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				tag = SPR
+			}
+		modifier = {
+            factor = 0
+
+            NOT = {
+        	    tag = SPR
+			}
+        }
+	}
+}

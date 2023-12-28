@@ -1,20 +1,480 @@
 #ITA
 music_station = "ita_music"
 music = {
-	song = "Meraviglioso"
+	song = "Soul of Whampoa"
 	
 	chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = ITA
+				tag = CHI
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = ITA }
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Ambitions to the Sky"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Anpei Reminiscence - Sho Hushishi"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Anthem of the Republic of China Army"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Dark Moon - Jin-Huai Wu"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Guoguang March"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Heroic Warriors"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Indomitable Spirit"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Lonely Love Flower - Ji Luxia"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Love at Guanziling - Wu Jinhuai"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Mama! Please Take Care of Yourself - Wen Hsia"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March of Double Ten Victory"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March of the ROC Tank troops"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Marine Corps Song"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "National Flag Anthem of the Republic of China"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Night Raid"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Ode to the Leader"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Presidential March"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Reclaim The Mainland"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Soul of Whampoa"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "To Battle"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Victory Song"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Warship March"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "When will we look back - Teresa Teng"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = CHI
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CHI }
 			}
 			}
 		}
