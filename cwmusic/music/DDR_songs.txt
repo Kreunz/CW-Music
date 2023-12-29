@@ -177,26 +177,8 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			AND = {
+			factor = 0.3
 				tag = DDR
-				date > 1980.1.1
-				date < 1995.1.1
-				}
-			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1980.1.1
-			}
-			AND = {
-			date > 1995.1.1
-			}
-			AND = {
-            NOT = { tag = DDR }
-			}
-			}
 		}
 	}
 }

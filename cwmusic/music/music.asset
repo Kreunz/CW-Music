@@ -5,7 +5,102 @@ music = {
 	file = "hoi4mainthemeallies.ogg"
 	volume = 0.65
 }
-
+#Albania
+music = {
+	name = "Internacionale"
+	file = "countries/alb/Internationale.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Në njërën dorë kazmën në tjetrën pushkën"
+	file = "countries/alb/A Pickaxe in One Hand and a Rifle In the Other.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Partizani në luftë po shkonte"
+	file = "countries/alb/The Partisan Is Headed to War.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hakmarrje rini"
+	file = "countries/alb/Hakmarrje rini.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mes flamujsh të kuq"
+	file = "countries/alb/Among the Red Flags.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Buzë Adriatikut"
+	file = "countries/alb/Shores of the Adriatic Sea.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Në Tiranën Tonë"
+	file = "countries/alb/In Our Tirana.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Një Djep Në Barrikadë"
+	file = "countries/alb/A Cradle On the Barricade.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kenga e çlirimit te Korçës"
+	file = "countries/alb/Song of Liberation of Korca.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Enver Hoxha yll epoke"
+	file = "countries/alb/Enver Hoxha yll epoke.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ecim rrugën e Enverit"
+	file = "countries/alb/Let's Follow the Path of Enver.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Porsi Dielli Republika"
+	file = "countries/alb/Porsi Dielli Republika.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Rrofte Enver O Sa Malet Tona"
+	file = "countries/alb/Rrofte Enver O Sa Malet Tona.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jam një cike nga Dragobia"
+	file = "countries/alb/Jam nje cike nga Dragobia.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Populli dhe Partia"
+	file = "countries/alb/Populli dhe Partia.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kushtrimi i lirise"
+	file = "countries/alb/Kushtrimi i lirise.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Tirana - Pekini"
+	file = "countries/alb/Tirana - Pekini.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Qëndrojmë si malet"
+	file = "countries/alb/We stand like the mountains.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mes punëtorëve"
+	file = "countries/alb/Mes punetoreve.ogg"
+	volume = 0.65
+}
 #greece
 music = {
 	name = "Come back"
@@ -138,6 +233,76 @@ music = {
 music = {
 	name = "Pisen prace"
 	file = "countries/cze/Pisen prace.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pochod SNB"
+	file = "countries/cze/Pochod SNB.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Se zpěvem a smíchem"
+	file = "countries/cze/Singing and laughing.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Budujeme"
+	file = "countries/cze/Budujeme.ogg"
+	volume = 0.65
+}
+music = {
+	name = "My jdeme s přáteli"
+	file = "countries/cze/My jdeme s prateli.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Příchod Rudé armády"
+	file = "countries/cze/Prichod Rude armady.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hymna Demokratické Mládeže"
+	file = "countries/cze/Hymna Demokraticke Mladeze.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pochod mládeže"
+	file = "countries/cze/Pochod mladeze.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Armádě zdar"
+	file = "countries/cze/Armade zdar.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Směr Praha"
+	file = "countries/cze/Smer Praha.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Ve jménu Jana Žižky"
+	file = "countries/cze/Ve jmenu Jana Zizky.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Zpěv svobody"
+	file = "countries/cze/Zpev svobody.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Sloužíme straně"
+	file = "countries/cze/Slouzíme strane.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Milion paží"
+	file = "countries/cze/Milion pazi.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Pětadvacet kamarádů"
+	file = "countries/cze/Twenty five friends.ogg"
 	volume = 0.65
 }
 #Commie greece
@@ -471,6 +636,43 @@ music = {
 	volume = 0.65
 }
 
+#general
+music = {
+	name = "The Door"
+	file = "generic/The Door.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bridge Of Death"
+	file = "generic/Bridge Of Death.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Turbine Hall"
+	file = "generic/Turbine Hall.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Dealing With Destruction"
+	file = "generic/Dealing With Destruction.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Gallery"
+	file = "generic/Gallery.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Hildur Guanadottir - Liaur"
+	file = "generic/Hildur Guanadottir - Liaur.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Exclusion Zone" #Exclusion Zone - Thomas Newman
+	file = "generic/Exclusion Zone.ogg"
+	volume = 0.65
+}
+
 #Asia:
 music = {
 	name = "Orient"
@@ -483,6 +685,16 @@ music = {
 	volume = 0.65
 }
 #SOV:
+music = {
+	name = "Mikhail Shufutinsky - Taganka"
+	file = "countries/SOV/Mikhail Shufutinsky - Taganka.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Chornyy Voron"
+	file = "countries/SOV/Chornyy Voron.ogg"
+	volume = 0.65
+}
 music = {
 	name = "Anthem of the Soviet Union"
 	file = "countries/SOV/Anthem of the Soviet Union.ogg"
@@ -583,6 +795,11 @@ music = {
 	file = "countries/SOV/Internatsionaal.ogg"
 	volume = 0.65
 }
+music = {
+	name = "Dmitriy Bormatenkov - Raskinulos more shiroko"
+	file = "countries/SOV/Dmitriy Bormatenkov - Raskinulos more shiroko.ogg"
+	volume = 0.65
+}
 
 #60s_sov
 music = {
@@ -608,6 +825,11 @@ music = {
 music = {
 	name = "Nu chto tebe skazat' pro Sakhalin"
 	file = "countries/SOV/60s/Nu chto tebe skazat' pro Sakhalin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Valeriy Petryayev - Ya Ukhozhu"
+	file = "countries/SOV/60s/Valeriy Petryayev - Ya Ukhozhu.ogg"
 	volume = 0.65
 }
 #70s_sov
@@ -700,6 +922,21 @@ music = {
 music = {
 	name = "Viktor Tsoi - Zvezda Po Imeni Solntse"
 	file = "countries/SOV/80s/Viktor Tsoi - Zvezda Po Imeni Solntse.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Goodbye Forever"
+	file = "countries/SOV/80s/Goodbye Forever.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Aleksandr Minayev - Po vostoku"
+	file = "countries/SOV/80s/Aleksandr Minayev - Po vostoku.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Kaskad - Kukushka"
+	file = "countries/SOV/80s/Kaskad - Kukushka.ogg"
 	volume = 0.65
 }
 #Vietnam War
@@ -861,22 +1098,12 @@ music = {
 #USA:
 music = {
 	name = "Vaughn Monroe - Riders In The Sky"
-	file = "countries/USA/Vaughn Monroe - Riders In The Sky.ogg"
-	volume = 0.65
-}
-music = {
-	name = "Ted Nugent - Stranglehold"
-	file = "countries/USA/Ted Nugent - Stranglehold.ogg"
-	volume = 0.65
-}
-music = {
-	name = "Johnny Mandel - Suicide Is Painless"
-	file = "countries/USA/Johnny Mandel - Suicide Is Painless.ogg"
+	file = "countries/USA/vietnam/Vaughn Monroe - Riders In The Sky.ogg"
 	volume = 0.65
 }
 music = {
 	name = "Roy Hamilton - You can have her"
-	file = "countries/USA/Roy Hamilton - You can have her.ogg"
+	file = "countries/USA/vietnam/Roy Hamilton - You can have her.ogg"
 	volume = 0.65
 }
 music = {
@@ -940,6 +1167,66 @@ music = {
 	file = "countries/USA/50s/Moments To Remember.ogg"
 	volume = 0.65
 }
+music = {
+	name = "Pat Boone - Love Letters In The Sand"
+	file = "countries/USA/50s/Love Letters In The Sand.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Danny & the Juniors - At the Hop"
+	file = "countries/USA/50s/At the Hop.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Star-Spangled Banner 50s"
+	file = "countries/USA/50s/The Star-Spangled Banner 50s.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Elvis - Hound Dog"
+	file = "countries/USA/50s/Hound Dog.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Jerry Lee Lewis - Great Balls Of Fire"
+	file = "countries/USA/50s/Great Balls Of Fire.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Arthur Crudup - I'm Gonna Dig Myself a Hole"
+	file = "countries/USA/50s/I'm Gonna Dig Myself a Hole.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Mike Fernandez - A-Bomb Bop"
+	file = "countries/USA/50s/A Bomb Bop.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Uranium Fever"
+	file = "countries/USA/50s/I'm Gonna Dig Myself a Hole.ogg"
+	volume = 0.65
+}
+music = {
+	name = "The Five Stars - Atom Bomb Baby"
+	file = "countries/USA/50s/Atom Bomb Baby.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Fred Kirby - When That Hell Bomb Falls"
+	file = "countries/USA/50s/Fred Kirby - When That Hell Bomb Falls.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Atomic Baby"
+	file = "countries/USA/50s/Atomic Baby.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Bert the Turtle (the Duck and Cover Song)"
+	file = "countries/USA/50s/Bert the Turtle (the Duck and Cover Song).ogg"
+	volume = 0.65
+}
 #JAP
 music = {
 	name = "Godzilla - Main Theme (1954)"
@@ -958,18 +1245,13 @@ music = {
 }
 #wgr
 music = {
-	name = "Nena - 99 Luftballons"
-	file = "countries/WGR/Nena - 99 Luftballons.ogg"
-	volume = 0.65
-}
-music = {
 	name = "Es Hängt Ein Pferdehalfter An Der Wand"
-	file = "countries/WGR/Es Hängt Ein Pferdehalfter An Der Wand.ogg"
+	file = "countries/WGR/5060/Es Hängt Ein Pferdehalfter An Der Wand.ogg"
 	volume = 0.65
 }
 music = {
 	name = "Keine Angst vor grossen Tieren"
-	file = "countries/WGR/Keine Angst vor grossen Tieren.ogg"
+	file = "countries/WGR/5060/Keine Angst vor grossen Tieren.ogg"
 	volume = 0.65
 }
 music = {
@@ -979,7 +1261,22 @@ music = {
 }
 music = {
 	name = "Vera Palm - Weil mein Daddy dich gut leiden kann"
-	file = "countries/WGR/Vera Palm - Weil mein Daddy dich gut leiden kann.ogg"
+	file = "countries/WGR/5060/Vera Palm - Weil mein Daddy dich gut leiden kann.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Wencke Myhre - Beiß nicht gleich in jeden Apfel"
+	file = "countries/WGR/5060/Beiß nicht gleich in jeden Apfel.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Drafi Deutscher - Nimm mich so, wie ich bin"
+	file = "countries/WGR/5060/Nimm mich so, wie ich bin.ogg"
+	volume = 0.65
+}
+music = {
+	name = "Britt Kersten - Unsre Liebe"
+	file = "countries/WGR/5060/Unsre Liebe.ogg"
 	volume = 0.65
 }
 #DDR

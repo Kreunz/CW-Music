@@ -421,7 +421,7 @@ guiTypes = {
 		}
 	}
 	containerWindowType={
-		name = "wgr_music_stations_entry"
+		name = "wgr_5060_music_stations_entry"
 		size = { width = 162 height = 130 }
 		
 		checkBoxType = {
@@ -461,6 +461,17 @@ guiTypes = {
 			name = "select_station_button"
 			position = { x = 0 y = 0 }
 			quadTextureSprite = "GFX_usa_50s_album_art"
+			clicksound = decisions_ui_button
+		}
+	}
+	containerWindowType={
+		name = "alb_music_stations_entry"
+		size = { width = 162 height = 130 }
+		
+		checkBoxType = {
+			name = "select_station_button"
+			position = { x = 0 y = 0 }
+			quadTextureSprite = "GFX_alb_album_art"
 			clicksound = decisions_ui_button
 		}
 	}

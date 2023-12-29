@@ -170,6 +170,9 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/usa_50s_album_art.dds"
 		noOfFrames = 2
 	}
-	
-	
+	spriteType = {
+		name = "GFX_alb_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/alb_album_art.dds"
+		noOfFrames = 2
+	}
 }

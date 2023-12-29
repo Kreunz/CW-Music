@@ -322,3 +322,37 @@ music = {
 		}
 	}
 }
+music = {
+	song = "Vaughn Monroe - Riders In The Sky"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "Roy Hamilton - You can have her"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}
+	}
+}
+music = {
+	song = "Star Spangled Banner"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}

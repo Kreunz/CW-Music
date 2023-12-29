@@ -5,26 +5,16 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-				AND = {
-				tag = SOV
-				has_government = communism
-				date > 1969.1.1
-				}
-				}
+			}
+	}
+}
+music = {
+	song = "Valeriy Petryayev - Ya Ukhozhu"
+	
+	chance = {
 		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1969.1.1
+			factor = 1
 			}
-			AND = {
-            NOT = { tag = SOV }
-			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
-		}
 	}
 }
 music = {
@@ -154,26 +144,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-				AND = {
-				tag = SOV
-				has_government = communism
-				date > 1976.1.1
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1976.1.1
 			}
-			AND = {
-            NOT = { tag = SOV }
-			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
-		}
 	}
 }
 music = {
@@ -537,7 +508,61 @@ music = {
 		}
 	}
 }
+music = {
+	song = "Goodbye Forever"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Aleksandr Minayev - Po vostoku"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Kaskad - Kukushka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Goodbye Forever"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Goodbye Forever"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
 music_station = "sov_music"
+music = {
+	song = "Dmitriy Bormatenkov - Raskinulos more shiroko"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
 music = {
 	song = "Anthem of the Soviet Union"
 	
@@ -764,22 +789,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-				AND = {
-				tag = SOV
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = SOV }
 			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
-		}
 	}
 }
 music = {
@@ -788,22 +798,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-				AND = {
-				tag = SOV
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = SOV }
 			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
-		}
 	}
 }
 music = {
@@ -812,22 +807,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-			AND = {
-				tag = SOV
-				date > 1955.1.1
-				}
 			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1955.1.1
-			}
-			AND = {
-            NOT = { tag = SOV }
-			}
-			}
-		}
 	}
 }
 music = {
@@ -836,22 +816,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-				AND = {
-				tag = SOV
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = SOV }
 			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
-		}
 	}
 }
 music = {
@@ -860,22 +825,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-				AND = {
-				tag = SOV
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = SOV }
 			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
-		}
 	}
 }
 music = {
@@ -884,22 +834,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-				AND = {
-				tag = SOV
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = SOV }
 			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
-		}
 	}
 }
 music = {
@@ -908,22 +843,7 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-				AND = {
-				tag = SOV
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = SOV }
 			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
-		}
 	}
 }
 music = {
@@ -956,21 +876,25 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-				AND = {
-				tag = SOV
-					has_government = communism
-				}
-				}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-            NOT = { tag = SOV }
 			}
-			AND = {
-			NOT = { has_government = communism }
-			}
-			}
-		}
 	}
 }
+music = {
+	song = "Mikhail Shufutinsky - Taganka"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Chornyy Voron"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+

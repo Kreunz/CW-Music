@@ -1,25 +1,7 @@
 #USA
-music_station = "usa_50s"
-music = {
-	song = "Vaughn Monroe - Riders In The Sky"
-	
-	chance = {
-		modifier = {
-			factor = 1
-		}
-	}
-}
+music_station = "usa_50s_music"
 music = {
 	song = "Franklin Lymon - Why do fools fall in love"
-	
-	chance = {
-		modifier = {
-			factor = 1
-		}
-	}
-}
-music = {
-	song = "Roy Hamilton - You can have her"
 	
 	chance = {
 		modifier = {
@@ -98,31 +80,115 @@ music = {
 		}
 	}
 }
-music_station = "usa_music"
 music = {
-	song = "Ted Nugent - Stranglehold"
+	song = "Pat Boone - Love Letters In The Sand"
 	
 	chance = {
 		modifier = {
-			factor = 1
-			AND = {
-				tag = USA
-				date > 1975.1.1
-				}
-			}
-		modifier = {
-            factor = 0
-			OR = {
-			AND = {
-			date < 1975.1.1
-			}
-			AND = {
-            NOT = { tag = USA }
-			}
-			}
+		factor = 1
 		}
 	}
 }
+music = {
+	song = "Danny & the Juniors - At the Hop"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "The Star-Spangled Banner 50s"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Elvis - Hound Dog"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Jerry Lee Lewis - Great Balls Of Fire"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Arthur Crudup - I'm Gonna Dig Myself a Hole"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Mike Fernandez - A-Bomb Bop"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Uranium Fever"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "The Five Stars - Atom Bomb Baby"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Fred Kirby - When That Hell Bomb Falls"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Atomic Baby"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Bert the Turtle (the Duck and Cover Song)"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music_station = "usa_music"
 music = {
 	song = "Star Spangled Banner"
 	
