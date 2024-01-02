@@ -1,0 +1,381 @@
+music_station = "cub_music"
+music = {
+	song = "Hasta Siempre Comandante"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "¡Venceremos! - Quilapayun"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "A las barricadas"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Apuntes del Tio Sam - Pancasan"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "El Pueblo Unido"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "En la valle del Yuro"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Guajira guantanamera"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Himno de Bayamo"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Himno de la Unidad Sandinista"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Himno del Guerrillero"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "La Internacional"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Marcha 26 Julio"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Marcha del ERP"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Marcha Montonera"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Marsellesa Socialista"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Por Montañas y Praderas"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Unidos venceremos"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Zamba del Che - Victor Jara"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Y en eso llego Fidel"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = CUB
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = CUB }
+			}
+			}
+		}
+	}
+}

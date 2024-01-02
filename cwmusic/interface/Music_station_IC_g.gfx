@@ -175,4 +175,9 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/alb_album_art.dds"
 		noOfFrames = 2
 	}
+	spriteType = {
+		name = "GFX_cub_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/cub_album_art.dds"
+		noOfFrames = 2
+	}
 }

@@ -2623,7 +2623,107 @@ music = {
 	volume = 0.65
 	}
 music = {
+	name = "Dark Moon - Jin-Huai Wu"
+	file = "countries/ITA/Dark Moon - Jin-Huai Wu.ogg"
+	volume = 0.65
+	}
+music = {
 	name = "When will we look back - Teresa Teng"
 	file = "countries/ITA/When will we look back - Teresa Teng.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Hasta Siempre Comandante"
+	file = "countries/CUB/Hasta Siempre Comandante.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "¡Venceremos! - Quilapayun"
+	file = "countries/CUB/¡Venceremos! - Quilapayun.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "A las barricadas"
+	file = "countries/CUB/A las barricadas.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Apuntes del Tio Sam - Pancasan"
+	file = "countries/CUB/Apuntes del Tio Sam - Pancasan.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "El Pueblo Unido"
+	file = "countries/CUB/El Pueblo Unido.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "En la valle del Yuro"
+	file = "countries/CUB/En la valle del Yuro.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Guajira Guantanamera"
+	file = "countries/CUB/Guajira guantanamera.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Himno de Bayamo"
+	file = "countries/CUB/Himno de Bayamo.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Himno de la Unidad Sandinista"
+	file = "countries/CUB/Himno de la Unidad Sandinista.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Himno del Guerrillero"
+	file = "countries/CUB/Himno del Guerrillero.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "La Internacional"
+	file = "countries/CUB/La Internacional.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Marcha 26 Julio"
+	file = "countries/CUB/Marcha 26 Julio.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Marcha del ERP"
+	file = "countries/CUB/Marcha del ERP.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Marcha Montonera"
+	file = "countries/CUB/Marcha Montonera.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Marsellesa Socialista"
+	file = "countries/CUB/Marsellesa Socialista.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Por Montañas y Praderas"
+	file = "countries/CUB/Por Montañas y Praderas.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Unidos venceremos"
+	file = "countries/CUB/Unidos venceremos.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Y en eso llego Fidel"
+	file = "countries/CUB/Y en eso llego Fidel.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Zamba del Che - Victor Jara"
+	file = "countries/CUB/Zamba del Che - Victor Jara.ogg"
 	volume = 0.65
 	}
