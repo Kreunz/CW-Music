@@ -1,0 +1,261 @@
+music_station = "per_music"
+music = {
+	song = "Azar-Abadegan"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = PER
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PER }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Ey Iran"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = PER
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PER }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "God is the Greatest, Khomeini is the Leader"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = PER
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PER }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Imperial Army March"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = PER
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PER }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Iranian Imperial Anthem"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = PER
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PER }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Karbala,Karbala,We are Coming"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = PER
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PER }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Khatoon"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = PER
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PER }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Ma Ra Bas"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = PER
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PER }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Military March No.6"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = PER
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PER }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Not Until You Return"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = PER
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PER }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "The Army of Imam Mahdi"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = PER
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PER }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "We Are the Storm"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = PER
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PER }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Young Iran March"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = PER
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PER }
+			}
+			}
+		}
+	}
+}

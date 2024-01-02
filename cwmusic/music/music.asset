@@ -2727,3 +2727,68 @@ music = {
 	file = "countries/CUB/Zamba del Che - Victor Jara.ogg"
 	volume = 0.65
 	}
+music = {
+	name = "Azar-Abadegan"
+	file = "countries/PER/Azar-Abadegan.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Ey Iran"
+	file = "countries/PER/Ey Iran.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "God is the Greatest, Khomeini is the Leader"
+	file = "countries/PER/God is the Greatest, Khomeini is the Leader.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Imperial Army March"
+	file = "countries/PER/Imperial Army March.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Iranian Imperial Anthem"
+	file = "countries/PER/Iranian Imperial Anthem.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Karbala,Karbala,We are Coming"
+	file = "countries/PER/Karbala,Karbala,We are Coming.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Khatoon"
+	file = "countries/PER/Khatoon.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Ma Ra Bas"
+	file = "countries/PER/Ma Ra Bas.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Military March No.6"
+	file = "countries/PER/Military March No.6.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Not Until You Return"
+	file = "countries/PER/Not Until You Return.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "The Army of Imam Mahdi"
+	file = "countries/PER/The Army of Imam Mahdi.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "We Are the Storm"
+	file = "countries/PER/We Are the Storm.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Young Iran March"
+	file = "countries/PER/Young Iran March.ogg"
+	volume = 0.65
+	}
