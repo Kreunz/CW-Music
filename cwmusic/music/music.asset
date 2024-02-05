@@ -2792,3 +2792,198 @@ music = {
 	file = "countries/PER/Young Iran March.ogg"
 	volume = 0.65
 	}
+music = {
+	name = "La Cumparsita"
+	file = "countries/ARG/La Cumparsita.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Adios nonino - Astor Piazzolla"
+	file = "countries/ARG/Adios nonino - Astor Piazzolla.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Libertango - Astor Piazzolla"
+	file = "countries/ARG/Libertango - Astor Piazzolla.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "La Yumba - Osvaldo Pugliese"
+	file = "countries/ARG/La Yumba - Osvaldo Pugliese.ogg"
+	volume = 0.67
+	}
+music = {
+	name = "Cambalache - Enrique Santos Discépolo"
+	file = "countries/ARG/Cambalache - Enrique Santos Discépolo.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Mi Buenos Aires Querido -  Carlos Gardel"
+	file = "countries/ARG/Mi Buenos Aires Querido -  Carlos Gardel.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Por una Cabeza - Carlos Gardel"
+	file = "countries/ARG/Por una Cabeza - Carlos Gardel.ogg"
+	volume = 0.70
+	}
+music = {
+	name = "Uno - Roberto Goyeneche"
+	file = "countries/ARG/Uno - Roberto Goyeneche.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Solo Tu - Los 5 Latinos"
+	file = "countries/ARG/Solo Tu - Los 5 Latinos.ogg"
+	volume = 0.63
+	}
+music = {
+	name = "Quiéreme Siempre - Los 5 Latinos"
+	file = "countries/ARG/Quiéreme Siempre - Los 5 Latinos.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Eres diferente - Los 5 Latinos"
+	file = "countries/ARG/Eres diferente - Los 5 Latinos.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Te He Prometido - Leo Dan"
+	file = "countries/ARG/Te He Prometido - Leo Dan.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Cómo Te Extraño Mi Amor - Leo Dan"
+	file = "countries/ARG/Cómo Te Extraño Mi Amor - Leo Dan.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Todo Cambia - Mercedes Sosa"
+	file = "countries/ARG/Todo Cambia - Mercedes Sosa.ogg"
+	volume = 0.75
+	}
+music = {
+	name = "Argentino Hasta La Muerte - Roberto Rimoldi Fraga"
+	file = "countries/ARG/Argentino Hasta La Muerte - Roberto Rimoldi Fraga.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Revuelo De Ponchos Rojos - Roberto Rimoldi Fraga"
+	file = "countries/ARG/Revuelo De Ponchos Rojos - Roberto Rimoldi Fraga.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Zamba de mi esperanza - Jorge Cafrune"
+	file = "countries/ARG/Zamba de mi esperanza - Jorge Cafrune.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Gracias A La Vida - Mercedes Sosa"
+	file = "countries/ARG/Gracias A La Vida - Mercedes Sosa.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Porque Yo Te Amo - Sandro"
+	file = "countries/ARG/Porque Yo Te Amo - Sandro.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Gilito del Barrio Norte - María Elena Walsh (Anticommunist song)"
+	file = "countries/ARG/Gilito del Barrio Norte - María Elena Walsh (Anticommunist song).ogg"
+	volume = 0.65
+	}
+music = {
+	name = "La Felicidad - Palito Ortega"
+	file = "countries/ARG/La Felicidad - Palito Ortega.ogg"
+	volume = 0.63
+	}
+music = {
+	name = "Marcha Peronista"
+	file = "countries/ARG/.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "CGT March - Syndicalist song"
+	file = "countries/ARG/CGT March - Syndicalist song.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Hymn to the General San Martín"
+	file = "countries/ARG/Hymn to the General San Martín.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "March Avenida De Las Camelias"
+	file = "countries/ARG/March Avenida De Las Camelias.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "March Aurora"
+	file = "countries/ARG/March Aurora.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "March of San Lorenzo"
+	file = "countries/ARG/March of San Lorenzo.ogg"
+	volume = 0.70
+	}
+music = {
+	name = "March of the Argentine Army"
+	file = "countries/ARG/March of the Argentine Army.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "March Uno Grande"
+	file = "countries/ARG/March Uno Grande.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "March of the Liberty - Argentine anticommunist song"
+	file = "countries/ARG/March of the Liberty - Argentine anticommunist song.ogg"
+	volume = 0.75
+	}
+music = {
+	name = "March of the Malvinas"
+	file = "countries/ARG/March of the Malvinas.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "March of the Malvinas - Instrumental"
+	file = "countries/ARG/March of the Malvinas - Instrumental.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Me Gusta el Sur - Argentine Patriotic Song"
+	file = "countries/ARG/Me Gusta el Sur - Argentine Patriotic Song.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Marcha Radical - UCR song"
+	file = "countries/ARG/Marcha Radical - UCR song.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "March "Volvé Perón" - Justicialist Song"
+	file = "countries/ARG/March Volvé Perón - Justicialist Song.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Marcha del retorno - Justicialist song"
+	file = "countries/ARG/Marcha del retorno - Justicialist song.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Todos al Frente - Argentine Justicialist Song"
+	file = "countries/ARG/Todos al Frente - Argentine Justicialist Song.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Vamos Vamos Argentina - 1978 World Cup Song"
+	file = "countries/ARG/Vamos Vamos Argentina - 1978 World Cup Song.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Don't Cry for Me Argentina - Nacha Guevara"
+	file = "countries/ARG/Don't Cry for Me Argentina - Nacha Guevara.ogg"
+	volume = 0.65
+	}

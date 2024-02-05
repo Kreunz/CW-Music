@@ -1,0 +1,781 @@
+music_station = "arg_music"
+music = {
+	song = "La Cumparsita"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Adios nonino - Astor Piazzolla"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Libertango - Astor Piazzolla"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "La Yumba - Osvaldo Pugliese"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Cambalache - Enrique Santos Discépolo"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Mi Buenos Aires Querido -  Carlos Gardel"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Por una Cabeza - Carlos Gardel"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Uno - Roberto Goyeneche"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Solo Tu - Los 5 Latinos"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Quiéreme Siempre - Los 5 Latinos"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Eres diferente - Los 5 Latinos"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Te He Prometido - Leo Dan"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Cómo Te Extraño Mi Amor - Leo Dan"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Gracias A La Vida - Mercedes Sosa"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Todo Cambia - Mercedes Sosa"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Argentino Hasta La Muerte - Roberto Rimoldi Fraga"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Revuelo De Ponchos Rojos - Roberto Rimoldi Fraga"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Zamba de mi esperanza - Jorge Cafrune"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Porque Yo Te Amo - Sandro"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Gilito del Barrio Norte - María Elena Walsh (Anticommunist song)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "La Felicidad - Palito Ortega"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Marcha Peronista"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "CGT March - Syndicalist song"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Hymn to the General San Martín"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March Avenida De Las Camelias"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March Aurora"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March of San Lorenzo"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March of the Argentine Army"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March Uno Grande"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March of the Liberty - Argentine anticommunist song"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March of the Malvinas"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March of the Malvinas - Instrumental"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Me Gusta el Sur - Argentine Patriotic Song"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Marcha Radical - UCR song"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March "Volvé Perón" - Justicialist Song"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Marcha del retorno - Justicialist song"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Todos al Frente - Argentine Justicialist Song"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Vamos Vamos Argentina - 1978 World Cup Song"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Don't Cry for Me Argentina - Nacha Guevara"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = ARG
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ARG }
+			}
+			}
+		}
+	}
+}
