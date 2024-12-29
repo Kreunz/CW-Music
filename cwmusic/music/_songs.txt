@@ -288,7 +288,7 @@ music = {
 }
 }
 music = {
-	song = "Check it in, check it out"
+	song = "FEX — Subways of Your Mind "
 	
 	chance = {
 		modifier = {
