@@ -897,4 +897,13 @@ music = {
 			}
 	}
 }
+music = {
+	song = "My Beloved Motherland"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
 
