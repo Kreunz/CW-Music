@@ -1771,7 +1771,7 @@ music = {
 music = {
 	name = "As the War Approaches"
 	file = "countries/prc/As the War Approaches.ogg"
-	volume = 0.65
+	volume = 0.85
 }
 music = {
 	name = "March of the People's Liberation Army!"
@@ -2990,5 +2990,90 @@ music = {
 music = {
 	name = "My Beloved Motherland"
 	file = "countries/SOV/My Beloved Motherland.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "I Glorify the Revolution"
+	file = "countries/SOV/I Glorify the Revolution.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "March of the Communists Brigade"
+	file = "countries/SOV/March of the Communists Brigade.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Vadim Kazachenko - Yellow Roses"
+	file = "countries/SOV/80s/Vadim Kazachenko - Yellow Roses.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Forward Red Marines!"
+	file = "countries/SOV/Forward Red Marines!.ogg"
 	volume = 0.65
+	}
+music = {
+	name = "Hey, on the Road!"
+	file = "countries/SOV/Hey, on the Road!.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Soviet Folk Songs Medley"
+	file = "countries/SOV/Soviet Folk Songs Medley.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Great Liberation War Medley"
+	file = "countries/SOV/Great Liberation War Medley.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Lenin is Always With You"
+	file = "countries/SOV/Lenin is Always With You.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "The Last Train"
+	file = "countries/SOV/70s/The Last Train.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Anthem of the Soviet Union (1944)"
+	file = "countries/SOV/Anthem of the Soviet Union (1944).ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Anthem of the Soviet Union (1956)"
+	file = "countries/SOV/Anthem of the Soviet Union (1956).ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Russia has grown stronger through the thunderstorms"
+	file = "countries/SOV/Russia has grown stronger through the thunderstorms.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "The Capital Power is Destroying us"
+	file = "countries/SOV/The Capital Power is Destroying us.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "The Red Banner"
+	file = "countries/SOV/The Red Banner.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Roza Rymbayeva - Ephipany"
+	file = "countries/SOV/70s/Roza Rymbayeva - Ephipany.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Glory to the Great Stalin!"
+	file = "countries/SOV/Glory to the Great Stalin!.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "It's you and me!"
+	file = "countries/SOV/80s/It's you and me!.ogg"
+	volume = 0.85
 	}

@@ -139,6 +139,46 @@ music = {
 }
 music_station = "sov_70s_music"
 music = {
+	song = "Roza Rymbayeva - Ephipany"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "The Last Train"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = SOV
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Ya ochen rad, ved ya, nakonets, vozvrashchajus domoy"
 	
 	chance = {
@@ -228,6 +268,24 @@ music = {
 	}
 }
 music_station = "sov_80s_music"
+music = {
+	song = "It's you and me!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Vadim Kazachenko - Yellow Roses"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
 music = {
 	song = "Yegor Letov - Moja oborona"
 	
@@ -899,6 +957,132 @@ music = {
 }
 music = {
 	song = "My Beloved Motherland"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "I Glorify the Revolution"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "March of the Communists Brigade"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Forward Red Marines!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Hey, on the Road!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Soviet Folk Songs Medley"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Great Liberation War Medley"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Lenin is Always With You"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Anthem of the Soviet Union (1944)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Anthem of the Soviet Union (1956)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Russia has grown stronger through the thunderstorms"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "The Capital Power is Destroying us"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "The Red Banner"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Roza Rymbayeva - Ephipany"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Glory to the Great Stalin!"
 	
 	chance = {
 		modifier = {
