@@ -823,8 +823,8 @@ music = {
 	volume = 0.65
 }
 music = {
-	name = "Nu chto tebe skazat' pro Sakhalin"
-	file = "countries/SOV/60s/Nu chto tebe skazat' pro Sakhalin.ogg"
+	name = "Timur Vedernikov - Well what can I tell you about Sakhalin"
+	file = "countries/SOV/60s/Timur Vedernikov - Well what can I tell you about Sakhalin.ogg"
 	volume = 0.65
 }
 music = {
@@ -1114,7 +1114,7 @@ music = {
 music = {
 	name = "Star Spangled Banner"
 	file = "countries/USA/Star Spangled Banner.ogg"
-	volume = 0.65
+	volume = 0.85
 }
 music = {
 	name = "Eve Of Destruction"
@@ -3048,7 +3048,7 @@ music = {
 	volume = 0.65
 	}
 music = {
-	name = "Russia has grown stronger through the thunderstorms"
+	name = "Project Anthem of the Russian Soviet Federative Socialist Republic"
 	file = "countries/SOV/Russia has grown stronger through the thunderstorms.ogg"
 	volume = 0.85
 	}
@@ -3075,5 +3075,146 @@ music = {
 music = {
 	name = "It's you and me!"
 	file = "countries/SOV/80s/It's you and me!.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Song about Voroshilov"
+	file = "countries/SOV/Song about Voroshilov.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Glory!"
+	file = "countries/SOV/Glory!.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "March of Enthusiasts"
+	file = "countries/SOV/March of Enthusiasts.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Soviet Country"
+	file = "countries/SOV/Soviet Country.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Anthem of the Russian Soviet Federative Socialist Republic"
+	file = "countries/SOV/Anthem of the Russian Soviet Federative Socialist Republic.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Sandi Patty - Star Spangled Banner"
+	file = "countries/USA/Sandi Patty - Star Spangled Banner.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "America The Beautiful"
+	file = "countries/USA/America The Beautiful.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Mormon Tabernacle Choir - Battle Hymn of the Republic"
+	file = "countries/USA/Mormon Tabernacle Choir - Battle Hymn of the Republic.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Patriotic March"
+	file = "countries/JAP/Patriotic March.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "March of the Man of War"
+	file = "countries/JAP/March of the Man of War.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "March of the Japanese Self-Defense Forces"
+	file = "countries/JAP/March of the Japanese Self-Defense Forces.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Koichi Miura - Patriotic March"
+	file = "countries/JAP/Koichi Miura - Patriotic March.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "National Anthem of the Republic of Korea in Exile"
+	file = "countries/kor/National Anthem of the Republic of Korea in Exile.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Robert Shaw Chorale - My Country, 'Tis of Thee"
+	file = "countries/USA/My Country, 'Tis of Thee.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "The Boston Pops - This Land Is Your Land"
+	file = "countries/USA/The Boston Pops - This Land Is Your Land.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "State Anthem of Louisiana"
+	file = "countries/USA/State Anthem of Louisiana.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "You're a Grand Old Flag"
+	file = "countries/USA/You're a Grand Old Flag.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "The Stars and Stripes Forever"
+	file = "countries/USA/The Stars and Stripes Forever.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Columbia, the Gem of the Ocean"
+	file = "countries/USA/Columbia, the Gem of the Ocean.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "State Anthem of California"
+	file = "countries/USA/State Anthem of California.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "State Anthem of West Virginia"
+	file = "countries/USA/State Anthem of West Virginia.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "State Anthem of Connecticut"
+	file = "countries/USA/State Anthem of Connecticut.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "State Anthem of Maryland"
+	file = "countries/USA/State Anthem of Maryland.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "State Anthem of Iowa"
+	file = "countries/USA/State Anthem of Iowa.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "God Bless America"
+	file = "countries/USA/God Bless America.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Battle Cry Of Freedom"
+	file = "countries/USA/Battle Cry Of Freedom.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "National Anthem of the Islamic Republic of Iran"
+	file = "countries/PER/National Anthem of the Islamic Republic of Iran.ogg"
+	volume = 0.85
+	}
+#Radio Free Europe
+music = {
+	name = "Long Live Belarus"
+	file = "countries/RFE/Long Live Belarus.ogg"
 	volume = 0.85
 	}

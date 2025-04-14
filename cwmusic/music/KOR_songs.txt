@@ -1,0 +1,17 @@
+music_station = "voice_of_korea_music"
+music = {
+	song = "National Anthem of the Republic of Korea in Exile"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = KOR
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = KOR
+		}
+		}
+	}
+}

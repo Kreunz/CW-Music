@@ -205,3 +205,259 @@ music = {
 		}
 	}
 }
+music = {
+	song = "Sandi Patty - Star Spangled Banner"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "America The Beautiful"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "Mormon Tabernacle Choir - Battle Hymn of the Republic"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "Robert Shaw Chorale - My Country, 'Tis of Thee"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "The Boston Pops - This Land Is Your Land"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "State Anthem of Louisiana"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "State Anthem of California"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "State Anthem of West Virginia"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "State Anthem of Connecticut"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "State Anthem of Iowa"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "State Anthem of Maryland"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "You're a Grand Old Flag"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "The Stars and Stripes Forever"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "Battle Cry Of Freedom"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "God Bless America"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "Columbia, the Gem of the Ocean"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}

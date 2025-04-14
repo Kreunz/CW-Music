@@ -1,0 +1,10 @@
+music_station = "rfe_music"
+music = {
+	song = "Long Live Belarus"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}

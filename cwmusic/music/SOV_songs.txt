@@ -118,7 +118,7 @@ music = {
 	}
 }
 music = {
-	song = "Nu chto tebe skazat' pro Sakhalin"
+	song = "Timur Vedernikov - Well what can I tell you about Sakhalin"
 	
 	chance = {
 		modifier = {
@@ -1083,6 +1083,51 @@ music = {
 }
 music = {
 	song = "Glory to the Great Stalin!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Song about Voroshilov"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Glory!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "March of Enthusiasts"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Soviet Country"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Anthem of the Russian Soviet Federative Socialist Republic"
 	
 	chance = {
 		modifier = {

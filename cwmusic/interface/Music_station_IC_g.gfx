@@ -190,4 +190,14 @@ spriteTypes = {
 		texturefile = "gfx/interface/topbar/musicplayer/arg_album_art.dds"
 		noOfFrames = 2
 	}
+	spriteType = {
+		name = "GFX_rfe_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/rfe_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
+		name = "GFX_kor_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/kor_album_art.dds"
+		noOfFrames = 2
+	}
 }

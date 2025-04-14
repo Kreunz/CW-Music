@@ -40,6 +40,26 @@ music = {
 	}
 }
 music = {
+	song = "National Anthem of the Islamic Republic of Iran"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = PER
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = PER }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "God is the Greatest, Khomeini is the Leader"
 	
 	chance = {

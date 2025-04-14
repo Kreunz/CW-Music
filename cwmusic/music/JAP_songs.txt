@@ -602,3 +602,83 @@ music = {
 		}
 	}
 }
+music = {
+	song = "Patriotic March"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March of the Man of War"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March of the Japanese Self-Defense Forces"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Koichi Miura - Patriotic March"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+		}
+	}
+}
