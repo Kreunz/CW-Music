@@ -81,6 +81,22 @@ music = {
 	}
 }
 music = {
+	song = "Vera Keyes - Begin Again"
+	
+	chance = {
+		modifier = {
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
 	song = "Pat Boone - Love Letters In The Sand"
 	
 	chance = {
@@ -171,7 +187,43 @@ music = {
 	}
 }
 music = {
+	song = "Guy Mitchell - Heartache by The Number"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Claire - Fly Me To The Moon"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
 	song = "Atomic Baby"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Elton Britt - Uranium Fever"
+	
+	chance = {
+		modifier = {
+		factor = 1
+		}
+	}
+}
+music = {
+	song = "Kay Kyser - Jingle Jangle Jingle"
 	
 	chance = {
 		modifier = {
@@ -447,6 +499,22 @@ music = {
 }
 music = {
 	song = "Columbia, the Gem of the Ocean"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "Lee Greenwood - God Bless the USA"
 	
 	chance = {
 		modifier = {

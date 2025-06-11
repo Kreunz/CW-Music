@@ -1135,4 +1135,49 @@ music = {
 			}
 	}
 }
+music = {
+	song = "Jubilee March - 25th Anniversary of the Worker's and Peasant's Red Army"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "First Baltic Fleet"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Ceremonial March - Glory to the Motherland"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Choir of the Group of Soviet Forces in Germany and the Erich-Weinert-Ensemble - Invincible and Legendary"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Big Children's Choir - Young Guards"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
 

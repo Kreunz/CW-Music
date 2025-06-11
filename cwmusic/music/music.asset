@@ -3068,6 +3068,11 @@ music = {
 	volume = 0.85
 	}
 music = {
+	name = "Choir of the Group of Soviet Forces in Germany and the Erich-Weinert-Ensemble - Invincible and Legendary"
+	file = "countries/SOV/Choir of the Group of Soviet Forces in Germany and the Erich-Weinert-Ensemble - Invincible and Legendary.ogg"
+	volume = 0.85
+	}
+music = {
 	name = "Glory to the Great Stalin!"
 	file = "countries/SOV/Glory to the Great Stalin!.ogg"
 	volume = 0.85
@@ -3103,6 +3108,31 @@ music = {
 	volume = 0.85
 	}
 music = {
+	name = "Red Alert 3 - Soviet March"
+	file = "countries/SOV/Red Alert 3 - Soviet March.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Ceremonial March - Glory to the Motherland"
+	file = "countries/SOV/Ceremonial March - Glory to the Motherland.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "First Baltic Fleet"
+	file = "countries/SOV/First Baltic Fleet.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Jubilee March - 25th Anniversary of the Worker's and Peasant's Red Army"
+	file = "countries/SOV/Jubilee March - 25th Anniversary of the Worker's and Peasant's Red Army.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Big Children's Choir - Young Guards"
+	file = "countries/SOV/70s/Big Children's Choir - Young Guards.ogg"
+	volume = 0.85
+	}
+music = {
 	name = "Sandi Patty - Star Spangled Banner"
 	file = "countries/USA/Sandi Patty - Star Spangled Banner.ogg"
 	volume = 0.85
@@ -3120,6 +3150,11 @@ music = {
 music = {
 	name = "Patriotic March"
 	file = "countries/JAP/Patriotic March.ogg"
+	volume = 0.65
+	}
+music = {
+	name = "Neon Genesis Evangelion - Come Sweet Death"
+	file = "countries/JAP/Neon Genesis Evangelion - Come Sweet Death.ogg"
 	volume = 0.65
 	}
 music = {
@@ -3210,6 +3245,46 @@ music = {
 music = {
 	name = "National Anthem of the Islamic Republic of Iran"
 	file = "countries/PER/National Anthem of the Islamic Republic of Iran.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Kay Kyser - Jingle Jangle Jingle"
+	file = "countries/USA/50s/Kay Kyser - Jingle Jangle Jingle.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Elton Britt - Uranium Fever"
+	file = "countries/USA/50s/Elton Britt - Uranium Fever.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Claire - Fly Me To The Moon"
+	file = "countries/USA/50s/Claire - Fly Me To The Moon.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Guy Mitchell - Heartache by The Number"
+	file = "countries/USA/50s/Guy Mitchell - Heartache by The Number.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Vera Keyes - Begin Again"
+	file = "countries/USA/50s/Vera Keyes - Begin Again.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Lee Greenwood - God Bless the USA"
+	file = "countries/USA/Lee Greenwood - God Bless the USA.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Don McLean - American Pie"
+	file = "countries/USA/Don McLean - American Pie.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Neon Genesis Evangelion - Cruel Angel's Thesis"
+	file = "countries/JAP/Neon Genesis Evangelion - Cruel Angel's Thesis.ogg"
 	volume = 0.85
 	}
 #Radio Free Europe

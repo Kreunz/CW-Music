@@ -48,6 +48,54 @@ music = {
 }
 }
 music = {
+	song = "Don McLean - American Pie"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				date > 1980.1.1
+				has_government = conservative
+				has_government = Liberal_Conservatism
+				has_government = Christian_Democratic 
+				has_government = socialist
+				has_government = Social_Democratic
+				has_government = Social_Liberalism
+				has_government = democratic
+				has_government = centrist
+				has_government = liberal
+				has_government = conservative
+				has_government = nationalist
+				has_government = neutrality
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+			date < 1980.1.1
+			}
+			AND = {
+            NOT = {
+			has_government = conservative
+				has_government = Liberal_Conservatism
+				has_government = Christian_Democratic 
+				has_government = socialist
+				has_government = Social_Democratic
+				has_government = Social_Liberalism
+				has_government = democratic
+				has_government = centrist
+				has_government = liberal
+				has_government = conservative
+				has_government = nationalist
+				has_government = neutrality
+			}
+			}
+		}
+	}
+}
+}
+music = {
 	song = "Cutting Crew - [I Just] Died In Your Arms"
 	
 	chance = {
@@ -687,6 +735,15 @@ music = {
 #generic
 music = {
 	song = "Last of Us"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}	
+	}	
+}
+music = {
+	song = "Red Alert 3 - Soviet March"
 	
 	chance = {
 		modifier = {
