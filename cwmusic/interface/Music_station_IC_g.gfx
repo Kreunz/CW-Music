@@ -196,6 +196,11 @@ spriteTypes = {
 		noOfFrames = 2
 	}
 	spriteType = {
+		name = "GFX_ino_album_art"
+		texturefile = "gfx/interface/topbar/musicplayer/ino_album_art.dds"
+		noOfFrames = 2
+	}
+	spriteType = {
 		name = "GFX_kor_album_art"
 		texturefile = "gfx/interface/topbar/musicplayer/kor_album_art.dds"
 		noOfFrames = 2

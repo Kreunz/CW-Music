@@ -743,6 +743,15 @@ music = {
 	}	
 }
 music = {
+	song = "Grand Theft Auto IV - Soviet Connection"
+	
+	chance = {
+		modifier = {
+			factor = 1
+		}	
+	}	
+}
+music = {
 	song = "Red Alert 3 - Soviet March"
 	
 	chance = {

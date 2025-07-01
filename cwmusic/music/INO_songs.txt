@@ -1,0 +1,401 @@
+music_station = "ino_music"
+music = {
+	song = "Great Indonesia"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Rita Effendy - My Homeland"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Anneke Gronloh - The Call of Palm Islands"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Armed Forces Medley - Republic of Indonesia"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Beat England and America"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March of the Motherland Wingman"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Oh Homeland! - Anthem of Nahdlatul Ulama"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Twilite Orchestra - March of Pancasila"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Twilite Orchestra - Arise Indonesian Youth"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Nasakom United"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Hymn to the Party"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Long Live Soedirman!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Tety Kadi - Along the Memory Lane"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Rani - Moon Orchid"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Tommy J. Pissa - In This Part of Town"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Titiek Puspa - Night Butterfly"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Betharia Sonata - Heartache"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Obbie Messakh - A School Love Story"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Dian Piesesha - Tying Our Hearts"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Diana Nasution - Hating But Misses You"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}

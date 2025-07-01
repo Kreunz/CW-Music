@@ -1180,4 +1180,31 @@ music = {
 			}
 	}
 }
+music = {
+	song = "Maksim Perepelitsa - Soldiers Let's Go!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Oh, Wide Fields"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
+music = {
+	song = "Georgy Sviridov - Time Forwards!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			}
+	}
+}
 

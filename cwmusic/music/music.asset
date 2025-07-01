@@ -3028,6 +3028,16 @@ music = {
 	volume = 0.65
 	}
 music = {
+	name = "Oh, Wide Fields"
+	file = "countries/SOV/Oh, Wide Fields.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Georgy Sviridov - Time Forwards!"
+	file = "countries/SOV/Georgy Sviridov - Time Forwards!.ogg"
+	volume = 0.85
+	}
+music = {
 	name = "Lenin is Always With You"
 	file = "countries/SOV/Lenin is Always With You.ogg"
 	volume = 0.65
@@ -3050,6 +3060,11 @@ music = {
 music = {
 	name = "Project Anthem of the Russian Soviet Federative Socialist Republic"
 	file = "countries/SOV/Russia has grown stronger through the thunderstorms.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Grand Theft Auto IV - Soviet Connection"
+	file = "countries/SOV/Grand Theft Auto IV - Soviet Connection.ogg"
 	volume = 0.85
 	}
 music = {
@@ -3105,6 +3120,11 @@ music = {
 music = {
 	name = "Anthem of the Russian Soviet Federative Socialist Republic"
 	file = "countries/SOV/Anthem of the Russian Soviet Federative Socialist Republic.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Maksim Perepelitsa - Soldiers Let's Go!"
+	file = "countries/SOV/Maksim Perepelitsa - Soldiers, Let's Go!.ogg"
 	volume = 0.85
 	}
 music = {
@@ -3285,6 +3305,108 @@ music = {
 music = {
 	name = "Neon Genesis Evangelion - Cruel Angel's Thesis"
 	file = "countries/JAP/Neon Genesis Evangelion - Cruel Angel's Thesis.ogg"
+	volume = 0.85
+	}
+
+#radio republik indonesia
+music = {
+	name = "Great Indonesia"
+	file = "countries/INO/Great Indonesia.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Anneke Gronloh - The Call of Palm Islands"
+	file = "countries/INO/Anneke Gronloh - The Call of Palm Islands.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Beat England and America"
+	file = "countries/INO/Beat England and America.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "March of the Motherland Wingman"
+	file = "countries/INO/March of the Motherland Wings.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Twilite Orchestra - March of Pancasila"
+	file = "countries/INO/Twilite Orchestra - March of Pancasila.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Nasakom United"
+	file = "countries/INO/Nasakom United.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Hymn to the Party"
+	file = "countries/INO/Hymn to the Party.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Armed Forces Medley - Republic of Indonesia"
+	file = "countries/INO/Armed Forces Medley - Republic of Indonesia.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Oh Homeland! - Anthem of Nahdlatul Ulama"
+	file = "countries/INO/Oh Homeland! - Anthem of Nahdlatul Ulama.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Twilite Orchestra - Arise Indonesian Youth"
+	file = "countries/INO/Twilite Orchestra - Arise Indonesian Youth.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Long Live Soedirman!"
+	file = "countries/INO/Long Live Soedirman!.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Tety Kadi - Along the Memory Lane"
+	file = "countries/INO/Tety Kadi - Along the Memory Lane.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Titiek Puspa - Night Butterfly"
+	file = "countries/INO/Titiek Puspa - Night Butterfly.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Tommy J. Pissa - In This Part of Town"
+	file = "countries/INO/Tommy J. Pissa - In This Part of Town.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Rani - Moon Orchid"
+	file = "countries/INO/Rani - Moon Orchid.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Betharia Sonata - Heartache"
+	file = "countries/INO/Betharia Sonata - Heartache.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Obbie Messakh - A School Love Story"
+	file = "countries/INO/Obbie Messakh - A School Love Story.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Dian Piesesha - Tying Our Hearts"
+	file = "countries/INO/Dian Piesesha - Tying Our Hearts.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Diana Nasution - Hating But Misses You"
+	file = "countries/INO/Diana Nasution - Hating But Misses You.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Rita Effendy - My Homeland"
+	file = "countries/INO/Rita Effendy - My Homeland.ogg"
 	volume = 0.85
 	}
 #Radio Free Europe
