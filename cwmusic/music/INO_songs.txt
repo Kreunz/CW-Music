@@ -20,6 +20,26 @@ music = {
 	}
 }
 music = {
+	song = "Great Indonesia (Instrumental)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Rita Effendy - My Homeland"
 	
 	chance = {
@@ -180,7 +200,147 @@ music = {
 	}
 }
 music = {
+	song = "Twilite Orchestra - One Native Land, One Nation"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Twilite Orchestra - Grateful"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Twilite Orchestra - Independence Day"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Twilite Orchestra - For You Heroes"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Our Mother Kartini"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "I Saw My Motherland"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Nasakom United"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Fallen Flowers"
 	
 	chance = {
 		modifier = {
@@ -221,6 +381,146 @@ music = {
 }
 music = {
 	song = "Long Live Soedirman!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Cheering and Joyful"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Hello-Hello Bandung"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March of the Siliwangi Division"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "President Soekarno - Let's Have Fun!"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Lilis Surjani - For His Highness President Soekarno"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Suyoso Karsono - Happy Eid Al-Fitr"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Johan Untung - Armed Forces Enters The Village"
 	
 	chance = {
 		modifier = {
@@ -340,6 +640,26 @@ music = {
 	}
 }
 music = {
+	song = "Betharia Sonata - You Weren't Made for Me"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Obbie Messakh - A School Love Story"
 	
 	chance = {
@@ -381,6 +701,26 @@ music = {
 }
 music = {
 	song = "Diana Nasution - Hating But Misses You"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Marina Elsera - The One I Love Is A Liar"
 	
 	chance = {
 		modifier = {

@@ -4,7 +4,7 @@ music = {
 	
 	chance = {
 		modifier = {
-		factor = 2
+		factor = 1
 			tag = KOR
 		}
 		modifier = {

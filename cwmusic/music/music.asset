@@ -3409,6 +3409,91 @@ music = {
 	file = "countries/INO/Rita Effendy - My Homeland.ogg"
 	volume = 0.85
 	}
+music = {
+	name = "Marina Elsera - The One I Love Is A Liar"
+	file = "countries/INO/Marina Elsera - The One I Love Is A Liar.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Betharia Sonata - You Weren't Made for Me"
+	file = "countries/INO/Betharia Sonata - You Weren't Made for Me.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Great Indonesia (Instrumental)"
+	file = "countries/INO/Great Indonesia (Instrumental).ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Fallen Flowers"
+	file = "countries/INO/Fallen Flowers.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "President Soekarno - Let's Have Fun!"
+	file = "countries/INO/President Soekarno - Let's Have Fun!.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "March of the Siliwangi Division"
+	file = "countries/INO/March of the Siliwangi Division.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "I Saw My Motherland"
+	file = "countries/INO/I Saw My Motherland.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Suyoso Karsono - Happy Eid Al-Fitr"
+	file = "countries/INO/Suyoso Karsono - Happy Eid Al-Fitr.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Cheering and Joyful"
+	file = "countries/INO/Cheering and Joyful.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Hello-Hello Bandung"
+	file = "countries/INO/Hello-Hello Bandung.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Twilite Orchestra - Independence Day"
+	file = "countries/INO/Twilite Orchestra - Independence Day.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Twilite Orchestra - Grateful"
+	file = "countries/INO/Twilite Orchestra - Grateful.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Our Mother Kartini"
+	file = "countries/INO/Our Mother Kartini.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Twilite Orchestra - For You Heroes"
+	file = "countries/INO/Twilite Orchestra - For You Heroes.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Lilis Surjani - For His Highness President Soekarno"
+	file = "countries/INO/Lilis Surjani - For His Highness President Soekarno.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Twilite Orchestra - One Native Land, One Nation"
+	file = "countries/INO/Twilite Orchestra - One Native Land, One Nation.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Johan Untung - Armed Forces Enters The Village"
+	file = "countries/INO/Johan Untung - Armed Forces Enters The Village.ogg"
+	volume = 0.85
+	}
 #Radio Free Europe
 music = {
 	name = "Long Live Belarus"
