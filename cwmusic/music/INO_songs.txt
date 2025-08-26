@@ -500,6 +500,26 @@ music = {
 	}
 }
 music = {
+	song = "Elfa's Singers - Glory to Indonesia"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Suyoso Karsono - Happy Eid Al-Fitr"
 	
 	chance = {
@@ -521,6 +541,46 @@ music = {
 }
 music = {
 	song = "Johan Untung - Armed Forces Enters The Village"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Sheila Majid - Sunlight"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Gesang - Solo River"
 	
 	chance = {
 		modifier = {
@@ -701,6 +761,46 @@ music = {
 }
 music = {
 	song = "Diana Nasution - Hating But Misses You"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "The Black Brothers Papua - Suffering Without End"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Hendri Rotinsulu - Pair of Eyeballs"
 	
 	chance = {
 		modifier = {

@@ -3340,6 +3340,11 @@ music = {
 	volume = 0.85
 	}
 music = {
+	name = "Elfa's Singers - Glory to Indonesia"
+	file = "countries/INO/Elfa's Singers - Glory to Indonesia.ogg"
+	volume = 0.85
+	}
+music = {
 	name = "Hymn to the Party"
 	file = "countries/INO/Hymn to the Party.ogg"
 	volume = 0.85
@@ -3450,6 +3455,11 @@ music = {
 	volume = 0.85
 	}
 music = {
+	name = "Sheila Majid - Sunlight"
+	file = "countries/INO/Sheila Majid - Sunlight.ogg"
+	volume = 0.85
+	}
+music = {
 	name = "Cheering and Joyful"
 	file = "countries/INO/Cheering and Joyful.ogg"
 	volume = 0.85
@@ -3492,6 +3502,21 @@ music = {
 music = {
 	name = "Johan Untung - Armed Forces Enters The Village"
 	file = "countries/INO/Johan Untung - Armed Forces Enters The Village.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Gesang - Solo River"
+	file = "countries/INO/Gesang - Solo River.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "The Black Brothers Papua - Suffering Without End"
+	file = "countries/INO/The Black Brothers Papua - Suffering Without End.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Hendri Rotinsulu - Pair of Eyeballs"
+	file = "countries/INO/Hendri Rotinsulu - Pair of Eyeballs.ogg"
 	volume = 0.85
 	}
 #Radio Free Europe
