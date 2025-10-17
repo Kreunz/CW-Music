@@ -1,6 +1,54 @@
-music_station = "voice_of_korea_music"
+music_station = "kor_music"
 music = {
 	song = "National Anthem of the Republic of Korea in Exile"
+	
+	chance = {
+		modifier = {
+		factor = 1
+			tag = KOR
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = KOR
+		}
+		}
+	}
+}
+music = {
+	song = "National Anthem of the Republic of Korea"
+	
+	chance = {
+		modifier = {
+		factor = 1
+			tag = KOR
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = KOR
+		}
+		}
+	}
+}
+music = {
+	song = "Men Wearing Eight Point Covers"
+	
+	chance = {
+		modifier = {
+		factor = 1
+			tag = KOR
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = KOR
+		}
+		}
+	}
+}
+music = {
+	song = "The Torch of Eradicating Communism"
 	
 	chance = {
 		modifier = {

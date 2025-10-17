@@ -160,6 +160,26 @@ music = {
 	}
 }
 music = {
+	song = "Masyumi Calls - Anthem of Masyumi"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Twilite Orchestra - March of Pancasila"
 	
 	chance = {
@@ -367,6 +387,28 @@ music = {
 			factor = 1
 			AND = {
 				tag = INO
+				has_government = communism
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Internationale - Indonesian"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				has_government = communism
 				}
 			}
 		modifier = {

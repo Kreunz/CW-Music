@@ -2768,6 +2768,26 @@ music = {
 	volume = 0.65
 	}
 music = {
+	name = "National Anthem of the Republic of Korea"
+	file = "countries/kor/National Anthem of the Republic of Korea.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Men Wearing Eight Point Covers"
+	file = "countries/kor/South Korean Military Song - Men Wearing Eight Point Covers.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "The Torch of Eradicating Communism"
+	file = "countries/kor/The Torch of Eradicating Communism.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Misora Hibari - Omatsuri Mambo"
+	file = "countries/JAP/Misora Hibari - Omatsuri Mambo.ogg"
+	volume = 0.85
+	}
+music = {
 	name = "Military March No.6"
 	file = "countries/PER/Military March No.6.ogg"
 	volume = 0.65
@@ -3485,6 +3505,11 @@ music = {
 	volume = 0.85
 	}
 music = {
+	name = "Internationale - Indonesian"
+	file = "countries/INO/Internationale - Indonesian.ogg"
+	volume = 0.85
+	}
+music = {
 	name = "Twilite Orchestra - For You Heroes"
 	file = "countries/INO/Twilite Orchestra - For You Heroes.ogg"
 	volume = 0.85
@@ -3510,6 +3535,11 @@ music = {
 	volume = 0.85
 	}
 music = {
+	name = "Masyumi Calls - Anthem of Masyumi"
+	file = "countries/INO/Masyumi Calls - Anthem of Masyumi.ogg"
+	volume = 0.85
+	}
+music = {
 	name = "The Black Brothers Papua - Suffering Without End"
 	file = "countries/INO/The Black Brothers Papua - Suffering Without End.ogg"
 	volume = 0.85
@@ -3523,5 +3553,21 @@ music = {
 music = {
 	name = "Long Live Belarus"
 	file = "countries/RFE/Long Live Belarus.ogg"
+	volume = 0.85
+	}
+#Radio Singapore
+music = {
+	name = "Onward Singapore - National Anthem of Singapore"
+	file = "countries/SGP/Onward Singapore - National Anthem of Singapore.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "The Friday Girls - I Won't Miss You"
+	file = "countries/SGP/The Friday Girls - I Won't Miss You.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Naomi and The Boys - As Life Goes On"
+	file = "countries/SGP/Naomi and The Boys - As Life Goes On.ogg"
 	volume = 0.85
 	}

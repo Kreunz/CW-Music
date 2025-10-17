@@ -1,0 +1,49 @@
+music_station = "sgp_music"
+music = {
+	song = "Onward Singapore - National Anthem of Singapore"
+	
+	chance = {
+		modifier = {
+		factor = 1
+			tag = SGP
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = SGP
+		}
+		}
+	}
+}
+music = {
+	song = "The Friday Girls - I Won't Miss You"
+	
+	chance = {
+		modifier = {
+		factor = 1
+			tag = SGP
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = SGP
+		}
+		}
+	}
+}
+music = {
+	song = "Naomi and The Boys - As Life Goes On"
+	
+	chance = {
+		modifier = {
+		factor = 1
+			tag = SGP
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = SGP
+		}
+		}
+	}
+}
