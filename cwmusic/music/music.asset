@@ -1816,7 +1816,7 @@ music = {
 music = {
 	name = "March of the Volunteers"
 	file = "countries/prc/March of the Volunteers.ogg"
-	volume = 0.65
+	volume = 0.85
 	}	
 music = {
 	name = "No Communist Party No New China"
@@ -2768,21 +2768,6 @@ music = {
 	volume = 0.65
 	}
 music = {
-	name = "National Anthem of the Republic of Korea"
-	file = "countries/kor/National Anthem of the Republic of Korea.ogg"
-	volume = 0.85
-	}
-music = {
-	name = "Men Wearing Eight Point Covers"
-	file = "countries/kor/South Korean Military Song - Men Wearing Eight Point Covers.ogg"
-	volume = 0.85
-	}
-music = {
-	name = "The Torch of Eradicating Communism"
-	file = "countries/kor/The Torch of Eradicating Communism.ogg"
-	volume = 0.85
-	}
-music = {
 	name = "Misora Hibari - Omatsuri Mambo"
 	file = "countries/JAP/Misora Hibari - Omatsuri Mambo.ogg"
 	volume = 0.85
@@ -3103,8 +3088,18 @@ music = {
 	volume = 0.85
 	}
 music = {
-	name = "Choir of the Group of Soviet Forces in Germany and the Erich-Weinert-Ensemble - Invincible and Legendary"
-	file = "countries/SOV/Choir of the Group of Soviet Forces in Germany and the Erich-Weinert-Ensemble - Invincible and Legendary.ogg"
+	name = "GSFG and the Erich-Weinert-Ensemble - Invincible and Legendary"
+	file = "countries/SOV/Invincible_and_Legendary.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Song of Korean People's Army"
+	file = "countries/KPA/Song of Korean People's Army.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Rise O Voices of Rhodesia - Instrumental"
+	file = "countries/rho/Rise O Voices of Rhodesia - Instrumental.ogg"
 	volume = 0.85
 	}
 music = {
@@ -3569,5 +3564,51 @@ music = {
 music = {
 	name = "Naomi and The Boys - As Life Goes On"
 	file = "countries/SGP/Naomi and The Boys - As Life Goes On.ogg"
+	volume = 0.85
+	}
+#Radio Korea
+music = {
+	name = "National Anthem of the Republic of Korea"
+	file = "countries/kor/National Anthem of the Republic of Korea.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Men Wearing Eight Point Covers"
+	file = "countries/kor/South Korean Military Song - Men Wearing Eight Point Covers.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Sleep Well My Fellow"
+	file = "countries/kor/Sleep Well My Fellow.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "March of the Arirang Nation"
+	file = "countries/kor/March of the Arirang Nation.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Song of June 25"
+	file = "countries/kor/Song of June 25.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Republic of Korea Armed Forces Medley"
+	file = "countries/kor/Republic of Korea Armed Forces Medley.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "March of the Korean Liberation Army"
+	file = "countries/kor/March of the Korean Liberation Army.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Internationale - Republic of Korea"
+	file = "countries/kor/Internationale - Republic of Korea.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "The Torch of Eradicating Communism"
+	file = "countries/kor/The Torch of Eradicating Communism.ogg"
 	volume = 0.85
 	}

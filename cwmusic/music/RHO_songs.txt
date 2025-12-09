@@ -6,14 +6,14 @@ music = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -27,14 +27,14 @@ chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -48,14 +48,14 @@ music = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -69,14 +69,14 @@ music = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -90,14 +90,14 @@ music = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -111,14 +111,14 @@ music = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -132,14 +132,14 @@ music = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -153,14 +153,14 @@ chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -174,14 +174,14 @@ music = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -195,14 +195,14 @@ music = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -216,14 +216,14 @@ music = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -237,14 +237,14 @@ chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -257,14 +257,14 @@ music = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -277,14 +277,14 @@ music = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -298,14 +298,14 @@ chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -319,14 +319,14 @@ music = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -340,14 +340,14 @@ chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -361,14 +361,14 @@ chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -382,14 +382,14 @@ chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -403,14 +403,35 @@ chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
+			}
+			}
+		}
+	}
+}
+
+music = {
+	song = "Rise O Voices of Rhodesia - Instrumental"
+	
+chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = ZIM
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -419,19 +440,19 @@ chance = {
 
 music = {
 	song = "The Last word in Rhodesian"
-	
+
 chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -445,14 +466,14 @@ chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -466,14 +487,14 @@ chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -487,14 +508,14 @@ music = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -507,14 +528,14 @@ music = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -529,14 +550,14 @@ chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -550,14 +571,14 @@ chance = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}
@@ -571,14 +592,14 @@ music = {
 		modifier = {
 			factor = 1
 				AND = {
-				tag = RHO
+				tag = ZIM
 				}
 				}
 		modifier = {
             factor = 0
 			OR = {
 			AND = {
-            NOT = { tag = RHO }
+            NOT = { tag = ZIM }
 			}
 			}
 		}

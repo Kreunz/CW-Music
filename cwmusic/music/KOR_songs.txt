@@ -32,7 +32,39 @@ music = {
 	}
 }
 music = {
+	song = "Internationale - Republic of Korea"
+	
+	chance = {
+		modifier = {
+		factor = 1
+			tag = KOR
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = KOR
+		}
+		}
+	}
+}
+music = {
 	song = "Men Wearing Eight Point Covers"
+	
+	chance = {
+		modifier = {
+		factor = 1
+			tag = KOR
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = KOR
+		}
+		}
+	}
+}
+music = {
+	song = "March of the Arirang Nation"
 	
 	chance = {
 		modifier = {
@@ -54,6 +86,73 @@ music = {
 		modifier = {
 		factor = 1
 			tag = KOR
+			has_war_with = KPA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = KOR
+		}
+		}
+	}
+}
+music = {
+	song = "Song of June 25"
+	
+	chance = {
+		modifier = {
+		factor = 1
+			tag = KOR
+			has_war_with = KPA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = KOR
+		}
+		}
+	}
+}
+music = {
+	song = "Republic of Korea Armed Forces Medley"
+	
+	chance = {
+		modifier = {
+		factor = 1
+			tag = KOR
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = KOR
+		}
+		}
+	}
+}
+music = {
+	song = "March of the Korean Liberation Army"
+	
+	chance = {
+		modifier = {
+		factor = 1
+			tag = KOR
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = KOR
+		}
+		}
+	}
+}
+music = {
+	song = "Sleep Well My Fellow"
+	
+	chance = {
+		modifier = {
+		factor = 1
+			tag = KOR
+			has_war_with = KPA
 		}
 		modifier = {
 		factor = 0

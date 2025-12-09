@@ -290,3 +290,23 @@ music = {
 		}
 	}
 }
+music = {
+	song = "Song of Korean People's Army"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = KPA
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = KPA }
+			}
+			}
+		}
+	}
+}

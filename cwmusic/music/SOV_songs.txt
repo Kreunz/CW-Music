@@ -1163,7 +1163,7 @@ music = {
 	}
 }
 music = {
-	song = "Choir of the Group of Soviet Forces in Germany and the Erich-Weinert-Ensemble - Invincible and Legendary"
+	song = "GSFG and the Erich-Weinert-Ensemble - Invincible and Legendary"
 	
 	chance = {
 		modifier = {
