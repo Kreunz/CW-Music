@@ -5,7 +5,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -14,7 +29,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -184,7 +214,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -274,7 +319,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -283,7 +343,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -572,7 +647,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -581,7 +671,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -590,7 +695,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -599,7 +719,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -608,7 +743,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music_station = "sov_music"
@@ -618,11 +768,98 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
 	song = "Anthem of the Soviet Union"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Anthem of the Soviet Union (1944)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Anthem of the Soviet Union (1956)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Anthem of the Soviet Union (1964)"
 	
 	chance = {
 		modifier = {
@@ -847,7 +1084,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -856,7 +1108,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -865,7 +1132,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -874,7 +1156,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -883,7 +1180,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -892,7 +1204,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -901,7 +1228,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -934,7 +1276,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -943,7 +1300,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -952,7 +1324,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -961,7 +1348,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -970,7 +1372,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -979,7 +1396,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -988,7 +1420,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -997,7 +1444,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1006,7 +1468,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1015,7 +1492,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1024,25 +1516,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
-			}
-	}
-}
-music = {
-	song = "Anthem of the Soviet Union (1944)"
-	
-	chance = {
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
 		modifier = {
-			factor = 1
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
-	}
-}
-music = {
-	song = "Anthem of the Soviet Union (1956)"
-	
-	chance = {
-		modifier = {
-			factor = 1
+			AND = {
+			NOT = { has_government = communism }
 			}
+			}
+		}
 	}
 }
 music = {
@@ -1051,7 +1540,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1060,7 +1564,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1069,7 +1588,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1078,7 +1612,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1087,7 +1636,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1096,7 +1660,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1105,7 +1684,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1114,7 +1708,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1123,7 +1732,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1132,7 +1756,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1141,7 +1780,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1150,7 +1804,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1159,7 +1828,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1168,7 +1852,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1177,7 +1876,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1186,7 +1900,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1195,7 +1924,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 music = {
@@ -1204,7 +1948,22 @@ music = {
 	chance = {
 		modifier = {
 			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
 			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
 	}
 }
 

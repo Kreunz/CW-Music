@@ -5,8 +5,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -15,8 +22,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -25,8 +39,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 music = {
@@ -34,8 +55,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -44,8 +72,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -54,8 +89,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -64,8 +106,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -74,8 +123,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -84,8 +140,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -94,8 +157,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -104,8 +174,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -114,8 +191,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -124,8 +208,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -134,8 +225,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 music = {
@@ -143,8 +241,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -153,8 +258,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -163,8 +275,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 music = {
@@ -172,8 +291,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 music = {
@@ -181,8 +307,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 music = {
@@ -190,8 +323,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 music = {
@@ -199,8 +339,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 music = {
@@ -208,8 +355,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 music = {
@@ -217,8 +371,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 music = {
@@ -226,8 +387,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -236,8 +404,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 music = {
@@ -245,8 +420,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 music = {
@@ -254,8 +436,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 music = {
@@ -263,8 +452,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 music = {
@@ -272,8 +468,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 
@@ -282,8 +485,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 music = {
@@ -291,8 +501,15 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
-			}
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
 	}
 }
 music = {
@@ -301,6 +518,13 @@ music = {
 	chance = {
 		modifier = {
 		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
 		}
 	}
 }
@@ -310,6 +534,13 @@ music = {
 	chance = {
 		modifier = {
 		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
 		}
 	}
 }
@@ -319,6 +550,13 @@ music = {
 	chance = {
 		modifier = {
 		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
 		}
 	}
 }
@@ -327,7 +565,14 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
 		}
 	}
 }
@@ -336,7 +581,14 @@ music = {
 	
 	chance = {
 		modifier = {
-			factor = 1
+		factor = 1
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
 		}
 	}
 }

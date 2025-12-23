@@ -701,6 +701,11 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "Anthem of the Soviet Union (1964)"
+	file = "countries/SOV/Anthem of the Soviet Union (1964).ogg"
+	volume = 0.65
+}
+music = {
 	name = "Raketi vsegda na postu"
 	file = "countries/SOV/Raketi vsegda na postu.ogg"
 	volume = 0.65
@@ -1257,7 +1262,7 @@ music = {
 music = {
 	name = "Deutschlandlied"
 	file = "countries/WGR/Deutschlandlied.ogg"
-	volume = 0.65
+	volume = 0.85
 }
 music = {
 	name = "Vera Palm - Weil mein Daddy dich gut leiden kann"

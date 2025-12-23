@@ -1,61 +1,6 @@
 #wgr
 music_station = "wgr_5060_music"
 music = {
-	song = "Es Hängt Ein Pferdehalfter An Der Wand"
-	
-	chance = {
-		modifier = {
-		factor = 1
-		}
-	}
-}
-music = {
-	song = "Keine Angst vor grossen Tieren"
-	
-	chance = {
-		modifier = {
-		factor = 1
-		}
-	}
-}
-music = {
-	song = "Vera Palm - Weil mein Daddy dich gut leiden kann"
-	
-	chance = {
-		modifier = {
-		factor = 1
-		}
-	}
-}
-music = {
-	song = "Wencke Myhre - Beiß nicht gleich in jeden Apfel"
-	
-	chance = {
-		modifier = {
-		factor = 1
-		}
-	}
-}
-music = {
-	song = "Drafi Deutscher - Nimm mich so, wie ich bin"
-	
-	chance = {
-		modifier = {
-		factor = 1
-		}
-	}
-}
-music = {
-	song = "Britt Kersten - Unsre Liebe"
-	
-	chance = {
-		modifier = {
-		factor = 1
-		}
-	}
-}
-music_station = "wgr_music"
-music = {
 	song = "Deutschlandlied"
 	
 	chance = {
@@ -69,3 +14,88 @@ music = {
 			}
 		}
 }
+music = {
+	song = "Es Hängt Ein Pferdehalfter An Der Wand"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			tag = WGR
+		}
+		modifier = {
+            factor = 0
+            NOT = { tag = WGR }
+		}
+	}
+}
+music = {
+	song = "Keine Angst vor grossen Tieren"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			tag = WGR
+		}
+		modifier = {
+            factor = 0
+            NOT = { tag = WGR }
+		}
+	}
+}
+music = {
+	song = "Vera Palm - Weil mein Daddy dich gut leiden kann"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			tag = WGR
+		}
+		modifier = {
+            factor = 0
+            NOT = { tag = WGR }
+		}
+	}
+}
+music = {
+	song = "Wencke Myhre - Beiß nicht gleich in jeden Apfel"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			tag = WGR
+		}
+		modifier = {
+            factor = 0
+            NOT = { tag = WGR }
+		}
+	}
+}
+music = {
+	song = "Drafi Deutscher - Nimm mich so, wie ich bin"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			tag = WGR
+		}
+		modifier = {
+            factor = 0
+            NOT = { tag = WGR }
+		}
+	}
+}
+music = {
+	song = "Britt Kersten - Unsre Liebe"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			tag = WGR
+		}
+		modifier = {
+            factor = 0
+            NOT = { tag = WGR }
+		}
+	}
+}
+music_station = "wgr_music"
