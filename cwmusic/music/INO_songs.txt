@@ -722,6 +722,38 @@ music = {
 	}
 }
 music = {
+	song = "Titiek Puspa - Our Father Suharto"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				has_country_leader = {
+	                character = INO_Suharto
+	                ruling_only = yes
+                }
+			}
+		}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { 
+				AND = {
+					has_country_leader = {
+	                    character = INO_Suharto
+	                    ruling_only = yes
+                    }
+					tag = INO
+			    }
+			}
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Betharia Sonata - Heartache"
 	
 	chance = {
@@ -763,6 +795,26 @@ music = {
 }
 music = {
 	song = "Obbie Messakh - A School Love Story"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Warkop DKI - Coffee Shop"
 	
 	chance = {
 		modifier = {

@@ -3549,6 +3549,16 @@ music = {
 	file = "countries/INO/Hendri Rotinsulu - Pair of Eyeballs.ogg"
 	volume = 0.85
 	}
+music = {
+	name = "Warkop DKI - Coffee Shop"
+	file = "countries/INO/Warkop DKI - Coffee Shop.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Titiek Puspa - Our Father Suharto"
+	file = "countries/INO/Titiek Puspa - Our Father Suharto.ogg"
+	volume = 0.85
+	}
 #Radio Free Europe
 music = {
 	name = "Long Live Belarus"
