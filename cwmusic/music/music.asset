@@ -3327,7 +3327,11 @@ music = {
 	file = "countries/JAP/Neon Genesis Evangelion - Cruel Angel's Thesis.ogg"
 	volume = 0.85
 	}
-
+music = {
+	name = "After School Tea Time - We Touched an Angel!"
+	file = "countries/JAP/After School Tea Time - We Touched an Angel!.ogg"
+	volume = 0.85
+	}
 #radio republik indonesia
 music = {
 	name = "Great Indonesia"

@@ -679,6 +679,7 @@ music = {
             NOT = { tag = JAP }
 			}
 			}
+			date < 1980.1.1
 		}
 	}
 }
@@ -725,6 +726,27 @@ music = {
 }
 music = {
 	song = "Neon Genesis Evangelion - Cruel Angel's Thesis"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+			date < 1980.1.1
+		}
+	}
+}
+music = {
+	song = "After School Tea Time - We Touched an Angel!"
 	
 	chance = {
 		modifier = {
