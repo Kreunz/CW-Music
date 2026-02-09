@@ -3332,6 +3332,11 @@ music = {
 	file = "countries/JAP/After School Tea Time - We Touched an Angel!.ogg"
 	volume = 0.85
 	}
+music = {
+	name = "After School Tea Time - Fluffy-Fluffy Time"
+	file = "countries/JAP/After School Tea Time - Fluffy-Fluffy Time.ogg"
+	volume = 0.85
+	}
 #radio republik indonesia
 music = {
 	name = "Great Indonesia"

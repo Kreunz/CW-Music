@@ -766,3 +766,24 @@ music = {
 		}
 	}
 }
+music = {
+	song = "After School Tea Time - Fluffy-Fluffy Time"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = JAP
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = JAP }
+			}
+			}
+			date < 1980.1.1
+		}
+	}
+}
