@@ -17,6 +17,21 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "The Torch of Baath Is My Morning"
+	file = "countries/irq/The Torch of Baath Is My Morning.ogg"
+	volume = 0.85
+}
+music = {
+	name = "Waylon Jennings - Are You Sure Hank Done It This Way"
+	file = "countries/USA/Waylon Jennings - Are You Sure Hank Done It This Way.ogg"
+	volume = 0.85
+}
+music = {
+	name = "The Statler Brother - Bed of Roses"
+	file = "countries/USA/The Statler Brother - Bed of Roses.ogg"
+	volume = 0.85
+}
+music = {
 	name = "Partizani në luftë po shkonte"
 	file = "countries/alb/The Partisan Is Headed to War.ogg"
 	volume = 0.65
@@ -3634,5 +3649,25 @@ music = {
 music = {
 	name = "The Torch of Eradicating Communism"
 	file = "countries/kor/The Torch of Eradicating Communism.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Dixie"
+	file = "countries/USA/Dixie.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "C.W. McCall - Convoy"
+	file = "countries/USA/C.W. McCall - Convoy.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Queen - Radio Ga Ga"
+	file = "countries/USA/Queen - Radio Ga Ga.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Johnny Cash - General Lee"
+	file = "countries/USA/Johnny Cash - General Lee.ogg"
 	volume = 0.85
 	}

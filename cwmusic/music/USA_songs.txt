@@ -690,3 +690,120 @@ music = {
 		}
 	}
 }
+music = {
+	song = "Lee Greenwood - God Bless the USA"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "Waylon Jennings - Are You Sure Hank Done It This Way"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "The Statler Brother - Bed of Roses"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "C.W. McCall - Convoy"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "Queen - Radio Ga Ga"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "Johnny Cash - General Lee"
+	
+	chance = {
+		modifier = {
+		factor = 2
+			tag = USA
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}
+music = {
+	song = "Dixie"
+	
+	chance = {
+		modifier = {
+		factor = 2
+		    AND = {
+				OR = {
+					tag = USA
+					has_country_leader_ideology = dixiecrat
+				}
+			}
+		}
+		modifier = {
+		factor = 0
+		NOT = {
+			tag = USA
+		}
+		}
+	}
+}

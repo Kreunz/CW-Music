@@ -40,7 +40,7 @@ music = {
 	}
 }
 music = {
-	song = "Maeda Nazhat - Ya sharaf al aummati"
+	song = "The Torch of Baath Is My Morning"
 	
 	chance = {
 		modifier = {
@@ -59,3 +59,25 @@ music = {
 		}
 	}
 }
+music = {
+	song = "Maeda Nazhat - Ya sharaf al aummati"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				    tag = IRQ
+			    }
+			}
+		modifier = {
+            factor = 0
+			    OR = {
+			        AND = {
+                        NOT = { 
+							tag = IRQ 
+						}
+			        }
+			    }
+		    }
+	    }
+    }
