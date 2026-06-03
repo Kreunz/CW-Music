@@ -1247,6 +1247,30 @@ music = {
 	}
 }
 music = {
+	song = "Anthem of the Estonian Soviet Socialist Republic (Stalinist)"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Rossiya i Mongoliya"
 	
 	chance = {
@@ -1752,6 +1776,54 @@ music = {
 }
 music = {
 	song = "Anthem of the Russian Soviet Federative Socialist Republic"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Anthem of the Lithuanian Soviet Socialist Republic"
+	
+	chance = {
+		modifier = {
+			factor = 1
+				AND = {
+				tag = SOV
+					has_government = communism
+				}
+				}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = SOV }
+			}
+			AND = {
+			NOT = { has_government = communism }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "Anthem of the Latvian Soviet Socialist Republic (Russian)"
 	
 	chance = {
 		modifier = {

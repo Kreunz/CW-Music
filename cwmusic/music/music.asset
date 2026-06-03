@@ -3183,6 +3183,21 @@ music = {
 	volume = 0.85
 	}
 music = {
+	name = "Anthem of the Lithuanian Soviet Socialist Republic"
+	file = "countries/SOV/Anthem of the Lithuanian Soviet Socialist Republic.ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Anthem of the Latvian Soviet Socialist Republic (Russian)"
+	file = "countries/SOV/Anthem of the Latvian Soviet Socialist Republic (Russian).ogg"
+	volume = 0.85
+	}
+music = {
+	name = "Anthem of the Estonian Soviet Socialist Republic (Stalinist)"
+	file = "countries/SOV/Anthem of the Estonian Soviet Socialist Republic (Stalinist).ogg"
+	volume = 0.85
+	}
+music = {
 	name = "Big Children's Choir - Young Guards"
 	file = "countries/SOV/70s/Big Children's Choir - Young Guards.ogg"
 	volume = 0.85
