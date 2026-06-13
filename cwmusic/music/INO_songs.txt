@@ -933,3 +933,24 @@ music = {
 		}
 	}
 }
+music = {
+	song = "Leo Kristi - Song of the Free Land"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				has_war_with = HOL
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}

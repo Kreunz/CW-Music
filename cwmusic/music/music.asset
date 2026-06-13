@@ -3474,6 +3474,11 @@ music = {
 	volume = 0.85
 	}
 music = {
+	name = "Leo Kristi - Song of the Free Land"
+	file = "countries/INO/Leo Kristi - Song of the Free Land.ogg"
+	volume = 0.85
+	}
+music = {
 	name = "Marina Elsera - The One I Love Is A Liar"
 	file = "countries/INO/Marina Elsera - The One I Love Is A Liar.ogg"
 	volume = 0.85
