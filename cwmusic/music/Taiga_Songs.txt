@@ -1,7 +1,7 @@
 music_station = "Taiga_music"
 
 music = {
-	song = "JAP_Intro_1949_Kimigayo"
+	song = "Kimigayo - The Longest Day of Japan"
 	chance = { modifier = { factor = 0}}
 }
 music = {
