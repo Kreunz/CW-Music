@@ -220,6 +220,26 @@ music = {
 	}
 }
 music = {
+	song = "Twilite Orchestra - For You My Country"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
 	song = "Twilite Orchestra - One Native Land, One Nation"
 	
 	chance = {
@@ -463,6 +483,46 @@ music = {
 }
 music = {
 	song = "Hello-Hello Bandung"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "March Gerwani"
+	
+	chance = {
+		modifier = {
+			factor = 1
+			AND = {
+				tag = INO
+				}
+			}
+		modifier = {
+            factor = 0
+			OR = {
+			AND = {
+            NOT = { tag = INO }
+			}
+			}
+		}
+	}
+}
+music = {
+	song = "The Blood of the People"
 	
 	chance = {
 		modifier = {

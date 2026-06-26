@@ -1203,6 +1203,11 @@ music = {
 	volume = 0.65
 }
 music = {
+	name = "Twilite Orchestra - For You My Country"
+	file = "countries/INO/Twilite Orchestra - For You My Country.ogg"
+	volume = 0.65
+}
+music = {
 	name = "Elvis - Hound Dog"
 	file = "countries/USA/50s/Hound Dog.ogg"
 	volume = 0.65
@@ -1665,7 +1670,7 @@ music = {
 	name = "Meraviglioso"
 	file = "countries/ITA/Meraviglioso.ogg"
 	volume = 0.65
-	}
+}
 #BUL
 music = {
 	name = "The Internationale in Bulgarian"
@@ -1691,42 +1696,42 @@ music = {
 	name = "Bulgarian Anthem (Communist)"
 	file = "countries/bul/Bulgarian Anthem (Communist).ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Georgi Minchev - The Bulgarian Rock"
 	file = "countries/bul/Georgi Minchev - The Bulgarian Rock.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "March of the BPA"
 	file = "countries/bul/March of the BPA.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Our Militia"
 	file = "countries/bul/Our Militia.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Pesen za Yuri Gagarin"
 	file = "countries/bul/Song for Yuri Gagarin.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Song of Gavril Genov"
 	file = "countries/bul/Song of Gavril Genov.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Sreshtni me"
 	file = "countries/bul/Sreshtni me.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Vesela Brigadirska"
 	file = "countries/bul/Vesela Brigadirska.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Pesen na Truda"
 	file = "countries/bul/Friendly song today!.ogg"
@@ -1817,78 +1822,78 @@ music = {
 	name = "Red Sun in the Sky"
 	file = "countries/prc/Red Sun in the Sky.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "I Love Beijing Tiananmen"
 	file = "countries/prc/I Love Beijing Tiananmen.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Internationale  Chinese"
 	file = "countries/prc/Internationale  Chinese.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Learn From Lei Feng's Good Example"
 	file = "countries/prc/Learn From Lei Feng's Good Example.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "March of the Volunteers"
 	file = "countries/prc/March of the Volunteers.ogg"
 	volume = 0.85
-	}	
+}	
 music = {
 	name = "No Communist Party No New China"
 	file = "countries/prc/Red Sun in the Sky.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Smuglyanka Chinese"
 	file = "countries/prc/Smuglyanka Chinese.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Socialism is Good"
 	file = "countries/prc/Socialism is Good.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "The People of Yanbian Love Chairman Mao"
 	file = "countries/prc/The People of Yanbian Love Chairman Mao.ogg"
 	volume = 0.65
-	}
+}
 #HUN
 music = {
 	name = "Bunkócska"
 	file = "countries/hun/Bunkocska.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Gyöngyhajú lány"
 	file = "countries/hun/Gyongyhaju lany.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Internacionálé"
 	file = "countries/hun/Internacionale.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Neoton Familia - Santa Maria"
 	file = "countries/hun/Neoton Familia - Santa Maria.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Omega - Perlen im haar"
 	file = "countries/hun/Omega Perlen im haar.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "The Girl With The Pearls Hair"
 	file = "countries/hun/The Girl With The Pearls Hair.ogg"
 	volume = 0.65
-	}
+}
 #England
 music = {
 	name = "The Beatles - All You Need Is Love"
@@ -1981,52 +1986,52 @@ music = {
 	name = "Kompartijo, Mirisavo Cvece"
 	file = "countries/yug/Kompartijo, mirisavo cveće.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Internacionala"
 	file = "countries/yug/Internacionala.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Nasa Jugoslavija"
 	file = "countries/yug/Nasa Jugoslavija.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Neki To Vole Vruce - Teska vremena"
 	file = "countries/yug/Neki To Vole Vruce - Teska vremena.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Pesma Milicionara"
 	file = "countries/yug/Pesma Milicionara.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Pionirska Pjesma"
 	file = "countries/yug/Pionirska Pjesma.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Pjesma Nove Mladosti"
 	file = "countries/yug/Pjesma Nove Mladosti.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Republiko Slavo Nasa"
 	file = "countries/yug/Republiko Slavo Nasa.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Steg Partije"
 	file = "countries/yug/Steg Partije.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Uz Marsala Tita"
 	file = "countries/yug/Uz Marsala Tita.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Yugoslav Armed Forces Medley"
 	file = "countries/yug/Yugoslav Armed Forces Medley.ogg"
@@ -2057,199 +2062,199 @@ music = {
 	name = "Without a Break"
 	file = "countries/kpa/Without a break.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "The Soldiers Answered"
 	file = "countries/kpa/The soldiers answered.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "One Against a Hundred"
 	file = "countries/kpa/One against a hundred.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "March of Songun Victory"
 	file = "countries/kpa/March of Songun Victory.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Leader just give us your Order!"
 	file = "countries/kpa/Leader just give us your Order!.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Korea Does What It is Determined to Do!"
 	file = "countries/kpa/Korea does what it is Determined to Do!.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Jugeumeul Mije-Chimnyakjadeurege"
 	file = "countries/kpa/Jugeumeul Mije-Chimnyakjadeurege.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "DPRK Song - Defend the Headquarters of Revolution"
 	file = "countries/kpa/DPRK Song - Defend the Headquarters of Revolution.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Dont Ask My Name"
 	file = "countries/kpa/Dont Ask My Name.ogg"
 	volume = 0.65
-	}
+}
 #RHO
 music = {
 	name = "A Country Denied"
 	file = "countries/rho/A Country Denied.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Angels On My Wingtips"
 	file = "countries/rho/Angels On My wingtips.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Ballad of the Green Berets"
 	file = "countries/rho/Ballad of the Green Berets.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Flesh and Bone Solider"
 	file = "countries/rho/Flesh and Bone Solider.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "George"
 	file = "countries/rho/George.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "God's Country"
 	file = "countries/rho/Gods Country.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Goodbye Britannia"
 	file = "countries/rho/Goodbye Britania.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Great White Tribe"
 	file = "countries/rho/great white tribe.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Green Leader"
 	file = "countries/rho/GREEN LEADER.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Hate Us and See If We Mind"
 	file = "countries/rho/Hate Us and See If We Mind.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "I Left My Heart In Rhodesia"
 	file = "countries/rho/I Left My Heart In Rhodesia.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "In a Wilderness of Spite"
 	file = "countries/rho/In a Wilderness of Spite.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "It's a Long Way to Mukumbura"
 	file = "countries/rho/It's a Long Way to Mukumbura.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "John Edmond - Daisy"
 	file = "countries/rho/John Edmond - Daisy.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "One Fire"
 	file = "countries/rho/One Fire.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Rhodesia Regiment"
 	file = "countries/rho/Rhodesia Regiment.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Rhodesia well ever cherish thee"
 	file = "countries/rho/Rhodesia well ever cherish thee.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Rhodesia"
 	file = "countries/rho/Rhodesia.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Rhodesians Never Die"
 	file = "countries/rho/Rhodesians Never Die.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Rhodies Everywhere"
 	file = "countries/rho/Rhodies Everywhere.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Rise O Voices of Rhodesia"
 	file = "countries/rho/Rise O Voices of Rhodesia.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Snakes and Sniper"
 	file = "countries/rho/Snakes and sniper.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "The Last word in Rhodesian"
 	file = "countries/rho/The Last word in Rhodesian.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "The Msasas are turning"
 	file = "countries/rho/The Msasas are turning.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "The River Eternal"
 	file = "countries/rho/The River Eternal.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "The W.O.S Gone All Disco"
 	file = "countries/rho/The W.O.s Gone All Disco.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "We Rhodesians Drove Them All"
 	file = "countries/rho/We Rhodesians Drove Them All.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "What a Time it Was Rhodesia"
 	file = "countries/rho/What a Time it Was Rhodesia.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Whewe Song"
 	file = "countries/rho/Whewe Song.ogg"
 	volume = 0.65
-	}	
+}	
 #POL
 music = {
 	name = "Czerwone"
 	file = "countries/pol/Czerwone.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Oka"
 	file = "countries/pol/Oka.ogg"
@@ -2259,1435 +2264,1445 @@ music = {
 	name = "Deszcze Niespokojne"
 	file = "countries/pol/Deszcze niespokojne.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Dnia One-Go Wrzesnia"
 	file = "countries/pol/Dnia one-go Wrzesnia.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Do Partii"
 	file = "countries/pol/Do Partii.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Gdy Narod Do Boju"
 	file = "countries/pol/Gdy narod do boju.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "HALINA FRACKOWIAK -Papierowy Ksiezyc"
 	file = "countries/pol/HALINA FRACKOWIAK -Papierowy ksiezyc.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Kryzysowa Narzeczona"
 	file = "countries/pol/Lady Pank - Kryzysowa Narzeczona.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Marsz Gwardii Ludowej"
 	file = "countries/pol/Marsz Gwardii Ludowej.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Marsz Pierwszego Korpusu"
 	file = "countries/pol/Marsz Pierwszego Korpusu.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Mazurek Dabrowskiego"
 	file = "countries/pol/Mazurek Dabrowskiego.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Miedzynarodowka"
 	file = "countries/pol/Miedzynarodowka.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Mazowsze - Ukochany Kraj"
 	file = "countries/pol/Mazowsze - Ukochany kraj.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Na Barykady"
 	file = "countries/pol/Na barykady.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Pochod Przyjazni"
 	file = "countries/pol/Pochod Przyjazni.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Warszawianka"
 	file = "countries/pol/Warszawianka.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Warszawski Dzien"
 	file = "countries/pol/Warszawski dzien.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Zbudujemy Nowa Polske"
 	file = "countries/pol/Zbudujemy Nowa Polske.ogg"
 	volume = 0.65
-	}
+}
 
 #SPR	
 music = {
 	name = "Marcha Real (The Royal March, Franco-era)"
 	file = "countries/SPR/Marcha Real (The Royal March, Franco-era).ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Cara al Sol (Facing the Sun)"
 	file = "countries/SPR/Cara al Sol (Facing the Sun).ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "La Cancion del Legionario (The Song of the Legionnaires)"
 	file = "countries/SPR/La Cancion del Legionario (The Song of the Legionnaires).ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "El Novio de la Muerte (The Boyfriend of Lady Death)"
 	file = "countries/SPR/El Novio de la Muerte (The Boyfriend of Lady Death).ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Se Franco Vogliamo Seguire (If We Follow Franco)"
 	file = "countries/SPR/Se Franco Vogliamo Seguire (If We Follow Franco).ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "El Generalísimo (The Generalissimo)"
 	file = "countries/SPR/El Generalísimo (The Generalissimo).ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "La, La, La"
 	file = "countries/SPR/La, La, La.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Vivo Cantando (I Live Singing)"
 	file = "countries/SPR/Vivo Cantando (I Live Singing).ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Eres Tu (It's You)"
 	file = "countries/SPR/Eres Tu (It's You).ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Warera - Anthem of Liberal Democratic Party of Japan"
 	file = "countries/JAP/Warera - Anthem of Liberal Democratic Party of Japan.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Look at Us!"
 	file = "countries/kpa/Look at Us!.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Internationale - North Korean Version"
 	file = "countries/kpa/Internationale - North Korean Version.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Marcha de Oriamendi"
 	file = "countries/SPR/Marcha de Oriamendi.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Tómala sí un día, Tómala sí un dos"
 	file = "countries/SPR/Tómala sí un día, Tómala sí un dos.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "4 AM - Taeko Ohnuki"
 	file = "countries/JAP/4 AM - Taeko Ohnuki.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "A lot of Medicine - Taeko Onuki"
 	file = "countries/JAP/A lot of Medicine - Taeko Onuki.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "At the Hop - Masaaki Hirao"
 	file = "countries/JAP/At the Hop - Masaaki Hirao.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Bay City - Junko Yagami"
 	file = "countries/JAP/Bay City - Junko Yagami.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Cutie Pie - Yuya Uchida"
 	file = "countries/JAP/Cutie Pie - Yuya Uchida.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Dress Down - Kaoru Akimoto"
 	file = "countries/JAP/Dress Down - Kaoru Akimoto.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Fantasy - Meiko Nakahara"
 	file = "countries/JAP/Fantasy - Meiko Nakahara.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Fly by day - Toshiki Kadomatsu"
 	file = "countries/JAP/Fly by day - Toshiki Kadomatsu.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Glass no Sogen - Kikuchi Momoko"
 	file = "countries/JAP/Glass no Sogen - Kikuchi Momoko.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "I Love You So - Junko Ohashi"
 	file = "countries/JAP/I Love You So - Junko Ohashi.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "I'm In Love - Tomoko Aran"
 	file = "countries/JAP/I'm In Love - Tomoko Aran.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Just a Joke - Yurie Kokubu"
 	file = "countries/JAP/Just a Joke - Yurie Kokubu.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Kimi Ga Yo - Japan National Anthem"
 	file = "countries/JAP/Kimi Ga Yo - Japan National Anthem.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Louisiana Mama - Mieko Hirota"
 	file = "countries/JAP/Louisiana Mama - Mieko Hirota.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Machi No Dorufin - Kingo Hamada"
 	file = "countries/JAP/Machi No Dorufin - Kingo Hamada.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "My Life - Noriko Miyamoto"
 	file = "countries/JAP/My Life - Noriko Miyamoto.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Mystical Composer - Kikuchi Momoko"
 	file = "countries/JAP/Mystical Composer - Kikuchi Momoko.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Office Lady - Toshiki Kadomatsu"
 	file = "countries/JAP/Office Lady - Toshiki Kadomatsu.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Refrain - Yurie Kokubu"
 	file = "countries/JAP/Refrain - Yurie Kokubu.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Shyness Boy - Anri"
 	file = "countries/JAP/Shyness Boy - Anri.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Tasogare - Mai Yamane"
 	file = "countries/JAP/Tasogare - Mai Yamane.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Twistin' The Twist - Hirota Mieko"
 	file = "countries/JAP/Twistin' The Twist - Hirota Mieko.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Watashi No Baby - Hirota Mieko"
 	file = "countries/JAP/Watashi No Baby - Hirota Mieko.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Windy Summer - Anri"
 	file = "countries/JAP/Windy Summer - Anri.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Soul of Whampoa"
 	file = "countries/CHI/Soul of Whampoa.ogg"
 	volume = 0.70
-	}
+}
 music = {
 	name = "Tobe! Gundam"
 	file = "countries/JAP/Tobe! Gundam.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Devilman Opening"
 	file = "countries/JAP/Devilman Opening.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Ambitions to the Sky"
 	file = "countries/ITA/Ambitions to the Sky.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Anpei Reminiscence - Sho Hushishi"
 	file = "countries/ITA/Anpei Reminiscence - Sho Hushishi.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Anthem of the Republic of China Army"
 	file = "countries/ITA/Anthem of the Republic of China Army.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Guoguang March"
 	file = "countries/ITA/Guoguang March.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Heroic Warriors"
 	file = "countries/ITA/Heroic Warriors.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Indomitable Spirit"
 	file = "countries/ITA/Indomitable Spirit.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Lonely Love Flower - Ji Luxia"
 	file = "countries/ITA/Lonely Love Flower - Ji Luxia.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Love at Guanziling - Wu Jinhuai"
 	file = "countries/ITA/Love at Guanziling - Wu Jinhuai.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Mama! Please Take Care of Yourself - Wen Hsia"
 	file = "countries/ITA/Mama! Please Take Care of Yourself - Wen Hsia.ogg"
 	volume = 0.50
-	}
+}
 music = {
 	name = "March of Double Ten Victory"
 	file = "countries/ITA/March of Double Ten Victory.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "March of the ROC Tank troops"
 	file = "countries/ITA/March of the ROC Tank troops.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Marine Corps Song"
 	file = "countries/ITA/Marine Corps Song.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "National Flag Anthem of the Republic of China"
 	file = "countries/ITA/National Flag Anthem of the Republic of China.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Night Raid"
 	file = "countries/ITA/Night Raid.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Ode to the Leader"
 	file = "countries/ITA/Ode to the Leader.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Presidential March"
 	file = "countries/ITA/Presidential March.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Reclaim The Mainland"
 	file = "countries/ITA/Reclaim The Mainland.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "To Battle"
 	file = "countries/ITA/To Battle.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Victory Song"
 	file = "countries/ITA/Victory Song.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Warship March"
 	file = "countries/ITA/Warship March.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Dark Moon - Jin-Huai Wu"
 	file = "countries/ITA/Dark Moon - Jin-Huai Wu.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "When will we look back - Teresa Teng"
 	file = "countries/ITA/When will we look back - Teresa Teng.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Hasta Siempre Comandante"
 	file = "countries/CUB/Hasta Siempre Comandante.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "¡Venceremos! - Quilapayun"
 	file = "countries/CUB/¡Venceremos! - Quilapayun.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "A las barricadas"
 	file = "countries/CUB/A las barricadas.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Apuntes del Tio Sam - Pancasan"
 	file = "countries/CUB/Apuntes del Tio Sam - Pancasan.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "El Pueblo Unido"
 	file = "countries/CUB/El Pueblo Unido.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "En la valle del Yuro"
 	file = "countries/CUB/En la valle del Yuro.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Guajira Guantanamera"
 	file = "countries/CUB/Guajira guantanamera.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Himno de Bayamo"
 	file = "countries/CUB/Himno de Bayamo.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Himno de la Unidad Sandinista"
 	file = "countries/CUB/Himno de la Unidad Sandinista.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Himno del Guerrillero"
 	file = "countries/CUB/Himno del Guerrillero.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "La Internacional"
 	file = "countries/CUB/La Internacional.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Marcha 26 Julio"
 	file = "countries/CUB/Marcha 26 Julio.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Marcha del ERP"
 	file = "countries/CUB/Marcha del ERP.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Marcha Montonera"
 	file = "countries/CUB/Marcha Montonera.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Marsellesa Socialista"
 	file = "countries/CUB/Marsellesa Socialista.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Por Montañas y Praderas"
 	file = "countries/CUB/Por Montañas y Praderas.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Unidos venceremos"
 	file = "countries/CUB/Unidos venceremos.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Y en eso llego Fidel"
 	file = "countries/CUB/Y en eso llego Fidel.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Zamba del Che - Victor Jara"
 	file = "countries/CUB/Zamba del Che - Victor Jara.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Azar-Abadegan"
 	file = "countries/PER/Azar-Abadegan.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Ey Iran"
 	file = "countries/PER/Ey Iran.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "God is the Greatest, Khomeini is the Leader"
 	file = "countries/PER/God is the Greatest, Khomeini is the Leader.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Imperial Army March"
 	file = "countries/PER/Imperial Army March.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Iranian Imperial Anthem"
 	file = "countries/PER/Iranian Imperial Anthem.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Karbala,Karbala,We are Coming"
 	file = "countries/PER/Karbala,Karbala,We are Coming.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Khatoon"
 	file = "countries/PER/Khatoon.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Ma Ra Bas"
 	file = "countries/PER/Ma Ra Bas.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Misora Hibari - Omatsuri Mambo"
 	file = "countries/JAP/Misora Hibari - Omatsuri Mambo.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Military March No.6"
 	file = "countries/PER/Military March No.6.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Not Until You Return"
 	file = "countries/PER/Not Until You Return.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "The Army of Imam Mahdi"
 	file = "countries/PER/The Army of Imam Mahdi.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "We Are the Storm"
 	file = "countries/PER/We Are the Storm.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Young Iran March"
 	file = "countries/PER/Young Iran March.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "La Cumparsita"
 	file = "countries/ARG/La Cumparsita.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Adios nonino - Astor Piazzolla"
 	file = "countries/ARG/Adios nonino - Astor Piazzolla.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Libertango - Astor Piazzolla"
 	file = "countries/ARG/Libertango - Astor Piazzolla.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "La Yumba - Osvaldo Pugliese"
 	file = "countries/ARG/La Yumba - Osvaldo Pugliese.ogg"
 	volume = 0.67
-	}
+}
 music = {
 	name = "Cambalache - Enrique Santos Discépolo"
 	file = "countries/ARG/Cambalache - Enrique Santos Discépolo.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Mi Buenos Aires Querido -  Carlos Gardel"
 	file = "countries/ARG/Mi Buenos Aires Querido -  Carlos Gardel.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Por una Cabeza - Carlos Gardel"
 	file = "countries/ARG/Por una Cabeza - Carlos Gardel.ogg"
 	volume = 0.70
-	}
+}
 music = {
 	name = "Uno - Roberto Goyeneche"
 	file = "countries/ARG/Uno - Roberto Goyeneche.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Solo Tu - Los 5 Latinos"
 	file = "countries/ARG/Solo Tu - Los 5 Latinos.ogg"
 	volume = 0.63
-	}
+}
 music = {
 	name = "Quiéreme Siempre - Los 5 Latinos"
 	file = "countries/ARG/Quiéreme Siempre - Los 5 Latinos.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Eres diferente - Los 5 Latinos"
 	file = "countries/ARG/Eres diferente - Los 5 Latinos.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Te He Prometido - Leo Dan"
 	file = "countries/ARG/Te He Prometido - Leo Dan.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Cómo Te Extraño Mi Amor - Leo Dan"
 	file = "countries/ARG/Cómo Te Extraño Mi Amor - Leo Dan.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Todo Cambia - Mercedes Sosa"
 	file = "countries/ARG/Todo Cambia - Mercedes Sosa.ogg"
 	volume = 0.75
-	}
+}
 music = {
 	name = "Argentino Hasta La Muerte - Roberto Rimoldi Fraga"
 	file = "countries/ARG/Argentino Hasta La Muerte - Roberto Rimoldi Fraga.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Revuelo De Ponchos Rojos - Roberto Rimoldi Fraga"
 	file = "countries/ARG/Revuelo De Ponchos Rojos - Roberto Rimoldi Fraga.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Zamba de mi esperanza - Jorge Cafrune"
 	file = "countries/ARG/Zamba de mi esperanza - Jorge Cafrune.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Gracias A La Vida - Mercedes Sosa"
 	file = "countries/ARG/Gracias A La Vida - Mercedes Sosa.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Porque Yo Te Amo - Sandro"
 	file = "countries/ARG/Porque Yo Te Amo - Sandro.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Gilito del Barrio Norte - María Elena Walsh (Anticommunist song)"
 	file = "countries/ARG/Gilito del Barrio Norte - María Elena Walsh (Anticommunist song).ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "La Felicidad - Palito Ortega"
 	file = "countries/ARG/La Felicidad - Palito Ortega.ogg"
 	volume = 0.63
-	}
+}
 music = {
 	name = "Marcha Peronista"
 	file = "countries/ARG/.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "CGT March - Syndicalist song"
 	file = "countries/ARG/CGT March - Syndicalist song.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Hymn to the General San Martín"
 	file = "countries/ARG/Hymn to the General San Martín.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "March Avenida De Las Camelias"
 	file = "countries/ARG/March Avenida De Las Camelias.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "March Aurora"
 	file = "countries/ARG/March Aurora.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "March of San Lorenzo"
 	file = "countries/ARG/March of San Lorenzo.ogg"
 	volume = 0.70
-	}
+}
 music = {
 	name = "March of the Argentine Army"
 	file = "countries/ARG/March of the Argentine Army.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "March Uno Grande"
 	file = "countries/ARG/March Uno Grande.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "March of the Liberty - Argentine anticommunist song"
 	file = "countries/ARG/March of the Liberty - Argentine anticommunist song.ogg"
 	volume = 0.75
-	}
+}
 music = {
 	name = "March of the Malvinas"
 	file = "countries/ARG/March of the Malvinas.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "March of the Malvinas - Instrumental"
 	file = "countries/ARG/March of the Malvinas - Instrumental.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Me Gusta el Sur - Argentine Patriotic Song"
 	file = "countries/ARG/Me Gusta el Sur - Argentine Patriotic Song.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Marcha Radical - UCR song"
 	file = "countries/ARG/Marcha Radical - UCR song.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "March "Volvé Perón" - Justicialist Song"
 	file = "countries/ARG/March Volvé Perón - Justicialist Song.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Marcha del retorno - Justicialist song"
 	file = "countries/ARG/Marcha del retorno - Justicialist song.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Todos al Frente - Argentine Justicialist Song"
 	file = "countries/ARG/Todos al Frente - Argentine Justicialist Song.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Vamos Vamos Argentina - 1978 World Cup Song"
 	file = "countries/ARG/Vamos Vamos Argentina - 1978 World Cup Song.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Don't Cry for Me Argentina - Nacha Guevara"
 	file = "countries/ARG/Don't Cry for Me Argentina - Nacha Guevara.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "My Beloved Motherland"
 	file = "countries/SOV/My Beloved Motherland.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "I Glorify the Revolution"
 	file = "countries/SOV/I Glorify the Revolution.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "March of the Communists Brigade"
 	file = "countries/SOV/March of the Communists Brigade.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Vadim Kazachenko - Yellow Roses"
 	file = "countries/SOV/80s/Vadim Kazachenko - Yellow Roses.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Forward Red Marines!"
 	file = "countries/SOV/Forward Red Marines!.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Hey, on the Road!"
 	file = "countries/SOV/Hey, on the Road!.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Soviet Folk Songs Medley"
 	file = "countries/SOV/Soviet Folk Songs Medley.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Great Liberation War Medley"
 	file = "countries/SOV/Great Liberation War Medley.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Oh, Wide Fields"
 	file = "countries/SOV/Oh, Wide Fields.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Georgy Sviridov - Time Forwards!"
 	file = "countries/SOV/Georgy Sviridov - Time Forwards!.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Lenin is Always With You"
 	file = "countries/SOV/Lenin is Always With You.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "The Last Train"
 	file = "countries/SOV/70s/The Last Train.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Anthem of the Soviet Union (1944)"
 	file = "countries/SOV/Anthem of the Soviet Union (1944).ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Anthem of the Soviet Union (1956)"
 	file = "countries/SOV/Anthem of the Soviet Union (1956).ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Project Anthem of the Russian Soviet Federative Socialist Republic"
 	file = "countries/SOV/Russia has grown stronger through the thunderstorms.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Grand Theft Auto IV - Soviet Connection"
 	file = "countries/SOV/Grand Theft Auto IV - Soviet Connection.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "The Capital Power is Destroying us"
 	file = "countries/SOV/The Capital Power is Destroying us.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "The Red Banner"
 	file = "countries/SOV/The Red Banner.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Roza Rymbayeva - Ephipany"
 	file = "countries/SOV/70s/Roza Rymbayeva - Ephipany.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "GSFG and the Erich-Weinert-Ensemble - Invincible and Legendary"
 	file = "countries/SOV/Invincible_and_Legendary.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Song of Korean People's Army"
 	file = "countries/KPA/Song of Korean People's Army.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Rise O Voices of Rhodesia - Instrumental"
 	file = "countries/rho/Rise O Voices of Rhodesia - Instrumental.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Glory to the Great Stalin!"
 	file = "countries/SOV/Glory to the Great Stalin!.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "It's you and me!"
 	file = "countries/SOV/80s/It's you and me!.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Song about Voroshilov"
 	file = "countries/SOV/Song about Voroshilov.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Glory!"
 	file = "countries/SOV/Glory!.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "March of Enthusiasts"
 	file = "countries/SOV/March of Enthusiasts.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Soviet Country"
 	file = "countries/SOV/Soviet Country.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Anthem of the Russian Soviet Federative Socialist Republic"
 	file = "countries/SOV/Anthem of the Russian Soviet Federative Socialist Republic.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Maksim Perepelitsa - Soldiers Let's Go!"
 	file = "countries/SOV/Maksim Perepelitsa - Soldiers, Let's Go!.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Red Alert 3 - Soviet March"
 	file = "countries/SOV/Red Alert 3 - Soviet March.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Ceremonial March - Glory to the Motherland"
 	file = "countries/SOV/Ceremonial March - Glory to the Motherland.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "First Baltic Fleet"
 	file = "countries/SOV/First Baltic Fleet.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Jubilee March - 25th Anniversary of the Worker's and Peasant's Red Army"
 	file = "countries/SOV/Jubilee March - 25th Anniversary of the Worker's and Peasant's Red Army.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Anthem of the Lithuanian Soviet Socialist Republic"
 	file = "countries/SOV/Anthem of the Lithuanian Soviet Socialist Republic.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Anthem of the Latvian Soviet Socialist Republic (Russian)"
 	file = "countries/SOV/Anthem of the Latvian Soviet Socialist Republic (Russian).ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Anthem of the Estonian Soviet Socialist Republic (Stalinist)"
 	file = "countries/SOV/Anthem of the Estonian Soviet Socialist Republic (Stalinist).ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Big Children's Choir - Young Guards"
 	file = "countries/SOV/70s/Big Children's Choir - Young Guards.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Sandi Patty - Star Spangled Banner"
 	file = "countries/USA/Sandi Patty - Star Spangled Banner.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "America The Beautiful"
 	file = "countries/USA/America The Beautiful.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Mormon Tabernacle Choir - Battle Hymn of the Republic"
 	file = "countries/USA/Mormon Tabernacle Choir - Battle Hymn of the Republic.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Patriotic March"
 	file = "countries/JAP/Patriotic March.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Neon Genesis Evangelion - Come Sweet Death"
 	file = "countries/JAP/Neon Genesis Evangelion - Come Sweet Death.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "March of the Man of War"
 	file = "countries/JAP/March of the Man of War.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "March of the Japanese Self-Defense Forces"
 	file = "countries/JAP/March of the Japanese Self-Defense Forces.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Koichi Miura - Patriotic March"
 	file = "countries/JAP/Koichi Miura - Patriotic March.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "National Anthem of the Republic of Korea in Exile"
 	file = "countries/kor/National Anthem of the Republic of Korea in Exile.ogg"
 	volume = 0.65
-	}
+}
 music = {
 	name = "Robert Shaw Chorale - My Country, 'Tis of Thee"
 	file = "countries/USA/My Country, 'Tis of Thee.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "The Boston Pops - This Land Is Your Land"
 	file = "countries/USA/The Boston Pops - This Land Is Your Land.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "State Anthem of Louisiana"
 	file = "countries/USA/State Anthem of Louisiana.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "You're a Grand Old Flag"
 	file = "countries/USA/You're a Grand Old Flag.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "The Stars and Stripes Forever"
 	file = "countries/USA/The Stars and Stripes Forever.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Columbia, the Gem of the Ocean"
 	file = "countries/USA/Columbia, the Gem of the Ocean.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "State Anthem of California"
 	file = "countries/USA/State Anthem of California.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "State Anthem of West Virginia"
 	file = "countries/USA/State Anthem of West Virginia.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "State Anthem of Connecticut"
 	file = "countries/USA/State Anthem of Connecticut.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "State Anthem of Maryland"
 	file = "countries/USA/State Anthem of Maryland.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "State Anthem of Iowa"
 	file = "countries/USA/State Anthem of Iowa.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "God Bless America"
 	file = "countries/USA/God Bless America.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Battle Cry Of Freedom"
 	file = "countries/USA/Battle Cry Of Freedom.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "National Anthem of the Islamic Republic of Iran"
 	file = "countries/PER/National Anthem of the Islamic Republic of Iran.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Kay Kyser - Jingle Jangle Jingle"
 	file = "countries/USA/50s/Kay Kyser - Jingle Jangle Jingle.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Elton Britt - Uranium Fever"
 	file = "countries/USA/50s/Elton Britt - Uranium Fever.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Claire - Fly Me To The Moon"
 	file = "countries/USA/50s/Claire - Fly Me To The Moon.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Guy Mitchell - Heartache by The Number"
 	file = "countries/USA/50s/Guy Mitchell - Heartache by The Number.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Vera Keyes - Begin Again"
 	file = "countries/USA/50s/Vera Keyes - Begin Again.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Lee Greenwood - God Bless the USA"
 	file = "countries/USA/Lee Greenwood - God Bless the USA.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Don McLean - American Pie"
 	file = "countries/USA/Don McLean - American Pie.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Neon Genesis Evangelion - Cruel Angel's Thesis"
 	file = "countries/JAP/Neon Genesis Evangelion - Cruel Angel's Thesis.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "After School Tea Time - We Touched an Angel!"
 	file = "countries/JAP/After School Tea Time - We Touched an Angel!.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "After School Tea Time - Fluffy-Fluffy Time"
 	file = "countries/JAP/After School Tea Time - Fluffy-Fluffy Time.ogg"
 	volume = 0.85
-	}
+}
 #radio republik indonesia
 music = {
 	name = "Great Indonesia"
 	file = "countries/INO/Great Indonesia.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Anneke Gronloh - The Call of Palm Islands"
 	file = "countries/INO/Anneke Gronloh - The Call of Palm Islands.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Beat England and America"
 	file = "countries/INO/Beat England and America.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "March of the Motherland Wingman"
 	file = "countries/INO/March of the Motherland Wings.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Twilite Orchestra - March of Pancasila"
 	file = "countries/INO/Twilite Orchestra - March of Pancasila.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Nasakom United"
 	file = "countries/INO/Nasakom United.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Elfa's Singers - Glory to Indonesia"
 	file = "countries/INO/Elfa's Singers - Glory to Indonesia.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Hymn to the Party"
 	file = "countries/INO/Hymn to the Party.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Armed Forces Medley - Republic of Indonesia"
 	file = "countries/INO/Armed Forces Medley - Republic of Indonesia.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Oh Homeland! - Anthem of Nahdlatul Ulama"
 	file = "countries/INO/Oh Homeland! - Anthem of Nahdlatul Ulama.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Twilite Orchestra - Arise Indonesian Youth"
 	file = "countries/INO/Twilite Orchestra - Arise Indonesian Youth.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Long Live Soedirman!"
 	file = "countries/INO/Long Live Soedirman!.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Tety Kadi - Along the Memory Lane"
 	file = "countries/INO/Tety Kadi - Along the Memory Lane.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Titiek Puspa - Night Butterfly"
 	file = "countries/INO/Titiek Puspa - Night Butterfly.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Tommy J. Pissa - In This Part of Town"
 	file = "countries/INO/Tommy J. Pissa - In This Part of Town.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Rani - Moon Orchid"
 	file = "countries/INO/Rani - Moon Orchid.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Betharia Sonata - Heartache"
 	file = "countries/INO/Betharia Sonata - Heartache.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Obbie Messakh - A School Love Story"
 	file = "countries/INO/Obbie Messakh - A School Love Story.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Dian Piesesha - Tying Our Hearts"
 	file = "countries/INO/Dian Piesesha - Tying Our Hearts.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Diana Nasution - Hating But Misses You"
 	file = "countries/INO/Diana Nasution - Hating But Misses You.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Rita Effendy - My Homeland"
 	file = "countries/INO/Rita Effendy - My Homeland.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Leo Kristi - Song of the Free Land"
 	file = "countries/INO/Leo Kristi - Song of the Free Land.ogg"
 	volume = 0.85
-	}
+}
+music = {
+	name = "March Gerwani"
+	file = "countries/INO/March Gerwani.ogg"
+	volume = 0.85
+}
+music = {
+	name = "The Blood of the People"
+	file = "countries/INO/The Blood of the People.ogg"
+	volume = 0.85
+}
 music = {
 	name = "Marina Elsera - The One I Love Is A Liar"
 	file = "countries/INO/Marina Elsera - The One I Love Is A Liar.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Betharia Sonata - You Weren't Made for Me"
 	file = "countries/INO/Betharia Sonata - You Weren't Made for Me.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Great Indonesia (Instrumental)"
 	file = "countries/INO/Great Indonesia (Instrumental).ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Fallen Flowers"
 	file = "countries/INO/Fallen Flowers.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "President Soekarno - Let's Have Fun!"
 	file = "countries/INO/President Soekarno - Let's Have Fun!.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "March of the Siliwangi Division"
 	file = "countries/INO/March of the Siliwangi Division.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "I Saw My Motherland"
 	file = "countries/INO/I Saw My Motherland.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Suyoso Karsono - Happy Eid Al-Fitr"
 	file = "countries/INO/Suyoso Karsono - Happy Eid Al-Fitr.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Sheila Majid - Sunlight"
 	file = "countries/INO/Sheila Majid - Sunlight.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Cheering and Joyful"
 	file = "countries/INO/Cheering and Joyful.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Hello-Hello Bandung"
 	file = "countries/INO/Hello-Hello Bandung.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Twilite Orchestra - Independence Day"
 	file = "countries/INO/Twilite Orchestra - Independence Day.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Twilite Orchestra - Grateful"
 	file = "countries/INO/Twilite Orchestra - Grateful.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Our Mother Kartini"
 	file = "countries/INO/Our Mother Kartini.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Internationale - Indonesian"
 	file = "countries/INO/Internationale - Indonesian.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Twilite Orchestra - For You Heroes"
 	file = "countries/INO/Twilite Orchestra - For You Heroes.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Lilis Surjani - For His Highness President Soekarno"
 	file = "countries/INO/Lilis Surjani - For His Highness President Soekarno.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Twilite Orchestra - One Native Land, One Nation"
 	file = "countries/INO/Twilite Orchestra - One Native Land, One Nation.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Johan Untung - Armed Forces Enters The Village"
 	file = "countries/INO/Johan Untung - Armed Forces Enters The Village.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Gesang - Solo River"
 	file = "countries/INO/Gesang - Solo River.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Masyumi Calls - Anthem of Masyumi"
 	file = "countries/INO/Masyumi Calls - Anthem of Masyumi.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "The Black Brothers Papua - Suffering Without End"
 	file = "countries/INO/The Black Brothers Papua - Suffering Without End.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Hendri Rotinsulu - Pair of Eyeballs"
 	file = "countries/INO/Hendri Rotinsulu - Pair of Eyeballs.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Warkop DKI - Coffee Shop"
 	file = "countries/INO/Warkop DKI - Coffee Shop.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Titiek Puspa - Our Father Suharto"
 	file = "countries/INO/Titiek Puspa - Our Father Suharto.ogg"
 	volume = 0.85
-	}
+}
 #Radio Free Europe
 music = {
 	name = "Long Live Belarus"
 	file = "countries/RFE/Long Live Belarus.ogg"
 	volume = 0.85
-	}
+}
 #Radio Singapore
 music = {
 	name = "Onward Singapore - National Anthem of Singapore"
 	file = "countries/SGP/Onward Singapore - National Anthem of Singapore.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "The Friday Girls - I Won't Miss You"
 	file = "countries/SGP/The Friday Girls - I Won't Miss You.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Naomi and The Boys - As Life Goes On"
 	file = "countries/SGP/Naomi and The Boys - As Life Goes On.ogg"
 	volume = 0.85
-	}
+}
 #Radio Korea
 music = {
 	name = "National Anthem of the Republic of Korea"
 	file = "countries/kor/National Anthem of the Republic of Korea.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Men Wearing Eight Point Covers"
 	file = "countries/kor/South Korean Military Song - Men Wearing Eight Point Covers.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Sleep Well My Fellow"
 	file = "countries/kor/Sleep Well My Fellow.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "March of the Arirang Nation"
 	file = "countries/kor/March of the Arirang Nation.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Song of June 25"
 	file = "countries/kor/Song of June 25.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Republic of Korea Armed Forces Medley"
 	file = "countries/kor/Republic of Korea Armed Forces Medley.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "March of the Korean Liberation Army"
 	file = "countries/kor/March of the Korean Liberation Army.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Internationale - Republic of Korea"
 	file = "countries/kor/Internationale - Republic of Korea.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "The Torch of Eradicating Communism"
 	file = "countries/kor/The Torch of Eradicating Communism.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Dixie"
 	file = "countries/USA/Dixie.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "C.W. McCall - Convoy"
 	file = "countries/USA/C.W. McCall - Convoy.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Queen - Radio Ga Ga"
 	file = "countries/USA/Queen - Radio Ga Ga.ogg"
 	volume = 0.85
-	}
+}
 music = {
 	name = "Johnny Cash - General Lee"
 	file = "countries/USA/Johnny Cash - General Lee.ogg"
 	volume = 0.85
-	}
+}
