@@ -4,62 +4,62 @@ music = {
 	volume = 0.65
 }
 music = {
-	name = "Taiga_The_Gods_Passacaglia"
+	name = "The Gods Passacaglia"
 	file = "generic/post_war/The_Gods_Passacaglia.ogg"
 	volume = 0.65
 }
 music = {
-	name = "Taiga_The_Third_World"
+	name = "The Third World"
 	file = "generic/pre_war/The_Third_World.ogg"
 	volume = 0.65
 }
 music = {
-	name = "Taiga_Money_Is_Dancing_Low"
+	name = "Money Is Dancing (Low)"
 	file = "generic/economics/Money_Is_Dancing_Low.ogg"
 	volume = 0.65
 }
 music = {
-	name = "Taiga_The_Century_Of_Film_Low"
+	name = "The Century of Film (Low)"
 	file = "generic/post_war/The_Century_Of_Film_Low.ogg"
 	volume = 0.65
 }
 music = {
-	name = "Taiga_From_the_Orient"
+	name = "From the Orient"
 	file = "generic/third_world/From_the_Orient.ogg"
 	volume = 0.65
 }
 music = {
-	name = "Taiga_Cinematograph_2"
+	name = "Cinematograph II"
 	file = "generic/economics/Cinematograph_2.ogg"
 	volume = 0.65
 }
 music = {
-	name = "Taiga_The_Century_Of_Film"
+	name = "The Century of Film"
 	file = "generic/post_war/The_Century_Of_Film.ogg"
 	volume = 0.65
 }
 music = {
-	name = "Taiga_Money_Is_Dancing"
+	name = "Money Is Dancing"
 	file = "generic/crisis/Money_Is_Dancing.ogg"
 	volume = 0.65
 }
 music = {
-	name = "Taiga_Trait_of_Time"
+	name = "Trait of Time"
 	file = "generic/post_war/Trait_of_Time.ogg"
 	volume = 0.65
 }
 music = {
-	name = "Taiga_The_Third_World_2"
+	name = "The Third World II"
 	file = "generic/third_world/The_Third_World_2.ogg"
 	volume = 0.65
 }
 music = {
-	name = "Taiga_The_Last_Pirate"
+	name = "The Last Pirate"
 	file = "generic/pre_war/The_Last_Pirate.ogg"
 	volume = 0.65
 }
 music = {
-	name = "Taiga_Crazy_Shadow"
+	name = "Crazy Shadow"
 	file = "generic/crisis/Crazy_Shadow.ogg"
 	volume = 0.65
 }
